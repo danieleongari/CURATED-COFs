@@ -232,9 +232,9 @@ CoRE-COFs ID; CoRE-COF-v2.0 ID (Tong et al.); name; dimension; atom types; refer
 16390N; 272; TThPP; 2D; H,C,N; ACS Appl. Mater. Inter., 2016, 8, 5366-5375; none; alligned to xy plan, replicated 2x in C direction;
 16400N; 252; TPE-Ph COF; 2D; H,B,C,O; J. Am. Chem. Soc., 2016, 138, 5797-5800; none; replicated 2x in C direction;
 16410C; 113; EB-COF:Br; 2D; H,C,N,O,Br; J. Am. Chem. Soc., 2016, 138, 5897-5903; none; alligned to xy plan, replicated 2x in C direction;
-16411C; 114; EB-COF:Cl; 2D; H,C,N,O,Br; J. Am. Chem. Soc., 2016, 138, 5897-5903; none; alligned to xy plan, replicated 2x in C direction;
-16412C; 115; EB-COF:F; 2D; H,C,N,O,Br; J. Am. Chem. Soc., 2016, 138, 5897-5903; none; alligned to xy plan, replicated 2x in C direction;
-16413C; 116; EB-COF:I; 2D; H,C,N,O,Br; J. Am. Chem. Soc., 2016, 138, 5897-5903; none; alligned to xy plan, replicated 2x in C direction;
+16411C; 114; EB-COF:Cl; 2D; H,C,N,O,Cl; J. Am. Chem. Soc., 2016, 138, 5897-5903; none; substituted Br with Cl, alligned to xy plan, replicated 2x in C direction;
+16412C; 115; EB-COF:F; 2D; H,C,N,O,F; J. Am. Chem. Soc., 2016, 138, 5897-5903; none; substituted Br with F, alligned to xy plan, replicated 2x in C direction;
+16413C; 116; EB-COF:I; 2D; H,C,N,O,I; J. Am. Chem. Soc., 2016, 138, 5897-5903; none; substituted Br with I, alligned to xy plan, replicated 2x in C direction;
 16420N; 246; TpBD-NHCOCH3; 2D; H,C,N,O; Chem. Mater., 2016, 28, 626-631; none; UFF optimized to fix overlapping H, replicated 2x in C direction;
 16430N; 061; COF-JLU3; 2D; H,C,N,O; Chem. Commun., 2016, 52, 6613-6616; none; alligned to xy plan, replicated 2x in C direction;
 16440N; 240; TPB-DMTP-COF; 2D; H,C,N,O; Nat. Mater., 2016, 15, 722-727; none; alligned to xy plan, replicated 2x in C direction;
