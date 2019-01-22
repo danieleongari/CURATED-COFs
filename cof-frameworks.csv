@@ -192,8 +192,8 @@ CoRE-COFs ID; CoRE-COF-v2.0 ID (Tong et al.); name; dimension; atom types; refer
 16174N; 194; Py-3PE COF; 2D; H,C,N,O; J. Am. Chem. Soc., 2016, 138, 16703-16710 ; none; replicated 2x in C direction;
 16180C; 129; ICOF-1; 2D; H,B,C,N,O; Angew. Chem. Int. Ed., 2016, 55, 1737-1741; none; alligned to xy plan, replicated 2x in C direction;
 16181C; 130; ICOF-2; 2D; H,Li,B,C,O; Angew. Chem. Int. Ed., 2016, 55, 1737-1741; none; replicated 2x in C direction;
-16190N; 207; SIOC-COF-3-AB; 2D; H,C,N; Chem. Eur. J., 2016, 22, 17784 - 17789; none; none;
-16191N; 208; SIOC-COF-4-AB; 2D; H,C,N; Chem. Eur. J., 2016, 22, 17784 - 17789; none; none;
+16190N; 207; SIOC-COF-3-AB; 2D; H,C,N; Chem. Eur. J., 2016, 22, 17784-17789; none; none;
+16191N; 208; SIOC-COF-4-AB; 2D; H,C,N; Chem. Eur. J., 2016, 22, 17784-17789; none; none;
 16200N; 160; NUS-10; 2D; H,C,N,O,S; ACS Appl. Mater. Inter., 2016, 8, 18505-18512; none; replicated 2x in C direction;
 16201N; 165; NUS-9; 2D; H,C,N,O,S; ACS Appl. Mater. Inter., 2016, 8, 18505-18512; none; replicated 2x in C direction;
 16210N; 222; Tb-DANT-COF; 2D; H,C,N,O; J. Mater. Chem. A, 2016, 4, 18621-18627; none; replicated 2x in C direction;
