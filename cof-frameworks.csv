@@ -154,7 +154,6 @@ CoRE-COFs ID; CoRE-COF-v2.0 ID (Tong et al.); name; dimension; atom types; refer
 16032N; 140; LZU-76; 2D; H,C,N,O; J. Am. Chem. Soc., 2016, 138, 11489-11492; none; replicated 2x in C direction;
 16040N; 209; SIOC-COF-5; 2D; H,C,N; Chem. Commun., 2016, 52, 11704-11707; none; alligned to xy plan, replicated 2x in C direction;
 16041N; 210; SIOC-COF-6; 2D; H,C,N; Chem. Commun., 2016, 52, 11704-11707; none; replicated 2x in C direction;
-16042N; 211; SIOC-COF-7; 2D; H,C,N; Chem. Commun., 2016, 52, 11704-11707; none; replicated 2x in C direction;
 16050N; 141; MC-COF-NiPc-E1E7; 2D; H,B,C,N,O,Ni; Nat. Commun., 2016, 7, 12325; none; replicated 2x in C direction;
 16051N; 142; MC-COF-TP-E11E22; 2D; H,B,C,N,O,S; Nat. Commun., 2016, 7, 12325; none; replicated 2x in C direction;
 16052N; 143; MC-COF-TP-E11E71; 2D; H,B,C,N,O,S; Nat. Commun., 2016, 7, 12325; none; alligned to xy plan, replicated 2x in C direction;
@@ -282,6 +281,7 @@ CoRE-COFs ID; CoRE-COF-v2.0 ID (Tong et al.); name; dimension; atom types; refer
 17200N; miss; COF-112; 3D; H,B,C,N,F,Co; J. Am. Chem. Soc., 2017, 139, 13166-13172; none; none;
 17210N; miss; Tp-Ttba; 2D; H,C,N,O; J. Am. Chem. Soc., 2017, 139, 13083-13091; none; replicated 2x in C direction;
 17220N; miss; Thio-COF; 2D; H,C,N,O,S; J. Am. Chem. Soc., 2017, 139, 17082-17088; none; removed H from CN, replicated 2x in C direction;
+17230N; 211; SIOC-COF-7; 2D; H,C,N; Chem. Commun., 2017, 53, 7266-7269; none; replicated 2x in C direction;
 18000C; miss; Si-COF-5-air; 3D; H,C,O,Na,Si; J. Am. Chem. Soc., 2018, 140, 5330-5333; none; none;
 18001C; miss; Si-COF-5; 3D; H,C,O,Na,Si; J. Am. Chem. Soc., 2018, 140, 5330-5333; none; none;
 18010N; miss; CCOF-5; 3D; H,C,N,O; J. Am. Chem. Soc., 2018, 140, 892-895; none; none;
