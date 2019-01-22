@@ -210,7 +210,7 @@ CoRE-COFs ID; CoRE-COF-v2.0 ID (Tong et al.); name; dimension; atom types; refer
 16271N; 010; 4PE-2P; 2D; H,C,N; Nat. Chem., 2016, 8, 310-316; none; replicated 2x in C direction;
 16272N; 011; 4PE-3P; 2D; H,C,N; Nat. Chem., 2016, 8, 310-316; none; replicated 2x in C direction;
 16273N; 012; 4PE-TT; 2D; H,C,N,S; Nat. Chem., 2016, 8, 310-316; none; replicated 2x in C direction;
-16280N; 168; PC-COF; 2D; H,C,N,Cl; Polym. Chem., 2016, 7, 3392-3397; none; alligned to xy plan, replicated 2x in C direction;
+16280C; 168; PC-COF; 2D; H,C,N,Cl; Polym. Chem., 2016, 7, 3392-3397; none; alligned to xy plan, replicated 2x in C direction;
 16290N; 054; COF-505; 3D; H,C,N; Science, 2016, 351, 361-365; none; Removed Cu(I) and BF4-;
 16300N; 219; TAPB-PDA COF; 2D; H,C,N; Chem. Commun., 2016, 52, 3690-3693; none; replicated 2x in C direction;
 16310N; 031; CC-TAPH-COF; 2D; H,C,N,O; RSC Adv., 2016, 6, 38774-38781; none; Removed 2H from porph, added missing H on benz, UFF opt overlapping, alligned to xy plan, replicated 2x in C direction;
