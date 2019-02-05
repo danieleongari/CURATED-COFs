@@ -314,3 +314,8 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 18120N;SI;3D-IL-COF-1;3D;H,C,N;J. Am. Chem. Soc., 2018, 140, 4494-4498;none;none
 18121N;SI;3D-IL-COF-2;3D;H,C,N;J. Am. Chem. Soc., 2018, 140, 4494-4498;none;none
 18122N;SI;3D-IL-COF-3;3D;H,C,N;J. Am. Chem. Soc., 2018, 140, 4494-4498;none;none
+18130N;CSD, 1846135;COF-303;3D;H,C,N;Science, 2018, 361, 48-52;none;none
+18131N;CSD, 1846136;COF-300_hydrate;3D;H,C,N;Science, 2018, 361, 48-52;none;removed water solvent
+18132N;CSD, 1846138;COF-300;3D;H,C,N;Science, 2018, 361, 48-52;09000N;none
+18133N;CSD, 1846139;LZU-111;3D;H,C,N;Science, 2018, 361, 48-52;none;none
+18134N;CSD, 1846140;LZU-79;3D;H,C,N;Science, 2018, 361, 48-52;none;fixed partial occupation for the ligand
