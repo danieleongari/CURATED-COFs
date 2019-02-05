@@ -31,8 +31,9 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 11031N;tong-v2, 056;COF-66;2D;H,B,C,N,O;Chem. Mater., 2011, 23, 4094-4097;none;alligned to xy plan, replicated 2x in C direction
 12000N;tong-v2, 255;TpPa-1;2D;H,C,N,O;J. Am. Chem. Soc., 2012, 134, 19524-19527;13051N;replicated 2x in C direction
 12001N;tong-v2, 256;TpPa-2;2D;H,C,N,O;J. Am. Chem. Soc., 2012, 134, 19524-19527;none;replicated 2x in C direction
-12010N;tong-v2, 118;H2P-COF;2D;H,C,N;Angew. Chem. Int. Ed., 2012, 51, 2618-2622;none;replicated 2x in C direction
-12011N;tong-v2, 275;ZnP-COF;2D;H,B,C,N,O;Angew. Chem. Int. Ed., 2012, 51, 2618-2622;none;replicated 2x in C direction
+12010N;SI;H2P-COF;2D;H,B,C,N,O;Angew. Chem. Int. Ed., 2012, 51, 2618-2622;none;replicated 2x in C direction
+12011N;SI;ZnP-COF;2D;H,B,C,N,O,Zn;Angew. Chem. Int. Ed., 2012, 51, 2618-2622;none;replicated 2x in C direction
+12012N;SI;CuP-COF;2D;H,B,C,N,O,Cu;Angew. Chem. Int. Ed., 2012, 51, 2618-2622;none;replicated 2x in C direction
 12020N;tong-v2, 280;ZnPc-Py;2D;H,B,C,N,O,Zn;Angew. Chem. Int. Ed., 2012, 51, 2623-2627;none;replicated 2x in C direction
 12021N;tong-v2, 276;ZnPc-COF;2D;H,B,C,N,O,Ni;Angew. Chem. Int. Ed., 2012, 51, 2623-2627;none;alligned to xy plan, replicated 2x in C direction
 12022N;tong-v2, 277;ZnPc-DPB;2D;H,B,C,N,O,Zn;Angew. Chem. Int. Ed., 2012, 51, 2623-2627;none;replicated 2x in C direction
@@ -278,7 +279,7 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 17181N;tong-v2, 227;TFB-COF;2D;H,C,N,O;ChemSusChem, 2017, 10, 921-929;none;replicated 2x in C direction
 17190N;SI;TPA-COF-2-AA;2D;H,C,N;J. Am. Chem. Soc., 2017, 139 , 8698-8704;none;replicated 2x in C direction
 17191N;SI;TPA-COF;2D;H,C,N;J. Am. Chem. Soc., 2017, 139 , 8698-8704;none;replicated 2x in C direction
-17200N;SI;COF-112;3D;H,B,C,N,F,Co;J. Am. Chem. Soc., 2017, 139, 13166-13172;none;none
+17200C;SI;COF-112;3D;H,B,C,N,F,Co;J. Am. Chem. Soc., 2017, 139, 13166-13172;none;none
 17210N;SI;Tp-Ttba;2D;H,C,N,O;J. Am. Chem. Soc., 2017, 139, 13083-13091;none;replicated 2x in C direction
 17220N;SI;Thio-COF;2D;H,C,N,O,S;J. Am. Chem. Soc., 2017, 139, 17082-17088;none;removed H from CN, replicated 2x in C direction
 17230N;tong-v2, 211;SIOC-COF-7;2D;H,C,N;Chem. Commun., 2017, 53, 7266-7269;none;replicated 2x in C direction
