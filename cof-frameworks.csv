@@ -75,8 +75,8 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 13141N;tong-v2, 216;T-COF 2;2D;H,B,C,O,S;Proc. Natl. Acad. Sci., 2013, 110, 4923-4928;none;replicated 2x in C direction
 13142N;tong-v2, 217;T-COF 3;2D;H,B,C,O,S;Proc. Natl. Acad. Sci., 2013, 110, 4923-4928;none;replicated 2x in C direction
 13150N;tong-v2, 249;TpBD;2D;H,C,N,O;J. Am. Chem. Soc., 2013, 135, 5328-5331;16320N;replicated 2x in C direction
-13160N;tong-v2, 078;CuP-Ph COF;2D;H,B,C,N,O,Cu;J. Am. Chem. Soc., 2013, 135, 546-549;none;replicated 2x in C direction
-13161N;tong-v2, 080;CuP-TFPh COF;2D;H,B,C,N,O,F,Cu;J. Am. Chem. Soc., 2013, 135, 546-549;none;replicated 2x in C direction
+13160N;tong-v2, 078;CuP-Ph COF;2D;H,C,N,O,Cu;J. Am. Chem. Soc., 2013, 135, 546-549;none;replicated 2x in C direction, fixed chemistry according to paper
+13161N;tong-v2, 080;CuP-TFPh COF;2D;H,C,N,O,F,Cu;J. Am. Chem. Soc., 2013, 135, 546-549;none;replicated 2x in C direction,  fixed chemistry according to paper
 13170N;tong-v2, 067;CoPc-PorDBA;2D;H,B,C,N,O;CrystEngComm, 2013, 15, 7157;none;alligned to xy plan, replicated 2x in C direction
 13180N;tong-v2, 152;NPN-1;3D;H,C,N,O;Nat. Chem., 2013, 5, 830-834;none;none
 13181N;tong-v2, 153;NPN-2;3D;H,C,N,O,Si;Nat. Chem., 2013, 5, 830-834;none;none
