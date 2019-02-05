@@ -10,8 +10,8 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 07013N3;tong-v2, 040;COF-108;3D;H,B,C,O;Science, 2007, 316, 268-272;none;none
 08000N3;tong-v2, 045;COF-202;3D;H,B,C,O,Si;J. Am. Chem. Soc., 2008, 130, 11872-11873;none;none
 08010N2;tong-v2, 041;COF-11Å;2D;H,B,C,O;Adv. Mater., 2008, 20, 2741-2746;none;replicated 2x in C direction
-08011N2;tong-v2, 042;COF-14Å;2D;H,B,C,O;Adv. Mater., 2008, 20, 2741-2746;none;alligned to xy plan, replicated 2x in C direction
-08012N2;tong-v2, 043;COF-16Å;2D;H,B,C,O;Adv. Mater., 2008, 20, 2741-2746;none;alligned to xy plan, replicated 2x in C direction
+08011N2;tong-v2, 042;COF-14Å;2D;H,B,C,O;Adv. Mater., 2008, 20, 2741-2746;none;aligned to xy plan, replicated 2x in C direction
+08012N2;tong-v2, 043;COF-16Å;2D;H,B,C,O;Adv. Mater., 2008, 20, 2741-2746;none;aligned to xy plan, replicated 2x in C direction
 08013N2;tong-v2, 044;COF-18Å;2D;H,B,C,O;Adv. Mater., 2008, 20, 2741-2746;none;replicated 2x in C direction
 08020N2;tong-v2, 073;CTF-1;2D;H,C,N;Angew. Chem. Int. Ed., 2008, 47, 3450-3453;none;replicated 2x in C direction
 08030N2;tong-v2, 235;TP-COF;2D;H,B,C,O;Angew. Chem. Int. Ed., 2008, 47, 8826-8830;none;replicated 2x in C direction
@@ -27,15 +27,15 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 11003N2;tong-v2, 052;COF-43-gra;2D;H,C,N,O;J. Am. Chem. Soc., 2011, 133, 11478-11481;none;none
 11010N2;tong-v2, 001;2D-NiPc-BTDA-COF;2D;H,B,C,N,O,S,Ni;J. Am. Chem. Soc., 2011, 133, 14510-14513;none;replicated 2x in C direction
 11020N2;tong-v2, 063;COF-LZU1;2D;H,C,N;J. Am. Chem. Soc., 2011, 133, 19816-19822;none;replicated 2x in C direction
-11030N2;tong-v2, 048;COF-366;2D;H,C,N;Chem. Mater., 2011, 23, 4094-4097;none;alligned to xy plan
-11031N2;tong-v2, 056;COF-66;2D;H,B,C,N,O;Chem. Mater., 2011, 23, 4094-4097;none;alligned to xy plan, replicated 2x in C direction
+11030N2;tong-v2, 048;COF-366;2D;H,C,N;Chem. Mater., 2011, 23, 4094-4097;none;aligned to xy plan
+11031N2;tong-v2, 056;COF-66;2D;H,B,C,N,O;Chem. Mater., 2011, 23, 4094-4097;none;aligned to xy plan, replicated 2x in C direction
 12000N2;tong-v2, 255;TpPa-1;2D;H,C,N,O;J. Am. Chem. Soc., 2012, 134, 19524-19527;13051N;replicated 2x in C direction
 12001N2;tong-v2, 256;TpPa-2;2D;H,C,N,O;J. Am. Chem. Soc., 2012, 134, 19524-19527;none;replicated 2x in C direction
 12010N2;SI;H2P-COF;2D;H,B,C,N,O;Angew. Chem. Int. Ed., 2012, 51, 2618-2622;none;replicated 2x in C direction
 12011N2;SI;ZnP-COF;2D;H,B,C,N,O,Zn;Angew. Chem. Int. Ed., 2012, 51, 2618-2622;none;replicated 2x in C direction
 12012N2;SI;CuP-COF;2D;H,B,C,N,O,Cu;Angew. Chem. Int. Ed., 2012, 51, 2618-2622;none;replicated 2x in C direction
 12020N2;tong-v2, 280;ZnPc-Py;2D;H,B,C,N,O,Zn;Angew. Chem. Int. Ed., 2012, 51, 2623-2627;none;replicated 2x in C direction
-12021N2;tong-v2, 276;ZnPc-COF;2D;H,B,C,N,O,Ni;Angew. Chem. Int. Ed., 2012, 51, 2623-2627;none;alligned to xy plan, replicated 2x in C direction
+12021N2;tong-v2, 276;ZnPc-COF;2D;H,B,C,N,O,Ni;Angew. Chem. Int. Ed., 2012, 51, 2623-2627;none;aligned to xy plan, replicated 2x in C direction
 12022N2;tong-v2, 277;ZnPc-DPB;2D;H,B,C,N,O,Zn;Angew. Chem. Int. Ed., 2012, 51, 2623-2627;none;replicated 2x in C direction
 12023N2;tong-v2, 278;ZnPc-NDI;2D;H,B,C,N,O,Zn;Angew. Chem. Int. Ed., 2012, 51, 2623-2627;none;replicated 2x in C direction
 12024N2;tong-v2, 279;ZnPc-PPE;2D;H,B,C,N,O,Zn;Angew. Chem. Int. Ed., 2012, 51, 2623-2627;none;replicated 2x in C direction
@@ -70,7 +70,7 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 13120N2;tong-v2, 170;PCTF-1;2D;H,C,N;Chem. Commun., 2013, 49, 3961;none;replicated 2x in C direction
 13121N2;tong-v2, 171;PCTF-2;2D;H,C,N;Chem. Commun., 2013, 49, 3961;none;replicated 2x in C direction
 13122N2;tong-v2, 172;PCTF-3;2D;H,C,N;Chem. Commun., 2013, 49, 3961;none;replicated 2x in C direction
-13123N2;tong-v2, 173;PCTF-4;2D;H,C,N,S;Chem. Commun., 2013, 49, 3961;none;alligned to xy plan, replicated 2x in C direction
+13123N2;tong-v2, 173;PCTF-4;2D;H,C,N,S;Chem. Commun., 2013, 49, 3961;none;aligned to xy plan, replicated 2x in C direction
 13130N2;tong-v2, 111;DTP-ANDI-COF;2D;H,B,C,N,O;Chem. Sci., 2013, 4, 4505;none;replicated 2x in C direction
 13140N2;tong-v2, 215;T-COF 1;2D;H,B,C,O,S;Proc. Natl. Acad. Sci., 2013, 110, 4923-4928;none;replicated 2x in C direction
 13141N2;tong-v2, 216;T-COF 2;2D;H,B,C,O,S;Proc. Natl. Acad. Sci., 2013, 110, 4923-4928;none;replicated 2x in C direction
@@ -78,7 +78,7 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 13150N2;tong-v2, 249;TpBD;2D;H,C,N,O;J. Am. Chem. Soc., 2013, 135, 5328-5331;16320N;replicated 2x in C direction
 13160N2;tong-v2, 078;CuP-Ph COF;2D;H,C,N,O,Cu;J. Am. Chem. Soc., 2013, 135, 546-549;none;replicated 2x in C direction, fixed chemistry according to paper
 13161N2;tong-v2, 080;CuP-TFPh COF;2D;H,C,N,O,F,Cu;J. Am. Chem. Soc., 2013, 135, 546-549;none;replicated 2x in C direction,  fixed chemistry according to paper
-13170N2;tong-v2, 067;CoPc-PorDBA;2D;H,B,C,N,O;CrystEngComm, 2013, 15, 7157;none;alligned to xy plan, replicated 2x in C direction
+13170N2;tong-v2, 067;CoPc-PorDBA;2D;H,B,C,N,O;CrystEngComm, 2013, 15, 7157;none;aligned to xy plan, replicated 2x in C direction
 13180N3;tong-v2, 152;NPN-1;3D;H,C,N,O;Nat. Chem., 2013, 5, 830-834;none;none
 13181N3;tong-v2, 153;NPN-2;3D;H,C,N,O,Si;Nat. Chem., 2013, 5, 830-834;none;none
 13182N3;tong-v2, 154;NPN-3;3D;H,C,N,O;Nat. Chem., 2013, 5, 830-834;none;none
@@ -97,12 +97,12 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 14073N2;tong-v2, 200;Py-DHPh COF;2D;H,C,N,O;Chem. Commun., 2014, 50, 6161;none;replicated 2x in C direction
 14080N2;tong-v2, 018;AzO-COF;2D;H,B,C,N,O;CrystEngComm, 2014, 16, 6547;none;replicated 2x in C direction
 14090N2;tong-v2, 232;Tp-Azo;2D;H,C,N,O;J. Am. Chem. Soc., 2014, 136, 6570-6573;none;replicated 2x in C direction
-14091N2;tong-v2, 239;Tp-Stb;2D;H,C,N,O;J. Am. Chem. Soc., 2014, 136, 6570-6573;none;alligned to xy plan, replicated 2x in C direction
+14091N2;tong-v2, 239;Tp-Stb;2D;H,C,N,O;J. Am. Chem. Soc., 2014, 136, 6570-6573;none;aligned to xy plan, replicated 2x in C direction
 14100N2;tong-v2, 059;COFBTA-PDA;2D;H,C,N;Angew. Chem. Int. Ed., 2014, 53, 9564-9568;none;replicated 2x in C direction
 15000N2;tong-v2, 030;C2N-h2D;2D;C,N;Nat. Commun., 2015, 6, 6486;none;replicated 2x in C direction
-15010N2;tong-v2, 195;Py-An COF;2D;H,C,N;Chem. Commun., 2015, 51, 10096--10098;none;alligned to xy plan, replicated 2x in C direction
-15020N2;tong-v2, 068;CPF-1;2D;H,C,N,O;Catal. Sci. Technol., 2015, 5, 101-104;none;alligned to xy plan, replicated 2x in C direction
-15021N2;tong-v2, 069;CPF-2;2D;H,C,N,O;Catal. Sci. Technol., 2015, 5, 101-104;none;alligned to xy plan, replicated 2x in C direction
+15010N2;tong-v2, 195;Py-An COF;2D;H,C,N;Chem. Commun., 2015, 51, 10096--10098;none;aligned to xy plan, replicated 2x in C direction
+15020N2;tong-v2, 068;CPF-1;2D;H,C,N,O;Catal. Sci. Technol., 2015, 5, 101-104;none;aligned to xy plan, replicated 2x in C direction
+15021N2;tong-v2, 069;CPF-2;2D;H,C,N,O;Catal. Sci. Technol., 2015, 5, 101-104;none;aligned to xy plan, replicated 2x in C direction
 15030N2;tong-v2, 158;NTU-COF-1;2D;H,B,C,N,O;J. Am. Chem. Soc., 2015, 137, 1020-1023;none;replicated 2x in C direction
 15031N2;tong-v2, 159;NTU-COF-2;2D;H,B,C,N,O;J. Am. Chem. Soc., 2015, 137, 1020-1023;none;replicated 2x in C direction
 15040N2;tong-v2, 203;RT-COF-1;2D;H,B,C,O;Chem. Eur. J., 2015, 21,10666 -10670 ;none;added H on benz, replicated 2x in C direction
@@ -111,11 +111,11 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 15061N2;tong-v2, 127;HP-COF-2;2D;H,C,N;J. Am. Chem. Soc., 2015, 137, 13772-13775;none;replicated 2x in C direction
 15070N2;tong-v2, 090;2,3-DhaTab;2D;H,C,N,O;J. Mater. Chem. A, 2015, 3, 23664-23669;none;replicated 2x in C direction
 15071N2;tong-v2, 091;2,5-DhaTab;2D;H,C,N,O;J. Mater. Chem. A, 2015, 3, 23664-23669;none;replicated 2x in C direction
-15072N2;tong-v2, 094;2,5-DhaTph;2D;H,C,N,O;J. Mater. Chem. A, 2015, 3, 23664-23669;none;alligned to xy plan, replicated 2x in C direction
-15080N2;tong-v2, 125;HO2C-H2P-COF;2D;H,B,C,N,O;Angew. Chem. Int. Ed., 2015, 54, 2986-2990;none;alligned to xy plan, replicated 2x in C direction
+15072N2;tong-v2, 094;2,5-DhaTph;2D;H,C,N,O;J. Mater. Chem. A, 2015, 3, 23664-23669;none;aligned to xy plan, replicated 2x in C direction
+15080N2;tong-v2, 125;HO2C-H2P-COF;2D;H,B,C,N,O;Angew. Chem. Int. Ed., 2015, 54, 2986-2990;none;aligned to xy plan, replicated 2x in C direction
 15081N2;tong-v2, 166;HO-H2P-COF;2D;H,C,N,O;Angew. Chem. Int. Ed., 2015, 54, 2986-2990;none;removed H from the porphirine, replicated 2x in C direction
-15090N2;tong-v2, 093;2,3-DhaTph;2D;H,C,N,O;Chem. Commun., 2015, 51, 310-313;none;alligned to xy plan, replicated 2x in C direction
-15091N2;tong-v2, 100;2,3-DmaTph;2D;H,C,N,O;Chem. Commun., 2015, 51, 310-313;none;alligned to xy plan, replicated 2x in C direction
+15090N2;tong-v2, 093;2,3-DhaTph;2D;H,C,N,O;Chem. Commun., 2015, 51, 310-313;none;aligned to xy plan, replicated 2x in C direction
+15091N2;tong-v2, 100;2,3-DmaTph;2D;H,C,N,O;Chem. Commun., 2015, 51, 310-313;none;aligned to xy plan, replicated 2x in C direction
 15100N2;tong-v2, 229;TfpBDH;2D;H,C,N,O;Chem. Sci., 2015, 6, 3931-3939;none;some O atoms replaced with H, replicated 2x in C direction
 15101N2;tong-v2, 250;TpBDH;2D;H,C,N,O;Chem. Sci., 2015, 6, 3931-3939;none;some O atoms replaced with H, replicated 2x in C direction
 15110N2;tong-v2, 015;AEM-COF-1;2D;H,B,C,O;Chem. Sci., 2015, 6, 4049-4053;none;replicated 2x in C direction
@@ -125,9 +125,9 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 15131N2;tong-v2, 086;DBA-COF 2;2D;H,B,C,O;Chem. Mater., 2015, 27, 6169-6172;none;replicated 2x in C direction
 15140N2;tong-v2, 092;DhaTab;2D;H,C,N;Nat. Commun., 2015, 6, 6786;none;replicated 2x in C direction
 15150N2;tong-v2, 124;HCC-H2P-COF;2D;H,C,N,O;J. Am. Chem. Soc., 2015, 137, 7079-7082;none;replicated 2x in C direction
-15160N2;tong-v2, 134;iPrTAPB-TFP;2D;H,C,N,O;J. Mater. Chem. C, 2015, 3, 7159-7171;none;alligned to xy plan, replicated 2x in C direction
+15160N2;tong-v2, 134;iPrTAPB-TFP;2D;H,C,N,O;J. Mater. Chem. C, 2015, 3, 7159-7171;none;aligned to xy plan, replicated 2x in C direction
 15161N2;tong-v2, 135;iPrTAPB-TFPB;2D;H,C,N;J. Mater. Chem. C, 2015, 3, 7159-7171;none;replicated 2x in C direction
-15162N2;tong-v2, 220;TAPB-TFP;2D;H,C,N,O;J. Mater. Chem. C, 2015, 3, 7159-7171;none;alligned to xy plan, replicated 2x in C direction
+15162N2;tong-v2, 220;TAPB-TFP;2D;H,C,N,O;J. Mater. Chem. C, 2015, 3, 7159-7171;none;aligned to xy plan, replicated 2x in C direction
 15163N2;tong-v2, 221;TAPB-TFPB;2D;H,C,N;J. Mater. Chem. C, 2015, 3, 7159-7171;none;replicated 2x in C direction
 15170N2;tong-v2, 123;HBC-COF;2D;H,C,N;Nat. Commun., 2015, 6, 7786;none;replicated 2x in C direction
 15171N2;tong-v2, 128;HPB-COF;2D;H,C,N;Nat. Commun., 2015, 6, 7786;none;replicated 2x in C direction
@@ -153,45 +153,45 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 16030N2;tong-v2, 138;LZU-70;2D;H,C,N;J. Am. Chem. Soc., 2016, 138, 11489-11492;none;replicated 2x in C direction
 16031N2;tong-v2, 139;LZU-72;2D;H,C,N;J. Am. Chem. Soc., 2016, 138, 11489-11492;none;replicated 2x in C direction
 16032N2;tong-v2, 140;LZU-76;2D;H,C,N,O;J. Am. Chem. Soc., 2016, 138, 11489-11492;none;replicated 2x in C direction
-16040N2;tong-v2, 209;SIOC-COF-5;2D;H,C,N;Chem. Commun., 2016, 52, 11704-11707;none;alligned to xy plan, replicated 2x in C direction
+16040N2;tong-v2, 209;SIOC-COF-5;2D;H,C,N;Chem. Commun., 2016, 52, 11704-11707;none;aligned to xy plan, replicated 2x in C direction
 16041N2;tong-v2, 210;SIOC-COF-6;2D;H,C,N;Chem. Commun., 2016, 52, 11704-11707;none;replicated 2x in C direction
 16050N2;tong-v2, 141;MC-COF-NiPc-E1E7;2D;H,B,C,N,O,Ni;Nat. Commun., 2016, 7, 12325;none;replicated 2x in C direction
 16051N2;tong-v2, 142;MC-COF-TP-E11E22;2D;H,B,C,N,O,S;Nat. Commun., 2016, 7, 12325;none;replicated 2x in C direction
-16052N2;tong-v2, 143;MC-COF-TP-E11E71;2D;H,B,C,N,O,S;Nat. Commun., 2016, 7, 12325;none;alligned to xy plan, replicated 2x in C direction
+16052N2;tong-v2, 143;MC-COF-TP-E11E71;2D;H,B,C,N,O,S;Nat. Commun., 2016, 7, 12325;none;aligned to xy plan, replicated 2x in C direction
 16053N2;tong-v2, 144;MC-COF-TP-E11E72;2D;H,B,C,O;Nat. Commun., 2016, 7, 12325;none;replicated 2x in C direction
 16054N2;tong-v2, 145;MC-COF-TP-E12E21;2D;H,B,C,N,O,S;Nat. Commun., 2016, 7, 12325;none;replicated 2x in C direction
 16055N2;tong-v2, 146;MC-COF-TP-E12E71;2D;H,B,C,O;Nat. Commun., 2016, 7, 12325;none;replicated 2x in C direction
-16056N2;tong-v2, 147;MC-COF-TP-E1E3E7;2D;H,B,C,O,S;Nat. Commun., 2016, 7, 12325;none;alligned to xy plan, replicated 2x in C direction
+16056N2;tong-v2, 147;MC-COF-TP-E1E3E7;2D;H,B,C,O,S;Nat. Commun., 2016, 7, 12325;none;aligned to xy plan, replicated 2x in C direction
 16057N2;tong-v2, 148;MC-COF-TP-E22E31;2D;H,B,C,N,O,S;Nat. Commun., 2016, 7, 12325;none;replicated 2x in C direction
-16058N2;tong-v2, 149;MC-COF-TP-E22E41;2D;H,B,C,N,O,S;Nat. Commun., 2016, 7, 12325;none;alligned to xy plan, replicated 2x in C direction
+16058N2;tong-v2, 149;MC-COF-TP-E22E41;2D;H,B,C,N,O,S;Nat. Commun., 2016, 7, 12325;none;aligned to xy plan, replicated 2x in C direction
 16060N2;tong-v2, 032;CCOF-1;2D;H,C,N,O;J. Am. Chem. Soc., 2016, 138, 12332-12335;none;none
 16061N2;tong-v2, 033;CCOF-2;2D;H,C,N,O;J. Am. Chem. Soc., 2016, 138, 12332-12335;none;none
 16070N2;tong-v2, 164;NUS-3;2D;H,C,N,O;Chem. Mater., 2016, 28, 1277-1285;none;replicated 2x in C direction
-16080N2;tong-v2, 028;BW-COF-AA;2D;H,C,N;ACS Macro Lett., 2016, 5, 1348-1352;none;alligned to xy plan, replicated 2x in C direction
-16081N2;tong-v2, 029;BW-COF-AB;2D;H,C,N;ACS Macro Lett., 2016, 5, 1348-1352;none;alligned to xy plan
+16080N2;tong-v2, 028;BW-COF-AA;2D;H,C,N;ACS Macro Lett., 2016, 5, 1348-1352;none;aligned to xy plan, replicated 2x in C direction
+16081N2;tong-v2, 029;BW-COF-AB;2D;H,C,N;ACS Macro Lett., 2016, 5, 1348-1352;none;aligned to xy plan
 16082N2;tong-v2, 121;HB-COF-AA;2D;H,C,N;ACS Macro Lett., 2016, 5, 1348-1352;none;replicated 2x in C direction
-16083N2;tong-v2, 122;HB-COF-AB;2D;H,C,N;ACS Macro Lett., 2016, 5, 1348-1352;none;alligned to xy plan
+16083N2;tong-v2, 122;HB-COF-AB;2D;H,C,N;ACS Macro Lett., 2016, 5, 1348-1352;none;aligned to xy plan
 16090N2;tong-v2, 228;TfBD;2D;H,B,C,O;Angew. Chem. Int. Ed., 2016, 55, 13979 -13984 ;none;replicated 2x in C direction
 16100N2;tong-v2, 151;N3-COF;2D;H,C,N;J. Mater. Chem. A, 2016, 4, 14106-14110;none;replicated 2x in C direction
 16110N3;tong-v2, 096;DL-COF-1-bor;3D;H,B,C,N,O;J. Am. Chem. Soc., 2016, 138, 14783-14788;none;none
 16111N3;tong-v2, 097;DL-COF-1-ctn;3D;H,B,C,N,O;J. Am. Chem. Soc., 2016, 138, 14783-14788;none;none
 16112N3;tong-v2, 098;DL-COF-2-bor;3D;H,B,C,N,O,F;J. Am. Chem. Soc., 2016, 138, 14783-14788;none;none
 16113N3;tong-v2, 099;DL-COF-2-ctn;3D;H,B,C,N,O,F;J. Am. Chem. Soc., 2016, 138, 14783-14788;none;none
-16120N2;tong-v2, 259;TpPa-Py;2D;H,C,N,O;Chem. Mater., 2016, 28, 1489-1494;none;alligned to xy plan, replicated 2x in C direction
-16121N2;tong-v2, 260;TpPa-SO3H-Py;2D;H,C,N,O,S;Chem. Mater., 2016, 28, 1489-1494;none;alligned to xy plan, replicated 2x in C direction
+16120N2;tong-v2, 259;TpPa-Py;2D;H,C,N,O;Chem. Mater., 2016, 28, 1489-1494;none;aligned to xy plan, replicated 2x in C direction
+16121N2;tong-v2, 260;TpPa-SO3H-Py;2D;H,C,N,O,S;Chem. Mater., 2016, 28, 1489-1494;none;aligned to xy plan, replicated 2x in C direction
 16130N3;tong-v2, 155;Ni-DBA-3D-COF-bor;3D;H,B,C,O,Ni;J. Am. Chem. Soc., 2016, 138, 15134-15137;none;none
 16131N3;tong-v2, 156;Ni-DBA-3D-COF-ctn;3D;H,B,C,O,Ni;J. Am. Chem. Soc., 2016, 138, 15134-15137;none;none
 16140N2;tong-v2, 008;4PE-1P-oxi;2D;H,C,N,O;J. Am. Chem. Soc., 2016, 138, 15519-15522;none;H added on N, replicated 2x in C direction
 16141N2;tong-v2, 241;TPB-TP-COF-oxi;2D;H,C,N,O;J. Am. Chem. Soc., 2016, 138, 15519-15522;none;replicated 2x in C direction
 16142N2;tong-v2, 242;TPB-TP-COF;2D;H,C,N;J. Am. Chem. Soc., 2016, 138, 15519-15522;none;replicated 2x in C direction
 16150N2;tong-v2, 084;DaTP;2D;H,C,N,O;Angew. Chem. Int. Ed., 2016, 55, 15604 -15608;none;replicated 2x in C direction
-16160N2;tong-v2, 131;IISERP-COF3;2D;H,C,N,O;Adv. Energy Mater., 2016, 6, 1601189 ;none;alligned to xy plan, replicated 2x in C direction
+16160N2;tong-v2, 131;IISERP-COF3;2D;H,C,N,O;Adv. Energy Mater., 2016, 6, 1601189 ;none;aligned to xy plan, replicated 2x in C direction
 16170N2;tong-v2, 187;Py-1P COF;2D;H,C,N;J. Am. Chem. Soc., 2016, 138, 16703-16710 ;none;replicated 2x in C direction
 16171N2;tong-v2, 188;Py-1PF COF;2D;H,C,N,F;J. Am. Chem. Soc., 2016, 138, 16703-16710 ;none;replicated 2x in C direction
 16172N2;tong-v2, 192;Py-2PE COF;2D;H,C,N;J. Am. Chem. Soc., 2016, 138, 16703-16710 ;none;replicated 2x in C direction
 16173N2;tong-v2, 193;Py-3PEBTD COF;2D;H,C,N,S;J. Am. Chem. Soc., 2016, 138, 16703-16710 ;none;replicated 2x in C direction
 16174N2;tong-v2, 194;Py-3PE COF;2D;H,C,N,O;J. Am. Chem. Soc., 2016, 138, 16703-16710 ;none;replicated 2x in C direction
-16180C2;tong-v2, 129;ICOF-1;2D;H,B,C,N,O;Angew. Chem. Int. Ed., 2016, 55, 1737-1741;none;alligned to xy plan, replicated 2x in C direction
+16180C2;tong-v2, 129;ICOF-1;2D;H,B,C,N,O;Angew. Chem. Int. Ed., 2016, 55, 1737-1741;none;aligned to xy plan, replicated 2x in C direction
 16181C2;tong-v2, 130;ICOF-2;2D;H,Li,B,C,O;Angew. Chem. Int. Ed., 2016, 55, 1737-1741;none;replicated 2x in C direction
 16190N2;tong-v2, 207;SIOC-COF-3-AB;2D;H,C,N;Chem. Eur. J., 2016, 22, 17784-17789;none;none
 16191N2;tong-v2, 208;SIOC-COF-4-AB;2D;H,C,N;Chem. Eur. J., 2016, 22, 17784-17789;none;none
@@ -211,12 +211,12 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 16271N2;tong-v2, 010;4PE-2P;2D;H,C,N;Nat. Chem., 2016, 8, 310-316;none;replicated 2x in C direction
 16272N2;tong-v2, 011;4PE-3P;2D;H,C,N;Nat. Chem., 2016, 8, 310-316;none;replicated 2x in C direction
 16273N2;tong-v2, 012;4PE-TT;2D;H,C,N,S;Nat. Chem., 2016, 8, 310-316;none;replicated 2x in C direction
-16280C2;tong-v2, 168;PC-COF;2D;H,C,N,Cl;Polym. Chem., 2016, 7, 3392-3397;none;alligned to xy plan, replicated 2x in C direction
+16280C2;tong-v2, 168;PC-COF;2D;H,C,N,Cl;Polym. Chem., 2016, 7, 3392-3397;none;aligned to xy plan, replicated 2x in C direction
 16290N3;tong-v2, 054;COF-505;3D;H,C,N;Science, 2016, 351, 361-365;none;Removed Cu(I) and BF4-
 16300N2;tong-v2, 219;TAPB-PDA COF;2D;H,C,N;Chem. Commun., 2016, 52, 3690-3693;none;replicated 2x in C direction
-16310N2;tong-v2, 031;CC-TAPH-COF;2D;H,C,N,O;RSC Adv., 2016, 6, 38774-38781;none;Removed 2H from porph, added missing H on benz, UFF opt overlapping, alligned to xy plan, replicated 2x in C direction
-16311N2;tong-v2, 157;NN-TAPH-COF;2D;H,C,N,O;RSC Adv., 2016, 6, 38774-38781;none;Added H on CN, alligned to xy plan, replicated 2x in C direction
-16312N2;tong-v2, 167;OH-TAPH-COF;2D;H,C,N,O;RSC Adv., 2016, 6, 38774-38781;none;alligned to xy plan, replicated 2x in C direction
+16310N2;tong-v2, 031;CC-TAPH-COF;2D;H,C,N,O;RSC Adv., 2016, 6, 38774-38781;none;Removed 2H from porph, added missing H on benz, UFF opt overlapping, aligned to xy plan, replicated 2x in C direction
+16311N2;tong-v2, 157;NN-TAPH-COF;2D;H,C,N,O;RSC Adv., 2016, 6, 38774-38781;none;Added H on CN, aligned to xy plan, replicated 2x in C direction
+16312N2;tong-v2, 167;OH-TAPH-COF;2D;H,C,N,O;RSC Adv., 2016, 6, 38774-38781;none;aligned to xy plan, replicated 2x in C direction
 16320N2;tong-v2, 253;TpFn;2D;H,C,N,O;IUCRJ, 2016, 6, 402-407;13150N;replicated 2x in C direction
 16330N2;tong-v2, 176;PI-2-COF;2D;H,C,N;Chem. Commun., 2016, 52, 4128-4131;none;replicated 2x in C direction
 16331N2;tong-v2, 177;PI-3-COF;2D;H,C,N;Chem. Commun., 2016, 52, 4128-4131;none;replicated 2x in C direction
@@ -230,16 +230,16 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 16371N2;tong-v2, 077;CTF-DCN;2D;H,C,N;Environ. Sci. Tech., 2016, 50, 4869-4876;none;replicated 2x in C direction
 16380N2;tong-v2, 161;NUS-14;2D;H,C,N;Chem. Mater., 2016, 28, 5095-5101;none;replicated 2x in C direction
 16381N2;tong-v2, 162;NUS-15;2D;H,C,N;Chem. Mater., 2016, 28, 5095-5101;none;replicated 2x in C direction
-16390N2;tong-v2, 272;TThPP;2D;H,C,N,S;ACS Appl. Mater. Inter., 2016, 8, 5366-5375;none;alligned to xy plan, replicated 2x in C direction, added S atoms as in the paper
+16390N2;tong-v2, 272;TThPP;2D;H,C,N,S;ACS Appl. Mater. Inter., 2016, 8, 5366-5375;none;aligned to xy plan, replicated 2x in C direction, added S atoms as in the paper
 16400N2;tong-v2, 252;TPE-Ph COF;2D;H,B,C,O;J. Am. Chem. Soc., 2016, 138, 5797-5800;none;replicated 2x in C direction
-16410C2;tong-v2, 113;EB-COF:Br;2D;H,C,N,O,Br;J. Am. Chem. Soc., 2016, 138, 5897-5903;none;alligned to xy plan, replicated 2x in C direction
-16411C2;tong-v2, 114;EB-COF:Cl;2D;H,C,N,O,Cl;J. Am. Chem. Soc., 2016, 138, 5897-5903;none;substituted Br with Cl, alligned to xy plan, replicated 2x in C direction
-16412C2;tong-v2, 115;EB-COF:F;2D;H,C,N,O,F;J. Am. Chem. Soc., 2016, 138, 5897-5903;none;substituted Br with F, alligned to xy plan, replicated 2x in C direction
-16413C2;tong-v2, 116;EB-COF:I;2D;H,C,N,O,I;J. Am. Chem. Soc., 2016, 138, 5897-5903;none;substituted Br with I, alligned to xy plan, replicated 2x in C direction
+16410C2;tong-v2, 113;EB-COF:Br;2D;H,C,N,O,Br;J. Am. Chem. Soc., 2016, 138, 5897-5903;none;aligned to xy plan, replicated 2x in C direction
+16411C2;tong-v2, 114;EB-COF:Cl;2D;H,C,N,O,Cl;J. Am. Chem. Soc., 2016, 138, 5897-5903;none;substituted Br with Cl, aligned to xy plan, replicated 2x in C direction
+16412C2;tong-v2, 115;EB-COF:F;2D;H,C,N,O,F;J. Am. Chem. Soc., 2016, 138, 5897-5903;none;substituted Br with F, aligned to xy plan, replicated 2x in C direction
+16413C2;tong-v2, 116;EB-COF:I;2D;H,C,N,O,I;J. Am. Chem. Soc., 2016, 138, 5897-5903;none;substituted Br with I, aligned to xy plan, replicated 2x in C direction
 16420N2;tong-v2, 246;TpBD-NHCOCH3;2D;H,C,N,O;Chem. Mater., 2016, 28, 626-631;none;UFF optimized to fix overlapping H, replicated 2x in C direction
-16430N2;tong-v2, 061;COF-JLU3;2D;H,C,N,O;Chem. Commun., 2016, 52, 6613-6616;none;alligned to xy plan, replicated 2x in C direction
-16440N2;tong-v2, 240;TPB-DMTP-COF;2D;H,C,N,O;Nat. Mater., 2016, 15, 722-727;none;alligned to xy plan, replicated 2x in C direction
-16450N2;tong-v2, 184;Por-COF;2D;H,C,N;J. Mater. Chem. A, 2016, 4, 7416-7421;none;alligned to xy plan
+16430N2;tong-v2, 061;COF-JLU3;2D;H,C,N,O;Chem. Commun., 2016, 52, 6613-6616;none;aligned to xy plan, replicated 2x in C direction
+16440N2;tong-v2, 240;TPB-DMTP-COF;2D;H,C,N,O;Nat. Mater., 2016, 15, 722-727;none;aligned to xy plan, replicated 2x in C direction
+16450N2;tong-v2, 184;Por-COF;2D;H,C,N;J. Mater. Chem. A, 2016, 4, 7416-7421;none;aligned to xy plan
 16460N2;tong-v2, 095;2,3-DhaTta;2D;H,C,N,O;Angew. Chem. Int. Ed., 2016, 55, 7806-7810;none;replicated 2x in C direction
 16470N2;tong-v2, 021;BCCTP-COF;2D;H,C;Chem. Commun., 2016, 52, 8726-8729;none;replicated 2x in C direction
 16480N2;tong-v2, 273;TTI-COF;2D;H,C,N;Adv. Mater., 2016, 28, 8749-8754;none;replicated 2x in C direction
