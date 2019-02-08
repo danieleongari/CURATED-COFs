@@ -301,7 +301,7 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 18060N2;SI;Tf-DHzDPr;2D;H,C,N,O;Nat. Commun., 2018, 9, 2335;none;replicated 2x in C direction
 18061N2;SI;Tf-DHzDAll;2D;H,C,N,O;Nat. Commun., 2018, 9, 2335;none;replicated 2x in C direction
 18070N2;SI;COF-HQ;2D;H,C,N,O;ACS Appl. Mater. Inter., 2018, 10, 15364-15368;none;replicated 2x in C direction
-18080N2;SI;COF-366-Co;2D;H,C,N,Co;J. Am. Chem. Soc., 2018, 140, 1116-1122;none;replicated 2x in C direction
+18080N2;SI;COF-366-Co;2D;H,C,N,Co;J. Am. Chem. Soc., 2018, 140, 1116-1122;none;added missing H, replicated 2x in C direction
 18081N2;SI;COF-366-F4-Co;2D;H,C,N,F,Co;J. Am. Chem. Soc., 2018, 140, 1116-1122;none;replicated 2x in C direction
 18082N2;SI;COF-366-F-Co;2D;H,C,N,F,Co;J. Am. Chem. Soc., 2018, 140, 1116-1122;none;replicated 2x in C direction
 18083N2;SI;COF-366-(OMe)2-Co;2D;H,C,N,O,Co;J. Am. Chem. Soc., 2018, 140, 1116-1122;none;replicated 2x in C direction
