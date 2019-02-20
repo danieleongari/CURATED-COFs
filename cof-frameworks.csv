@@ -43,6 +43,8 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 12050N2;tong-v2, 026;BLP-2H-AA;2D;H,B,C,N;Chem. Commun., 2012, 48, 8823-8825;none;replicated 2x in C direction
 12051N2;tong-v2, 027;BLP-2H-AB;2D;H,B,C,N;Chem. Commun., 2012, 48, 8823-8825;none;none
 12060N2;tong-v2, 276;ZnPc-COF;2D;H,B,C,N,O,Zn;Chem. Commun., 2012, 48, 8952-8954;none;aligned to xy plan, replicated 2x in C direction
+12061N2;manual, 12060N2;CuPc-COF;2D;H,B,C,N,O,Cu;Chem. Commun., 2012, 48, 8952-8954;none;changed metal
+12062N2;manual, 12060N2;CoPc-COF;2D;H,B,C,N,O,Co;Chem. Commun., 2012, 48, 8952-8954;none;changed metal
 13000N2;SI;FCTF-1;2D;C,N,F;Energy Environ. Sci., 2013, 6, 3684;none;created adding F to 08020N and UFF opt , replicated 2x in C direction
 13010N2;tong-v2, 212;Star-COF-1;2D;H,B,C,O;CrystEngComm, 2013, 15, 1508-1511;none;replicated 2x in C direction
 13011N2;tong-v2, 213;Star-COF-2;2D;H,B,C,O;CrystEngComm, 2013, 15, 1508-1511;none;replicated 2x in C direction
