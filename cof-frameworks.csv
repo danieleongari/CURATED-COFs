@@ -221,7 +221,7 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 16330N2;tong-v2, 176;PI-2-COF;2D;H,C,N;Chem. Commun., 2016, 52, 4128-4131;none;replicated 2x in C direction
 16331N2;tong-v2, 177;PI-3-COF;2D;H,C,N;Chem. Commun., 2016, 52, 4128-4131;none;moved H from N to C, replicated 2x in C direction
 16332N3;tong-v2, 178;PI-COF-4;3D;H,C,N,O;Chem. Commun., 2016, 52, 4128-4131;none;none
-16340N2;tong-v2, 185;POR-COF;2D;H,C,N,O;CrystEngComm, 2016, 18, 4259-4263;none;replicated 2x in C direction
+16340N2;tong-v2, 185;POR-COF;2D;H,C,N,O;CrystEngComm, 2016, 18, 4259-4263;none;corrected N=O group, replicated 2x in C direction
 16350N2;tong-v2, 022;BDT-COF;2D;H,B,C,O,S;CrystEngComm, 2016, 18, 4295-4302;none;replicated 2x in C direction
 16351N2;tong-v2, 023;BDT-OEt-COF;2D;H,B,C,O,S;CrystEngComm, 2016, 18, 4295-4302;none;replicated 2x in C direction
 16360N2;tong-v2, 262;TPT-COF-1;2D;H,C,N,O;Chem. Commun., 2016, 52, 4706-4709;none;replicated 2x in C direction
