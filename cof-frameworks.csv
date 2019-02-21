@@ -315,8 +315,8 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 18111N2;SI;COF-921;2D;H,C,N,S;J. Am. Chem. Soc., 2018, 140, 9099-9103;none;replicated 2x in C direction
 18112N2;SI;LZU-192;2D;H,C,N,O;J. Am. Chem. Soc., 2018, 140, 9099-9103;none;replicated 2x in C direction
 18120N3;SI;3D-IL-COF-1;3D;H,C,N;J. Am. Chem. Soc., 2018, 140, 4494-4498;none;none
-18121N3;SI;3D-IL-COF-2;3D;H,C,N;J. Am. Chem. Soc., 2018, 140, 4494-4498;none;none
-18122N3;SI;3D-IL-COF-3;3D;H,C,N;J. Am. Chem. Soc., 2018, 140, 4494-4498;none;none
+18121N3;SI;3D-IL-COF-2;3D;H,C,N;J. Am. Chem. Soc., 2018, 140, 4494-4498;none;adjusted UC dimensions to have a physical aromatic C-C distance of ca. 1.45 Angs
+18122N3;SI;3D-IL-COF-3;3D;H,C,N;J. Am. Chem. Soc., 2018, 140, 4494-4498;none;adjusted UC dimensions to have a physical aromatic C-C distance of ca. 1.45 Angs
 18130N3;CSD, 1846135;COF-303;3D;H,C,N;Science, 2018, 361, 48-52;none;none
 18131N3;CSD, 1846136;COF-300_hydrate;3D;H,C,N;Science, 2018, 361, 48-52;none;removed water solvent
 18132N3;CSD, 1846138;COF-300;3D;H,C,N;Science, 2018, 361, 48-52;09000N;none
