@@ -25,7 +25,7 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 11001N2;tong-v2, 050;COF-42-gra;2D;H,C,N,O;J. Am. Chem. Soc., 2011, 133, 11478-11481;none;none
 11002N2;tong-v2, 051;COF-43-bnn;2D;H,C,N,O;J. Am. Chem. Soc., 2011, 133, 11478-11481;none;replicated 2x in C direction
 11003N2;tong-v2, 052;COF-43-gra;2D;H,C,N,O;J. Am. Chem. Soc., 2011, 133, 11478-11481;none;none
-11010N2;tong-v2, 001;2D-NiPc-BTDA-COF;2D;H,B,C,N,O,S,Ni;J. Am. Chem. Soc., 2011, 133, 14510-14513;none;replicated 2x in C direction
+11010N2;tong-v2, 001;2D-NiPc-BTDA-COF;2D;H,B,C,N,O,S,Ni;J. Am. Chem. Soc., 2011, 133, 14510-14513;none;replicated 2x in C direction, DFT geo_opt to fix too long N-S bond
 11020N2;tong-v2, 063;COF-LZU1;2D;H,C,N;J. Am. Chem. Soc., 2011, 133, 19816-19822;none;replicated 2x in C direction
 11030N2;tong-v2, 048;COF-366;2D;H,C,N;Chem. Mater., 2011, 23, 4094-4097;none;aligned to xy plan
 11031N2;tong-v2, 056;COF-66;2D;H,B,C,N,O;Chem. Mater., 2011, 23, 4094-4097;none;aligned to xy plan, replicated 2x in C direction
