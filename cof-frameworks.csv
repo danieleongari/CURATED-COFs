@@ -254,7 +254,8 @@ CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifica
 17030N2;tong-v2, 264;TpTD;2D;H,C,N,O;Adv. Mater., 2017, 29, 1603945;none;replicated 2x in C direction
 17040N2;tong-v2, 206;SB-PORPy;2D;H,C,N;ACS Appl. Mater. Inter., 2017, 9 , 23843-23851;none;none
 17050N2;tong-v2, 218;TAPB-BMTTPA-COF;2D;H,C,N,S;J. Am. Chem. Soc., 2017, 139, 2428-2434;none;replicated 2x in C direction
-17060N2;tong-v2, 120;HAT-NTBA-COF;2D;H,C,N;Chem. Commun., 2017, 53, 2431-2434;none;replicated 2x in C direction
+17060N2;SI;HAT-NTBCA-COF;2D;H,C,N;Chem. Commun., 2017, 53, 2431-2434;none;replicated 2x in C direction
+17061N2;SI;HAT-NTBA-COF;2D;H,C,N;Chem. Commun., 2017, 53, 2431-2434;none;replicated 2x in C direction
 17070N2;tong-v2, 274;TzDa;2D;H,C,N,O;ACS Appl. Mater. Inter., 2017, 9, 24999-25005;none;replicated 2x in C direction
 17080C2;tong-v2, 202;PyTTA-BFBIm-iCOF;2D;H,C,N,Br;Angew. Chem. Int. Ed., 2017, 56, 4982-4986;none;none
 17090N3;tong-v2, 136;LZU-301-sol;3D;H,C,N;J. Am. Chem. Soc., 2017, 139, 4995-4998;none;none
