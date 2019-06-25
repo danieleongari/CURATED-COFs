@@ -1,4 +1,4 @@
-CoRE-COFs ID;Source;name;dimension;atom types;reference;duplicate found;modifications
+CURATED-COFs ID;Source;Name;Dimension;Elements;Reference;Duplicate found;Modifications
 05000N2;tong-v2, 035;COF-1;2D;H,B,C,O;Science, 2005, 310, 1166-1170;none;none
 05001N2;tong-v2, 053;COF-5;2D;H,B,C,O;Science, 2005, 310, 1166-1170;none;replicated 2x in C direction
 07000N2;tong-v2, 036;COF-10;2D;H,B,C,O;J. Am. Chem. Soc., 2007, 129, 12914-12915;none;replicated 2x in C direction
