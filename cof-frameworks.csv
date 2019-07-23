@@ -1,325 +1,325 @@
-CURATED-COFs ID;Source;Name;Dimension;Elements;Reference;Duplicate found;Modifications
-05000N2;tong-v2, 035;COF-1;2D;H,B,C,O;Science, 2005, 310, 1166-1170;none;none
-05001N2;tong-v2, 053;COF-5;2D;H,B,C,O;Science, 2005, 310, 1166-1170;none;replicated 2x in C direction
-07000N2;tong-v2, 036;COF-10;2D;H,B,C,O;J. Am. Chem. Soc., 2007, 129, 12914-12915;none;replicated 2x in C direction
-07001N2;tong-v2, 055;COF-6;2D;H,B,C,O;J. Am. Chem. Soc., 2007, 129, 12914-12915;none;replicated 2x in C direction
-07002N2;tong-v2, 057;COF-8;2D;H,B,C,O;J. Am. Chem. Soc., 2007, 129, 12914-12915;none;replicated 2x in C direction
-07010N3;tong-v2, 037;COF-102;3D;H,B,C,O;Science, 2007, 316, 268-272;none;none
-07011N3;tong-v2, 038;COF-103;3D;H,B,C,O,Si;Science, 2007, 316, 268-272;none;none
-07012N3;tong-v2, 039;COF-105;3D;H,B,C,O,Si;Science, 2007, 316, 268-272;none;none
-07013N3;tong-v2, 040;COF-108;3D;H,B,C,O;Science, 2007, 316, 268-272;none;none
-08000N3;tong-v2, 045;COF-202;3D;H,B,C,O,Si;J. Am. Chem. Soc., 2008, 130, 11872-11873;none;none
-08010N2;tong-v2, 041;COF-11Å;2D;H,B,C,O;Adv. Mater., 2008, 20, 2741-2746;none;replicated 2x in C direction
-08011N2;tong-v2, 042;COF-14Å;2D;H,B,C,O;Adv. Mater., 2008, 20, 2741-2746;none;aligned to xy plan, replicated 2x in C direction
-08012N2;tong-v2, 043;COF-16Å;2D;H,B,C,O;Adv. Mater., 2008, 20, 2741-2746;none;aligned to xy plan, replicated 2x in C direction
-08013N2;tong-v2, 044;COF-18Å;2D;H,B,C,O;Adv. Mater., 2008, 20, 2741-2746;none;replicated 2x in C direction
-08020N2;tong-v2, 073;CTF-1;2D;H,C,N;Angew. Chem. Int. Ed., 2008, 47, 3450-3453;none;replicated 2x in C direction
-08030N2;tong-v2, 235;TP-COF;2D;H,B,C,O;Angew. Chem. Int. Ed., 2008, 47, 8826-8830;none;replicated 2x in C direction
-09000N3;tong-v2, 046;COF-300;3D;H,C,N;J. Am. Chem. Soc., 2009, 131, 4570-4571;none;none
-09010N2;tong-v2, 186;PPy-COF;2D;H,B,C,O;Angew. Chem. Int. Ed., 2009, 48, 5439-5442;none;replicated 2x in C direction
-10000N2;tong-v2, 074;CTF-2-AA;2D;H,C,N;Adv. Mater., 2010, 22, 2202-2205;none;replicated 2x in C direction
-10001N2;tong-v2, 075;CTF-2-AB;2D;H,C,N;Adv. Mater., 2010, 22, 2202-2205;none;none
-10010N2;tong-v2, 169;Pc-PBBA-COF;2D;H,B,C,N,O;Nat. Chem., 2010, 2, 672-677;none;replicated 2x in C direction
-10020N2;tong-v2, 224;TBPB COF;2D;H,C;Chem. Commun., 2010, 46, 7157-7159;none;replicated 2x in C direction
-11000N2;tong-v2, 049;COF-42-bnn;2D;H,C,N,O;J. Am. Chem. Soc., 2011, 133, 11478-11481;none;replicated 2x in C direction
-11001N2;tong-v2, 050;COF-42-gra;2D;H,C,N,O;J. Am. Chem. Soc., 2011, 133, 11478-11481;none;none
-11002N2;tong-v2, 051;COF-43-bnn;2D;H,C,N,O;J. Am. Chem. Soc., 2011, 133, 11478-11481;none;replicated 2x in C direction
-11003N2;tong-v2, 052;COF-43-gra;2D;H,C,N,O;J. Am. Chem. Soc., 2011, 133, 11478-11481;none;none
-11010N2;tong-v2, 001;2D-NiPc-BTDA-COF;2D;H,B,C,N,O,S,Ni;J. Am. Chem. Soc., 2011, 133, 14510-14513;none;replicated 2x in C direction, DFT geo_opt to fix too long N-S bond
-11020N2;tong-v2, 063;COF-LZU1;2D;H,C,N;J. Am. Chem. Soc., 2011, 133, 19816-19822;none;replicated 2x in C direction
-11030N2;tong-v2, 048;COF-366;2D;H,C,N;Chem. Mater., 2011, 23, 4094-4097;none;aligned to xy plan
-11031N2;tong-v2, 056;COF-66;2D;H,B,C,N,O;Chem. Mater., 2011, 23, 4094-4097;none;aligned to xy plan, replicated 2x in C direction
-12000N2;tong-v2, 255;TpPa-1;2D;H,C,N,O;J. Am. Chem. Soc., 2012, 134, 19524-19527;13051N;replicated 2x in C direction
-12001N2;tong-v2, 256;TpPa-2;2D;H,C,N,O;J. Am. Chem. Soc., 2012, 134, 19524-19527;none;replicated 2x in C direction
-12010N2;SI;H2P-COF;2D;H,B,C,N,O;Angew. Chem. Int. Ed., 2012, 51, 2618-2622;none;replicated 2x in C direction
-12011N2;SI;ZnP-COF;2D;H,B,C,N,O,Zn;Angew. Chem. Int. Ed., 2012, 51, 2618-2622;none;replicated 2x in C direction
-12012N2;SI;CuP-COF;2D;H,B,C,N,O,Cu;Angew. Chem. Int. Ed., 2012, 51, 2618-2622;none;replicated 2x in C direction
-12020N2;tong-v2, 280;ZnPc-Py;2D;H,B,C,N,O,Zn;Angew. Chem. Int. Ed., 2012, 51, 2623-2627;none;replicated 2x in C direction
-12022N2;tong-v2, 277;ZnPc-DPB;2D;H,B,C,N,O,Zn;Angew. Chem. Int. Ed., 2012, 51, 2623-2627;none;replicated 2x in C direction
-12023N2;tong-v2, 278;ZnPc-NDI;2D;H,B,C,N,O,Zn;Angew. Chem. Int. Ed., 2012, 51, 2623-2627;none;replicated 2x in C direction
-12024N2;tong-v2, 279;ZnPc-PPE;2D;H,B,C,N,O,Zn;Angew. Chem. Int. Ed., 2012, 51, 2623-2627;none;replicated 2x in C direction
-12030N2;tong-v2, 081;DA-COF;2D;H,B,C,N,O,S;Adv. Mater., 2012, 24, 3026-3031;none;replicated 2x in C direction
-12040N2;tong-v2, 071;CTC-COF;2D;H,B,C,O;J. Mater. Chem., 2012, 22, 5369;none;replicated 2x in C direction
-12050N2;tong-v2, 026;BLP-2H-AA;2D;H,B,C,N;Chem. Commun., 2012, 48, 8823-8825;none;replicated 2x in C direction
-12051N2;tong-v2, 027;BLP-2H-AB;2D;H,B,C,N;Chem. Commun., 2012, 48, 8823-8825;none;none
-12060N2;tong-v2, 276;ZnPc-COF;2D;H,B,C,N,O,Zn;Chem. Commun., 2012, 48, 8952-8954;none;aligned to xy plan, replicated 2x in C direction
-12061N2;manual, 12060N2;CuPc-COF;2D;H,B,C,N,O,Cu;Chem. Commun., 2012, 48, 8952-8954;none;changed metal
-12062N2;manual, 12060N2;CoPc-COF;2D;H,B,C,N,O,Co;Chem. Commun., 2012, 48, 8952-8954;none;changed metal
-13000N2;SI;FCTF-1;2D;C,N,F;Energy Environ. Sci., 2013, 6, 3684;none;created adding F to 08020N and UFF opt , replicated 2x in C direction
-13010N2;tong-v2, 212;Star-COF-1;2D;H,B,C,O;CrystEngComm, 2013, 15, 1508-1511;none;replicated 2x in C direction
-13011N2;tong-v2, 213;Star-COF-2;2D;H,B,C,O;CrystEngComm, 2013, 15, 1508-1511;none;replicated 2x in C direction
-13012N2;tong-v2, 214;Star-COF-3;2D;H,B,C,O;CrystEngComm, 2013, 15, 1508-1511;none;replicated 2x in C direction
-13020N2;tong-v2, 225;TD-COF-5;2D;H,B,C,O;CrystEngComm, 2013, 15, 1524-1527;none;replicated 2x in C direction
-13030N2;tong-v2, 072;CTF-0;2D;H,C,N;Chem. Mater., 2013, 25, 1542-1548;none;replicated 2x in C direction
-13040N3;tong-v2, 047;COF-320;3D;H,C,N;J. Am. Chem. Soc., 2013, 135, 16336-16339;none;none
-13050N2;tong-v2, 082;DAAQ-TFP COF;2D;H,C,N,O;J. Am. Chem. Soc., 2013, 135, 16821-16824;none;replicated 2x in C direction
-13051N2;tong-v2, 083;DAQ-TFP COF;2D;H,C,N,O;J. Am. Chem. Soc., 2013, 135, 16821-16824;12000N;replicated 2x in C direction
-13060N2;tong-v2, 196;Py-Azine COF;2D;H,C,N;J. Am. Chem. Soc., 2013, 135, 17310-17313;none;replicated 2x in C direction
-13070N2;tong-v2, 243;TpBD-2NO2;2D;H,C,N,O;J. Am. Chem. Soc., 2013, 135, 17853-17861;none;replicated 2x in C direction
-13071N2;tong-v2, 244;TPBD-ME2;2D;H,C,N,O;J. Am. Chem. Soc., 2013, 135, 17853-17861;none;replicated 2x in C direction
-13072N2;tong-v2, 245;TpBD-NH2;2D;H,C,N,O;J. Am. Chem. Soc., 2013, 135, 17853-17861;none;replicated 2x in C direction
-13073N2;tong-v2, 247;TpBD-NO2;2D;H,C,N,O;J. Am. Chem. Soc., 2013, 135, 17853-17861;none;replicated 2x in C direction
-13074N2;tong-v2, 248;TpBD-(OMe)2;2D;H,C,N,O;J. Am. Chem. Soc., 2013, 135, 17853-17861;none;replicated 2x in C direction
-13075N2;tong-v2, 254;TpPa-1-F2;2D;H,C,N,O,F;J. Am. Chem. Soc., 2013, 135, 17853-17861;none;replicated 2x in C direction
-13076N2;tong-v2, 257;TpPa-F4;2D;H,C,N,O,F;J. Am. Chem. Soc., 2013, 135, 17853-17861;none;replicated 2x in C direction
-13077N2;tong-v2, 258;TpPa-NO2;2D;H,C,N,O;J. Am. Chem. Soc., 2013, 135, 17853-17861;none;replicated 2x in C direction
-13078N2;tong-v2, 261;TpPa-SO3H;2D;H,C,N,O,S;J. Am. Chem. Soc., 2013, 135, 17853-17861;none;replicated 2x in C direction
-13080N2;tong-v2, 070;CS-COF;2D;H,C,N;Nat. Commun., 2013, 4, 2736;none;replicated 2x in C direction
-13090N2;tong-v2, 269;TT-COF;2D;H,B,C,O,S;Angew. Chem. Int. Ed., 2013, 52, 2920-2924;none;replicated 2x in C direction
-13100N2;tong-v2, 132;ILCOF-1-AA;2D;H,C,N;Chem. Eur. J., 2013, 19, 3324-3328;none;replicated 2x in C direction
-13101N2;tong-v2, 133;ILCOF-1-AB;2D;H,C,N;Chem. Eur. J., 2013, 19, 3324-3328;none;none
-13110N2;tong-v2, 079;CuP-SQ COF;2D;H,C,N,O,Cu;Angew. Chem. Int. Ed., 2013, 52, 3770-3774;none;fixed missing Cu but the geometry of the ligand is wrong when compared to the paper, replicated 2x in C direction
-13120N2;tong-v2, 170;PCTF-1;2D;H,C,N;Chem. Commun., 2013, 49, 3961;none;replicated 2x in C direction
-13121N2;tong-v2, 171;PCTF-2;2D;H,C,N;Chem. Commun., 2013, 49, 3961;none;replicated 2x in C direction
-13122N2;tong-v2, 172;PCTF-3;2D;H,C,N;Chem. Commun., 2013, 49, 3961;none;replicated 2x in C direction
-13123N2;tong-v2, 173;PCTF-4;2D;H,C,N,S;Chem. Commun., 2013, 49, 3961;none;aligned to xy plan, replicated 2x in C direction
-13130N2;tong-v2, 111;DTP-ANDI-COF;2D;H,B,C,N,O;Chem. Sci., 2013, 4, 4505;none;replicated 2x in C direction
-13140N2;tong-v2, 215;T-COF 1;2D;H,B,C,O,S;Proc. Natl. Acad. Sci., 2013, 110, 4923-4928;none;replicated 2x in C direction
-13141N2;tong-v2, 216;T-COF 2;2D;H,B,C,O,S;Proc. Natl. Acad. Sci., 2013, 110, 4923-4928;none;replicated 2x in C direction
-13142N2;tong-v2, 217;T-COF 3;2D;H,B,C,O,S;Proc. Natl. Acad. Sci., 2013, 110, 4923-4928;none;replicated 2x in C direction
-13150N2;tong-v2, 249;TpBD;2D;H,C,N,O;J. Am. Chem. Soc., 2013, 135, 5328-5331;16320N;replicated 2x in C direction
-13160N2;tong-v2, 078;CuP-Ph COF;2D;H,C,N,O,Cu;J. Am. Chem. Soc., 2013, 135, 546-549;none;replicated 2x in C direction, fixed chemistry according to paper
-13161N2;tong-v2, 080;CuP-TFPh COF;2D;H,C,N,O,F,Cu;J. Am. Chem. Soc., 2013, 135, 546-549;none;replicated 2x in C direction,  fixed chemistry according to paper
-13170N2;tong-v2, 067;CoPc-PorDBA;2D;H,B,C,N,O;CrystEngComm, 2013, 15, 7157;none;aligned to xy plan, replicated 2x in C direction
-13180N3;tong-v2, 152;NPN-1;3D;H,C,N,O;Nat. Chem., 2013, 5, 830-834;none;none
-13181N3;tong-v2, 153;NPN-2;3D;H,C,N,O,Si;Nat. Chem., 2013, 5, 830-834;none;none
-13182N3;tong-v2, 154;NPN-3;3D;H,C,N,O;Nat. Chem., 2013, 5, 830-834;none;none
-14000N2;tong-v2, 014;ACOF-1;2D;H,C,N;Chem. Commun., 2014, 50, 13825-13828;none;replicated 2x in C direction
-14010N2;tong-v2, 271;TTF-Py-COF;2D;H,C,N,S;Chem. Eur. J., 2014, 20, 14608-14613;none;replicated 2x in C direction
-14020N2;tong-v2, 058;COF-AA-H;2D;H,C,N;J. Am. Chem. Soc., 2014, 136, 15885-15888;none;replicated 2x in C direction
-14030N2;tong-v2, 237;Tp-Por COF-AA;2D;H,B,C,N,O;J. Am. Chem. Soc., 2014, 136, 17802-17807 ;none;replicated 2x in C direction
-14031N2;tong-v2, 238;Tp-Por COF-AB;2D;H,B,C,N,O;J. Am. Chem. Soc., 2014, 136, 17802-17807 ;none;none
-14040N2;tong-v2, 230;TFPT-COF;2D;H,C,N,O;Chem. Sci., 2014, 5, 2789-2793;none;replicated 2x in C direction
-14050N3;tong-v2, 024;BF-COF-1;3D;H,C;Angew. Chem. Int. Ed., 2014, 53, 2878-2882;none;none
-14051N3;tong-v2, 025;BF-COF-2;3D;H,C,N,O;Angew. Chem. Int. Ed., 2014, 53, 2878-2882;none;none
-14060N2;tong-v2, 270;TTF-COF;2D;H,C,N,S;Chem. Sci., 2014, 5, 4693-4700;none;replicated 2x in C direction
-14070N2;tong-v2, 189;Py-2,2'-BPyPh-COF;2D;H,C,N;Chem. Commun., 2014, 50, 6161;none;replicated 2x in C direction
-14071N2;tong-v2, 190;Py-2,3-BPyPh-COF;2D;H,C,N;Chem. Commun., 2014, 50, 6161;none;replicated 2x in C direction
-14072N2;tong-v2, 191;Py-2,3-DHPh-COF;2D;H,C,N,O;Chem. Commun., 2014, 50, 6161;none;replicated 2x in C direction
-14073N2;tong-v2, 200;Py-DHPh COF;2D;H,C,N,O;Chem. Commun., 2014, 50, 6161;none;replicated 2x in C direction
-14080N2;tong-v2, 018;AzO-COF;2D;H,B,C,N,O;CrystEngComm, 2014, 16, 6547;none;replicated 2x in C direction
-14090N2;tong-v2, 232;Tp-Azo;2D;H,C,N,O;J. Am. Chem. Soc., 2014, 136, 6570-6573;none;replicated 2x in C direction
-14091N2;tong-v2, 239;Tp-Stb;2D;H,C,N,O;J. Am. Chem. Soc., 2014, 136, 6570-6573;none;aligned to xy plan, replicated 2x in C direction
-14100N2;tong-v2, 059;COFBTA-PDA;2D;H,C,N;Angew. Chem. Int. Ed., 2014, 53, 9564-9568;none;replicated 2x in C direction
-15000N2;tong-v2, 030;C2N-h2D;2D;C,N;Nat. Commun., 2015, 6, 6486;none;replicated 2x in C direction
-15010N2;tong-v2, 195;Py-An COF;2D;H,C,N;Chem. Commun., 2015, 51, 10096--10098;none;aligned to xy plan, replicated 2x in C direction
-15020N2;tong-v2, 068;CPF-1;2D;H,C,N,O;Catal. Sci. Technol., 2015, 5, 101-104;none;aligned to xy plan, replicated 2x in C direction
-15021N2;tong-v2, 069;CPF-2;2D;H,C,N,O;Catal. Sci. Technol., 2015, 5, 101-104;none;aligned to xy plan, replicated 2x in C direction
-15030N2;tong-v2, 158;NTU-COF-1;2D;H,B,C,N,O;J. Am. Chem. Soc., 2015, 137, 1020-1023;none;replicated 2x in C direction
-15031N2;tong-v2, 159;NTU-COF-2;2D;H,B,C,N,O;J. Am. Chem. Soc., 2015, 137, 1020-1023;none;replicated 2x in C direction
-15040N2;tong-v2, 203;RT-COF-1;2D;H,B,C,O;Chem. Eur. J., 2015, 21,10666 -10670 ;none;added H on benz, replicated 2x in C direction
-15050N2;tong-v2, 060;COF-JLU2;2D;H,C,N,O;Chem. Eur. J., 2015, 21, 12079-12084;none;replicated 2x in C direction
-15060N2;tong-v2, 126;HP-COF-1;2D;H,C,N;J. Am. Chem. Soc., 2015, 137, 13772-13775;none;replicated 2x in C direction
-15061N2;tong-v2, 127;HP-COF-2;2D;H,C,N;J. Am. Chem. Soc., 2015, 137, 13772-13775;none;replicated 2x in C direction
-15070N2;tong-v2, 090;2,3-DhaTab;2D;H,C,N,O;J. Mater. Chem. A, 2015, 3, 23664-23669;none;replicated 2x in C direction
-15071N2;tong-v2, 091;2,5-DhaTab;2D;H,C,N,O;J. Mater. Chem. A, 2015, 3, 23664-23669;none;replicated 2x in C direction
-15072N2;tong-v2, 094;2,5-DhaTph;2D;H,C,N,O;J. Mater. Chem. A, 2015, 3, 23664-23669;none;aligned to xy plan, replicated 2x in C direction
-15080N2;tong-v2, 125;HO2C-H2P-COF;2D;H,B,C,N,O;Angew. Chem. Int. Ed., 2015, 54, 2986-2990;none;aligned to xy plan, replicated 2x in C direction
-15081N2;tong-v2, 166;HO-H2P-COF;2D;H,C,N,O;Angew. Chem. Int. Ed., 2015, 54, 2986-2990;none;removed H from the porphirine, replicated 2x in C direction
-15090N2;tong-v2, 093;2,3-DhaTph;2D;H,C,N,O;Chem. Commun., 2015, 51, 310-313;none;aligned to xy plan, replicated 2x in C direction
-15091N2;tong-v2, 100;2,3-DmaTph;2D;H,C,N,O;Chem. Commun., 2015, 51, 310-313;none;aligned to xy plan, replicated 2x in C direction
-15100N2;tong-v2, 229;TfpBDH;2D;H,C,N,O;Chem. Sci., 2015, 6, 3931-3939;none;some O atoms replaced with H, replicated 2x in C direction
-15101N2;tong-v2, 250;TpBDH;2D;H,C,N,O;Chem. Sci., 2015, 6, 3931-3939;none;some O atoms replaced with H, replicated 2x in C direction
-15110N2;tong-v2, 015;AEM-COF-1;2D;H,B,C,O;Chem. Sci., 2015, 6, 4049-4053;none;replicated 2x in C direction
-15111N2;tong-v2, 016;AEM-COF-2;2D;H,B,C,O;Chem. Sci., 2015, 6, 4049-4053;none;replicated 2x in C direction
-15120N2;tong-v2, 065;COF-SDU1;2D;H,C,N,O;RSC Adv., 2015, 5, 41017-41024;none;replicated 2x in C direction
-15130N2;tong-v2, 085;DBA-COF 1;2D;H,B,C,O;Chem. Mater., 2015, 27, 6169-6172;none;replicated 2x in C direction
-15131N2;tong-v2, 086;DBA-COF 2;2D;H,B,C,O;Chem. Mater., 2015, 27, 6169-6172;none;replicated 2x in C direction
-15140N2;tong-v2, 092;DhaTab;2D;H,C,N;Nat. Commun., 2015, 6, 6786;none;replicated 2x in C direction
-15150N2;tong-v2, 124;HCC-H2P-COF;2D;H,C,N,O;J. Am. Chem. Soc., 2015, 137, 7079-7082;none;replicated 2x in C direction
-15160N2;tong-v2, 134;iPrTAPB-TFP;2D;H,C,N,O;J. Mater. Chem. C, 2015, 3, 7159-7171;none;aligned to xy plan, replicated 2x in C direction
-15161N2;tong-v2, 135;iPrTAPB-TFPB;2D;H,C,N;J. Mater. Chem. C, 2015, 3, 7159-7171;none;replicated 2x in C direction
-15162N2;tong-v2, 220;TAPB-TFP;2D;H,C,N,O;J. Mater. Chem. C, 2015, 3, 7159-7171;none;aligned to xy plan, replicated 2x in C direction
-15163N2;tong-v2, 221;TAPB-TFPB;2D;H,C,N;J. Mater. Chem. C, 2015, 3, 7159-7171;none;replicated 2x in C direction
-15170N2;tong-v2, 123;HBC-COF;2D;H,C,N;Nat. Commun., 2015, 6, 7786;none;replicated 2x in C direction
-15171N2;tong-v2, 128;HPB-COF;2D;H,C,N;Nat. Commun., 2015, 6, 7786;none;replicated 2x in C direction
-15180N2;tong-v2, 087;DCuPc-ANDI-COF;2D;H,B,C,N,O,Cu;J. Am. Chem. Soc., 2015, 137, 7817-7827;none;replicated 2x in C direction
-15181N2;tong-v2, 088;DCuPc-APDI-COF;2D;H,B,C,N,O,Cu;J. Am. Chem. Soc., 2015, 137, 7817-7827;none;replicated 2x in C direction
-15182N2;tong-v2, 089;DCuPc-APyrDI-COF;2D;H,B,C,N,O,Cu;J. Am. Chem. Soc., 2015, 137, 7817-7827;none;replicated 2x in C direction
-15183N2;tong-v2, 108;DNiPc-ANDI-COF;2D;H,B,C,N,O,Ni;J. Am. Chem. Soc., 2015, 137, 7817-7827;none;replicated 2x in C direction
-15184N2;tong-v2, 109;DNiPc-APDI-COF;2D;H,B,C,N,O,Ni;J. Am. Chem. Soc., 2015, 137, 7817-7827;none;replicated 2x in C direction
-15185N2;tong-v2, 110;DNiPc-APyrDI-COF;2D;H,B,C,N,O,Ni;J. Am. Chem. Soc., 2015, 137, 7817-7827;none;replicated 2x in C direction
-15186N2;tong-v2, 112;DTP-APyrDI-COF;2D;H,B,C,N,O;J. Am. Chem. Soc., 2015, 137, 7817-7827;none;replicated 2x in C direction
-15190N2;tong-v2, 017;ATFG-COF;2D;H,C,N,O;Chem. Mater., 2015, 27, 7874-7881;none;replicated 2x in C direction
-15200N3;tong-v2, 179;PI-COF-4-2P;3D;H,C,N,O;J. Am. Chem. Soc., 2015, 137, 8352-8355;none;none
-15201N3;tong-v2, 180;PI-COF-5;3D;H,C,N,O;J. Am. Chem. Soc., 2015, 137, 8352-8355;none;none
-15202N3;tong-v2, 181;PI-COF-5-2P;3D;H,C,N,O;J. Am. Chem. Soc., 2015, 137, 8352-8355;none;none
-15210N2;tong-v2, 174;Ph-An-COF;2D;H,B,C,O;Angew. Chem. Int. Ed., 2015, 54, 8704-8707;none;replicated 2x in C direction
-15211N2;tong-v2, 175;Ph-AnCD-COF;2D;H,B,C,O;Angew. Chem. Int. Ed., 2015, 54, 8704-8707;none;replicated 2x in C direction
-16000N2;tong-v2, 198;Py-DBA-COF-1;2D;H,B,C,O;J. Am. Chem. Soc., 2016, 138, 10120-10123;none;replicated 2x in C direction
-16001N2;tong-v2, 199;Py-DBA-COF-2;2D;H,B,C,O;J. Am. Chem. Soc., 2016, 138, 10120-10123;none;replicated 2x in C direction
-16002N2;tong-v2, 201;Py-MV-DBA-COF;2D;H,B,C,O;J. Am. Chem. Soc., 2016, 138, 10120-10123;none;replicated 2x in C direction
-16010N2;tong-v2, 019;BBO-COF-1;2D;H,B,C,O;ACS Macro Lett., 2016, 5, 1055-1058;none;replicated 2x in C direction
-16011N2;tong-v2, 020;BBO-COF-2;2D;H,B,C,O;ACS Macro Lett., 2016, 5, 1055-1058;none;replicated 2x in C direction
-16020N2;tong-v2, 062;COF-JLU4;2D;H,C,N,O;Chem. Commun., 2016, 52, 11088-11091;none;replicated 2x in C direction
-16030N2;tong-v2, 138;LZU-70;2D;H,C,N;J. Am. Chem. Soc., 2016, 138, 11489-11492;none;replicated 2x in C direction
-16031N2;tong-v2, 139;LZU-72;2D;H,C,N;J. Am. Chem. Soc., 2016, 138, 11489-11492;none;replicated 2x in C direction
-16032N2;tong-v2, 140;LZU-76;2D;H,C,N,O;J. Am. Chem. Soc., 2016, 138, 11489-11492;none;replicated 2x in C direction
-16040N2;tong-v2, 209;SIOC-COF-5;2D;H,C,N;Chem. Commun., 2016, 52, 11704-11707;none;aligned to xy plan, replicated 2x in C direction
-16041N2;tong-v2, 210;SIOC-COF-6;2D;H,C,N;Chem. Commun., 2016, 52, 11704-11707;none;replicated 2x in C direction
-16050N2;tong-v2, 141;MC-COF-NiPc-E1E7;2D;H,B,C,N,O,Ni;Nat. Commun., 2016, 7, 12325;none;replicated 2x in C direction
-16051N2;tong-v2, 142;MC-COF-TP-E11E22;2D;H,B,C,N,O,S;Nat. Commun., 2016, 7, 12325;none;replicated 2x in C direction
-16052N2;tong-v2, 143;MC-COF-TP-E11E71;2D;H,B,C,N,O,S;Nat. Commun., 2016, 7, 12325;none;aligned to xy plan, replicated 2x in C direction
-16053N2;tong-v2, 144;MC-COF-TP-E11E72;2D;H,B,C,O;Nat. Commun., 2016, 7, 12325;none;replicated 2x in C direction
-16054N2;tong-v2, 145;MC-COF-TP-E12E21;2D;H,B,C,N,O,S;Nat. Commun., 2016, 7, 12325;none;replicated 2x in C direction
-16055N2;tong-v2, 146;MC-COF-TP-E12E71;2D;H,B,C,O;Nat. Commun., 2016, 7, 12325;none;replicated 2x in C direction
-16056N2;tong-v2, 147;MC-COF-TP-E1E3E7;2D;H,B,C,O,S;Nat. Commun., 2016, 7, 12325;none;aligned to xy plan, replicated 2x in C direction
-16057N2;tong-v2, 148;MC-COF-TP-E22E31;2D;H,B,C,N,O,S;Nat. Commun., 2016, 7, 12325;none;replicated 2x in C direction
-16058N2;tong-v2, 149;MC-COF-TP-E22E41;2D;H,B,C,N,O,S;Nat. Commun., 2016, 7, 12325;none;aligned to xy plan, replicated 2x in C direction
-16060N2;tong-v2, 032;CCOF-1;2D;H,C,N,O;J. Am. Chem. Soc., 2016, 138, 12332-12335;none;none
-16061N2;tong-v2, 033;CCOF-2;2D;H,C,N,O;J. Am. Chem. Soc., 2016, 138, 12332-12335;none;none
-16070N2;tong-v2, 164;NUS-3;2D;H,C,N,O;Chem. Mater., 2016, 28, 1277-1285;none;replicated 2x in C direction
-16080N2;tong-v2, 028;BW-COF-AA;2D;H,C,N;ACS Macro Lett., 2016, 5, 1348-1352;none;aligned to xy plan, replicated 2x in C direction
-16081N2;tong-v2, 029;BW-COF-AB;2D;H,C,N;ACS Macro Lett., 2016, 5, 1348-1352;none;aligned to xy plan
-16082N2;tong-v2, 121;HB-COF-AA;2D;H,C,N;ACS Macro Lett., 2016, 5, 1348-1352;none;replicated 2x in C direction
-16083N2;tong-v2, 122;HB-COF-AB;2D;H,C,N;ACS Macro Lett., 2016, 5, 1348-1352;none;aligned to xy plan
-16090N2;tong-v2, 228;TfBD;2D;H,B,C,O;Angew. Chem. Int. Ed., 2016, 55, 13979 -13984 ;none;replicated 2x in C direction
-16100N2;tong-v2, 151;N3-COF;2D;H,C,N;J. Mater. Chem. A, 2016, 4, 14106-14110;none;replicated 2x in C direction
-16110N3;tong-v2, 096;DL-COF-1-bor;3D;H,B,C,N,O;J. Am. Chem. Soc., 2016, 138, 14783-14788;none;none
-16111N3;tong-v2, 097;DL-COF-1-ctn;3D;H,B,C,N,O;J. Am. Chem. Soc., 2016, 138, 14783-14788;none;none
-16112N3;tong-v2, 098;DL-COF-2-bor;3D;H,B,C,N,O,F;J. Am. Chem. Soc., 2016, 138, 14783-14788;none;none
-16113N3;tong-v2, 099;DL-COF-2-ctn;3D;H,B,C,N,O,F;J. Am. Chem. Soc., 2016, 138, 14783-14788;none;none
-16120N2;tong-v2, 259;TpPa-Py;2D;H,C,N,O;Chem. Mater., 2016, 28, 1489-1494;none;aligned to xy plan, replicated 2x in C direction
-16121N2;tong-v2, 260;TpPa-SO3H-Py;2D;H,C,N,O,S;Chem. Mater., 2016, 28, 1489-1494;none;aligned to xy plan, replicated 2x in C direction
-16130N3;tong-v2, 155;Ni-DBA-3D-COF-bor;3D;H,B,C,O,Ni;J. Am. Chem. Soc., 2016, 138, 15134-15137;none;none
-16131N3;tong-v2, 156;Ni-DBA-3D-COF-ctn;3D;H,B,C,O,Ni;J. Am. Chem. Soc., 2016, 138, 15134-15137;none;none
-16140N2;tong-v2, 008;4PE-1P-oxi;2D;H,C,N,O;J. Am. Chem. Soc., 2016, 138, 15519-15522;none;H added on N, replicated 2x in C direction
-16141N2;tong-v2, 241;TPB-TP-COF-oxi;2D;H,C,N,O;J. Am. Chem. Soc., 2016, 138, 15519-15522;none;replicated 2x in C direction
-16142N2;tong-v2, 242;TPB-TP-COF;2D;H,C,N;J. Am. Chem. Soc., 2016, 138, 15519-15522;none;replicated 2x in C direction
-16150N2;tong-v2, 084;DaTP;2D;H,C,N,O;Angew. Chem. Int. Ed., 2016, 55, 15604 -15608;none;replicated 2x in C direction
-16160N2;tong-v2, 131;IISERP-COF3;2D;H,C,N,O;Adv. Energy Mater., 2016, 6, 1601189 ;none;aligned to xy plan, replicated 2x in C direction
-16170N2;tong-v2, 187;Py-1P COF;2D;H,C,N;J. Am. Chem. Soc., 2016, 138, 16703-16710 ;none;replicated 2x in C direction
-16171N2;tong-v2, 188;Py-1PF COF;2D;H,C,N,F;J. Am. Chem. Soc., 2016, 138, 16703-16710 ;none;replicated 2x in C direction
-16172N2;tong-v2, 192;Py-2PE COF;2D;H,C,N;J. Am. Chem. Soc., 2016, 138, 16703-16710 ;none;replicated 2x in C direction
-16173N2;tong-v2, 193;Py-3PEBTD COF;2D;H,C,N,S;J. Am. Chem. Soc., 2016, 138, 16703-16710 ;none;replicated 2x in C direction
-16174N2;tong-v2, 194;Py-3PE COF;2D;H,C,N,O;J. Am. Chem. Soc., 2016, 138, 16703-16710 ;none;replicated 2x in C direction
-16180C2;tong-v2, 129;ICOF-1;2D;H,B,C,N,O;Angew. Chem. Int. Ed., 2016, 55, 1737-1741;none;aligned to xy plan, replicated 2x in C direction
-16181C2;tong-v2, 130;ICOF-2;2D;H,Li,B,C,O;Angew. Chem. Int. Ed., 2016, 55, 1737-1741;none;replicated 2x in C direction
-16190N2;tong-v2, 207;SIOC-COF-3-AB;2D;H,C,N;Chem. Eur. J., 2016, 22, 17784-17789;none;none
-16191N2;tong-v2, 208;SIOC-COF-4-AB;2D;H,C,N;Chem. Eur. J., 2016, 22, 17784-17789;none;none
-16200N2;tong-v2, 160;NUS-10;2D;H,C,N,O,S;ACS Appl. Mater. Inter., 2016, 8, 18505-18512;none;replicated 2x in C direction
-16201N2;tong-v2, 165;NUS-9;2D;H,C,N,O,S;ACS Appl. Mater. Inter., 2016, 8, 18505-18512;none;replicated 2x in C direction
-16210N2;tong-v2, 222;Tb-DANT-COF;2D;H,C,N,O;J. Mater. Chem. A, 2016, 4, 18621-18627;none;replicated 2x in C direction
-16211N2;tong-v2, 236;Tp-DANT-COF;2D;H,C,N,O;J. Mater. Chem. A, 2016, 4, 18621-18627;none;replicated 2x in C direction
-16220N2;tong-v2, 066;COF-TpAzo;2D;H,C,N,O;J. Chem. Eng. Data., 2016, 61, 1904-1909;none;replicated 2x in C direction
-16230N2;tong-v2, 268;TRIPTA;2D;H,C,N,O;RSC Adv., 2016, 6, 28047-28054;none;replicated 2x in C direction
-16240C2;tong-v2, 265;TpTG-Br;2D;H,C,N,O,Br;J. Am. Chem. Soc., 2016, 138, 2823-2828;none;replicated 2x in C direction
-16241C2;tong-v2, 266;TpTG-Cl;2D;H,C,N,O,Cl;J. Am. Chem. Soc., 2016, 138, 2823-2828;none;replicated 2x in C direction
-16242C2;tong-v2, 267;TpTG-I;2D;H,C,N,O,I;J. Am. Chem. Soc., 2016, 138, 2823-2828;none;replicated 2x in C direction
-16250N3;tong-v2, 006;3D-Py-COF;3D;H,C,N;J. Am. Chem. Soc., 2016, 138, 3302-3305;none;none
-16251N3;tong-v2, 007;3D-Py-COF-2P;3D;H,C,N;J. Am. Chem. Soc., 2016, 138, 3302-3305;none;none
-16260N2;tong-v2, 064;COF-LZU8;2D;H,C,N,O,S;J. Am. Chem. Soc., 2016, 138, 3031-3037;none;replicated 2x in C direction
-16270N2;tong-v2, 009;4PE-1P;2D;H,C,N;Nat. Chem., 2016, 8, 310-316;none;replicated 2x in C direction
-16271N2;tong-v2, 010;4PE-2P;2D;H,C,N;Nat. Chem., 2016, 8, 310-316;none;replicated 2x in C direction
-16272N2;tong-v2, 011;4PE-3P;2D;H,C,N;Nat. Chem., 2016, 8, 310-316;none;replicated 2x in C direction
-16273N2;tong-v2, 012;4PE-TT;2D;H,C,N,S;Nat. Chem., 2016, 8, 310-316;none;replicated 2x in C direction
-16280C2;tong-v2, 168;PC-COF;2D;H,C,N,Cl;Polym. Chem., 2016, 7, 3392-3397;none;aligned to xy plan, replicated 2x in C direction
-16290N3;tong-v2, 054;COF-505;3D;H,C,N;Science, 2016, 351, 361-365;none;Removed Cu(I) and BF4-
-16300N2;tong-v2, 219;TAPB-PDA COF;2D;H,C,N;Chem. Commun., 2016, 52, 3690-3693;none;replicated 2x in C direction
-16310N2;tong-v2, 031;CC-TAPH-COF;2D;H,C,N,O;RSC Adv., 2016, 6, 38774-38781;none;Removed 2H from porph, added missing H on benz, UFF opt overlapping, aligned to xy plan, replicated 2x in C direction
-16311N2;tong-v2, 157;NN-TAPH-COF;2D;H,C,N,O;RSC Adv., 2016, 6, 38774-38781;none;Added H on CN, aligned to xy plan, replicated 2x in C direction
-16312N2;tong-v2, 167;OH-TAPH-COF;2D;H,C,N,O;RSC Adv., 2016, 6, 38774-38781;none;aligned to xy plan, replicated 2x in C direction
-16320N2;tong-v2, 253;TpFn;2D;H,C,N,O;IUCRJ, 2016, 6, 402-407;13150N;replicated 2x in C direction
-16330N2;tong-v2, 176;PI-2-COF;2D;H,C,N;Chem. Commun., 2016, 52, 4128-4131;none;replicated 2x in C direction
-16331N2;tong-v2, 177;PI-3-COF;2D;H,C,N;Chem. Commun., 2016, 52, 4128-4131;none;moved H from N to C, replicated 2x in C direction
-16332N3;tong-v2, 178;PI-COF-4;3D;H,C,N,O;Chem. Commun., 2016, 52, 4128-4131;none;none
-16340N2;tong-v2, 185;POR-COF;2D;H,C,N,O;CrystEngComm, 2016, 18, 4259-4263;none;corrected N=O group, replicated 2x in C direction
-16350N2;tong-v2, 022;BDT-COF;2D;H,B,C,O,S;CrystEngComm, 2016, 18, 4295-4302;none;replicated 2x in C direction
-16351N2;tong-v2, 023;BDT-OEt-COF;2D;H,B,C,O,S;CrystEngComm, 2016, 18, 4295-4302;none;replicated 2x in C direction
-16360N2;tong-v2, 262;TPT-COF-1;2D;H,C,N,O;Chem. Commun., 2016, 52, 4706-4709;none;replicated 2x in C direction
-16361N2;tong-v2, 263;TPT-COF-2;2D;H,C,N,O;Chem. Commun., 2016, 52, 4706-4709;none;replicated 2x in C direction
-16370N2;tong-v2, 076;CTF-FUM;2D;H,C,N;Environ. Sci. Tech., 2016, 50, 4869-4876;none;replicated 2x in C direction
-16371N2;tong-v2, 077;CTF-DCN;2D;H,C,N;Environ. Sci. Tech., 2016, 50, 4869-4876;none;replicated 2x in C direction
-16380N2;tong-v2, 161;NUS-14;2D;H,C,N;Chem. Mater., 2016, 28, 5095-5101;none;replicated 2x in C direction
-16381N2;tong-v2, 162;NUS-15;2D;H,C,N;Chem. Mater., 2016, 28, 5095-5101;none;replicated 2x in C direction
-16390N2;tong-v2, 272;TThPP;2D;H,C,N,S;ACS Appl. Mater. Inter., 2016, 8, 5366-5375;none;aligned to xy plan, replicated 2x in C direction, added S atoms as in the paper
-16400N2;tong-v2, 252;TPE-Ph COF;2D;H,B,C,O;J. Am. Chem. Soc., 2016, 138, 5797-5800;none;replicated 2x in C direction
-16410C2;tong-v2, 113;EB-COF:Br;2D;H,C,N,O,Br;J. Am. Chem. Soc., 2016, 138, 5897-5903;none;aligned to xy plan, replicated 2x in C direction
-16411C2;tong-v2, 114;EB-COF:Cl;2D;H,C,N,O,Cl;J. Am. Chem. Soc., 2016, 138, 5897-5903;none;substituted Br with Cl, aligned to xy plan, replicated 2x in C direction
-16412C2;tong-v2, 115;EB-COF:F;2D;H,C,N,O,F;J. Am. Chem. Soc., 2016, 138, 5897-5903;none;substituted Br with F, aligned to xy plan, replicated 2x in C direction
-16413C2;tong-v2, 116;EB-COF:I;2D;H,C,N,O,I;J. Am. Chem. Soc., 2016, 138, 5897-5903;none;substituted Br with I, aligned to xy plan, replicated 2x in C direction
-16420N2;tong-v2, 246;TpBD-NHCOCH3;2D;H,C,N,O;Chem. Mater., 2016, 28, 626-631;none;UFF optimized to fix overlapping H, replicated 2x in C direction
-16430N2;tong-v2, 061;COF-JLU3;2D;H,C,N,O;Chem. Commun., 2016, 52, 6613-6616;none;aligned to xy plan, replicated 2x in C direction
-16440N2;tong-v2, 240;TPB-DMTP-COF;2D;H,C,N,O;Nat. Mater., 2016, 15, 722-727;none;aligned to xy plan, replicated 2x in C direction
-16450N2;tong-v2, 184;Por-COF;2D;H,C,N;J. Mater. Chem. A, 2016, 4, 7416-7421;none;aligned to xy plan
-16460N2;tong-v2, 095;2,3-DhaTta;2D;H,C,N,O;Angew. Chem. Int. Ed., 2016, 55, 7806-7810;none;replicated 2x in C direction
-16470N2;tong-v2, 021;BCCTP-COF;2D;H,C;Chem. Commun., 2016, 52, 8726-8729;none;replicated 2x in C direction
-16480N2;tong-v2, 273;TTI-COF;2D;H,C,N;Adv. Mater., 2016, 28, 8749-8754;none;replicated 2x in C direction
-16490N2;tong-v2, 150;MPCOF;2D;H,C,N,P;J. Hazard. Mater., 2016, 314, 95-104;none;replicated 2x in C direction
-16500N2;tong-v2, 231;TH-COF-1;2D;H,C,N,S;Micropor. Mesopor. Mat., 2016, 224, 95-99;none;replicated 2x in C direction
-16510N2;tong-v2, 119;HAT-COF;2D;H,C,N;ACS Macro Lett., 2016, 5, 99-102;none;replicated 2x in C direction
-17000N2;tong-v2, 183;PI-COF;2D;H,C,N,O;ACS Appl. Mater. Inter., 2017, 9, 13415-13421;none;replicated 2x in C direction
-17010N2;tong-v2, 223;TBI-COF;2D;H,C,N;Mater. Chem. Front., 2017, 1, 1354-1361;none;replicated 2x in C direction
-17020N2;tong-v2, 251;TpBPy;2D;H,C,N,O;ACS Appl. Mater. Inter., 2017, 9, 13785-13792 ;none;replicated 2x in C direction
-17030N2;tong-v2, 264;TpTD;2D;H,C,N,O;Adv. Mater., 2017, 29, 1603945;none;replicated 2x in C direction
-17040N2;tong-v2, 206;SB-PORPy;2D;H,C,N;ACS Appl. Mater. Inter., 2017, 9 , 23843-23851;none;none
-17050N2;tong-v2, 218;TAPB-BMTTPA-COF;2D;H,C,N,S;J. Am. Chem. Soc., 2017, 139, 2428-2434;none;replicated 2x in C direction
-17060N2;SI;HAT-NTBCA-COF;2D;H,C,N;Chem. Commun., 2017, 53, 2431-2434;none;replicated 2x in C direction
-17061N2;SI;HAT-NTBA-COF;2D;H,C,N;Chem. Commun., 2017, 53, 2431-2434;none;replicated 2x in C direction
-17070N2;tong-v2, 274;TzDa;2D;H,C,N,O;ACS Appl. Mater. Inter., 2017, 9, 24999-25005;none;replicated 2x in C direction
-17080C2;tong-v2, 202;PyTTA-BFBIm-iCOF;2D;H,C,N,Br;Angew. Chem. Int. Ed., 2017, 56, 4982-4986;none;none
-17090N3;tong-v2, 136;LZU-301-sol;3D;H,C,N;J. Am. Chem. Soc., 2017, 139, 4995-4998;none;none
-17091N3;tong-v2, 137;LZU-301;3D;H,C,N;J. Am. Chem. Soc., 2017, 139, 4995-4998;none;none
-17100N2;tong-v2, 182;PI-COF-SR;2D;H,C,N,O;Sci. Rep., 2017, 7, 557 ;none;replicated 2x in C direction
-17110N2;tong-v2, 205;Salen-COF;2D;H,C,N,O;J. Am. Chem. Soc., 2017, 139, 6042-6045;none;replicated 2x in C direction
-17120N2;tong-v2, 034;CCOF-MPC;2D;H,C,N;Chem. Mater., 2017, 29, 6518-6524;none;none
-17130N2;tong-v2, 233;TP-COF-BZ;2D;H,C,N;J. Am. Chem. Soc., 2017, 139, 6736-6743;none;replicated 2x in C direction
-17131N2;tong-v2, 234;TP-COF-DAB;2D;H,C,N;J. Am. Chem. Soc., 2017, 139, 6736-6743;none;replicated 2x in C direction
-17140N2;tong-v2, 117;FL-COF-1;2D;H,C,N;ACS Appl. Mater. Inter., 2017, 9, 7108-7114;none;add a second H to penthagonal C, replicated 2x in C direction
-17150N2;tong-v2, 101;DMTA-TPB1/2';2D;H,C,N,O;J. Am. Chem. Soc., 2017, 139, 8277-8285;none;replicated 2x in C direction
-17151N2;tong-v2, 102;DMTA-TPB1/3';2D;H,C,N,O;J. Am. Chem. Soc., 2017, 139, 8277-8285;none;replicated 2x in C direction
-17152N2;tong-v2, 103;DMTA-TPB1/4';2D;H,C,N,O;J. Am. Chem. Soc., 2017, 139, 8277-8285;none;replicated 2x in C direction
-17153N2;tong-v2, 104;DMTA-TPB1/5';2D;H,C,N,O;J. Am. Chem. Soc., 2017, 139, 8277-8285;none;replicated 2x in C direction
-17154N2;tong-v2, 105;DMTA-TPB2;2D;H,C,N,O;J. Am. Chem. Soc., 2017, 139, 8277-8285;none;replicated 2x in C direction
-17155N2;tong-v2, 106;DMTA-TPB3;2D;H,C,N,O;J. Am. Chem. Soc., 2017, 139, 8277-8285;none;replicated 2x in C direction
-17156N2;tong-v2, 107;DMTA-TPB4;2D;H,C,N,O;J. Am. Chem. Soc., 2017, 139, 8277-8285;none;none
-17160N3;tong-v2, 002;3D-CuPor-COF-0P;3D;H,C,N,Cu;J. Am. Chem. Soc., 2017, 139, 8705-8709 ;none;none
-17161N3;tong-v2, 003;3D-CuPor-COF;3D;H,C,N,Cu;J. Am. Chem. Soc., 2017, 139, 8705-8709 ;none;none
-17162N3;tong-v2, 004;3D-Por-COF-0P;3D;H,C,N;J. Am. Chem. Soc., 2017, 139, 8705-8709 ;none;none
-17163N3;tong-v2, 005;3D-Por-COF;3D;H,C,N;J. Am. Chem. Soc., 2017, 139, 8705-8709 ;none;none
-17170N2;tong-v2, 204;SA-COF;2D;H,C,N,O;J. Am. Chem. Soc., 2017, 139, 8897-8904;none;replicated 2x in C direction
-17180N2;tong-v2, 226;TDFP-1;2D;H,C,N,O;ChemSusChem, 2017, 10, 921-929;none;added H on N, reverted C N, replicated 2x in C direction
-17181N2;tong-v2, 227;TFB-COF;2D;H,C,N,O;ChemSusChem, 2017, 10, 921-929;none;replicated 2x in C direction
-17190N2;SI;TPA-COF-2-AA;2D;H,C,N;J. Am. Chem. Soc., 2017, 139 , 8698-8704;none;replicated 2x in C direction
-17191N2;SI;TPA-COF;2D;H,C,N;J. Am. Chem. Soc., 2017, 139 , 8698-8704;none;replicated 2x in C direction
-17200C3;SI;COF-112;3D;H,B,C,N,F,Co;J. Am. Chem. Soc., 2017, 139, 13166-13172;none;none
-17210N2;SI;Tp-Ttba;2D;H,C,N,O;J. Am. Chem. Soc., 2017, 139, 13083-13091;none;replicated 2x in C direction
-17220N2;SI;Thio-COF;2D;H,C,N,O,S;J. Am. Chem. Soc., 2017, 139, 17082-17088;none;removed H from CN, replicated 2x in C direction
-17230N2;tong-v2, 211;SIOC-COF-7;2D;H,C,N;Chem. Commun., 2017, 53, 7266-7269;none;replicated 2x in C direction
-18000C3;SI;Si-COF-5-air;3D;H,C,O,Na,Si;J. Am. Chem. Soc., 2018, 140, 5330-5333;none;none
-18001C3;SI;Si-COF-5;3D;H,C,O,Na,Si;J. Am. Chem. Soc., 2018, 140, 5330-5333;none;none
-18010N3;SI;CCOF-5;3D;H,C,N,O;J. Am. Chem. Soc., 2018, 140, 892-895;none;none
-18011N3;SI;CCOF-6;3D;H,C,N,O;J. Am. Chem. Soc., 2018, 140, 892-895;none;none
-18020N3;SI;COF-DL229 2-fold;3D;H,C,N;Chem. Eur. J., 2018, 24, 585-589;none;none
-18021N3;SI;COF-DL229 4-fold;3D;H,C,N;Chem. Eur. J., 2018, 24, 585-589;none;cell dim wrong then scaled
-18022N3;SI;COF-DL229 6-fold;3D;H,C,N;Chem. Eur. J., 2018, 24, 585-589;none;none
-18023N3;SI;COF-DL229 8-fold;3D;H,C,N;Chem. Eur. J., 2018, 24, 585-589;none;none
-18030N2;SI;TPE-COF-I;2D;H,C,N;Chem. Mater., 2018, 30, 1762-1768;none;replicated 2x in C direction
-18031N2;SI;TPE-COF-II;2D;H,C,N,O;Chem. Mater., 2018, 30, 1762-1768;none;replicated 2x in C direction
-18032N2;SI;TPE-COF-III;2D;H,C,N;Chem. Mater., 2018, 30, 1762-1768;none;replicated 2x in C direction
-18033N2;SI;TPE-COF-IV;2D;H,C,N;Chem. Mater., 2018, 30, 1762-1768;none;replicated 2x in C direction
-18040N3;SI;3D-OH-COF;3D;H,C,N,O;Angew. Chem. Int. Ed., 2018, 130, 6150-6156;none;none
-18041N3;SI;3D-COOH-COF;3D;H,C,N,O;Angew. Chem. Int. Ed., 2018, 130, 6150-6156;none;fixed disorder
-18050N2;SI;[OH],0%-TD-COF;2D;H,C,N,O;ACS Appl. Mater. Inter., 2018, 10, 41350-41358;none;replicated 2x in C direction
-18060N2;SI;Tf-DHzDPr;2D;H,C,N,O;Nat. Commun., 2018, 9, 2335;none;replicated 2x in C direction
-18061N2;SI;Tf-DHzDAll;2D;H,C,N,O;Nat. Commun., 2018, 9, 2335;none;replicated 2x in C direction
-18070N2;SI;COF-HQ;2D;H,C,N,O;ACS Appl. Mater. Inter., 2018, 10, 15364-15368;none;replicated 2x in C direction
-18080N2;SI;COF-366-Co;2D;H,C,N,Co;J. Am. Chem. Soc., 2018, 140, 1116-1122;none;added missing H, replicated 2x in C direction
-18081N2;SI;COF-366-F4-Co;2D;H,C,N,F,Co;J. Am. Chem. Soc., 2018, 140, 1116-1122;none;replicated 2x in C direction
-18082N2;SI;COF-366-F-Co;2D;H,C,N,F,Co;J. Am. Chem. Soc., 2018, 140, 1116-1122;none;corrected partial occupancy of F, replicated 2x in C direction
-18083N2;SI;COF-366-(OMe)2-Co;2D;H,C,N,O,Co;J. Am. Chem. Soc., 2018, 140, 1116-1122;none;replicated 2x in C direction
-18090N2;SI;FLT-COF-1-Eclipsed;2D;H,B,C,O;J. Am. Chem. Soc., 2018, 139, 10506-10513;none;replicated 2x in C direction
-18091N2;SI;FLT-COF-1-Staggered;2D;H,B,C,O;J. Am. Chem. Soc., 2018, 139, 10506-10513;none;replicated 2x in C direction
-18100N2;SI;TP-BDDA;2D;H,C,N,O;J. Am. Chem. Soc., 2018, 140, 1423-1427;none;replicated 2x in C direction
-18101N2;SI;TP-EDDA;2D;H,C,N,O;J. Am. Chem. Soc., 2018, 140, 1423-1427;none;replicated 2x in C direction
-18110N2;SI;ILCOF-1;2D;H,C,N;J. Am. Chem. Soc., 2018, 140, 9099-9103;none;replicated 2x in C direction
-18111N2;SI;COF-921;2D;H,C,N,S;J. Am. Chem. Soc., 2018, 140, 9099-9103;none;replicated 2x in C direction
-18112N2;SI;LZU-192;2D;H,C,N,O;J. Am. Chem. Soc., 2018, 140, 9099-9103;none;replicated 2x in C direction
-18120N3;SI;3D-IL-COF-1;3D;H,C,N;J. Am. Chem. Soc., 2018, 140, 4494-4498;none;none
-18121N3;SI;3D-IL-COF-2;3D;H,C,N;J. Am. Chem. Soc., 2018, 140, 4494-4498;none;adjusted UC dimensions to have a physical aromatic C-C distance of ca. 1.45 Angs
-18122N3;SI;3D-IL-COF-3;3D;H,C,N;J. Am. Chem. Soc., 2018, 140, 4494-4498;none;adjusted UC dimensions to have a physical aromatic C-C distance of ca. 1.45 Angs
-18130N3;CSD, 1846135;COF-303;3D;H,C,N;Science, 2018, 361, 48-52;none;none
-18131N3;CSD, 1846136;COF-300_hydrate;3D;H,C,N;Science, 2018, 361, 48-52;none;removed water solvent
-18132N3;CSD, 1846138;COF-300;3D;H,C,N;Science, 2018, 361, 48-52;09000N;none
-18133N3;CSD, 1846139;LZU-111;3D;H,C,N;Science, 2018, 361, 48-52;none;none
-18134N3;CSD, 1846140;LZU-79;3D;H,C,N;Science, 2018, 361, 48-52;none;fixed partial occupation for the ligand
+"CURATED-COFs ID","Source","Name","Dimension","Elements","Reference","Duplicate found","Modifications"
+"05000N2","tong-v2, 035","COF-1","2D","H,B,C,O","Science, 2005, 310, 1166-1170","none","none"
+"05001N2","tong-v2, 053","COF-5","2D","H,B,C,O","Science, 2005, 310, 1166-1170","none","replicated 2x in C direction"
+"07000N2","tong-v2, 036","COF-10","2D","H,B,C,O","J. Am. Chem. Soc., 2007, 129, 12914-12915","none","replicated 2x in C direction"
+"07001N2","tong-v2, 055","COF-6","2D","H,B,C,O","J. Am. Chem. Soc., 2007, 129, 12914-12915","none","replicated 2x in C direction"
+"07002N2","tong-v2, 057","COF-8","2D","H,B,C,O","J. Am. Chem. Soc., 2007, 129, 12914-12915","none","replicated 2x in C direction"
+"07010N3","tong-v2, 037","COF-102","3D","H,B,C,O","Science, 2007, 316, 268-272","none","none"
+"07011N3","tong-v2, 038","COF-103","3D","H,B,C,O,Si","Science, 2007, 316, 268-272","none","none"
+"07012N3","tong-v2, 039","COF-105","3D","H,B,C,O,Si","Science, 2007, 316, 268-272","none","none"
+"07013N3","tong-v2, 040","COF-108","3D","H,B,C,O","Science, 2007, 316, 268-272","none","none"
+"08000N3","tong-v2, 045","COF-202","3D","H,B,C,O,Si","J. Am. Chem. Soc., 2008, 130, 11872-11873","none","none"
+"08010N2","tong-v2, 041","COF-11Å","2D","H,B,C,O","Adv. Mater., 2008, 20, 2741-2746","none","replicated 2x in C direction"
+"08011N2","tong-v2, 042","COF-14Å","2D","H,B,C,O","Adv. Mater., 2008, 20, 2741-2746","none","aligned to xy plan, replicated 2x in C direction"
+"08012N2","tong-v2, 043","COF-16Å","2D","H,B,C,O","Adv. Mater., 2008, 20, 2741-2746","none","aligned to xy plan, replicated 2x in C direction"
+"08013N2","tong-v2, 044","COF-18Å","2D","H,B,C,O","Adv. Mater., 2008, 20, 2741-2746","none","replicated 2x in C direction"
+"08020N2","tong-v2, 073","CTF-1","2D","H,C,N","Angew. Chem. Int. Ed., 2008, 47, 3450-3453","none","replicated 2x in C direction"
+"08030N2","tong-v2, 235","TP-COF","2D","H,B,C,O","Angew. Chem. Int. Ed., 2008, 47, 8826-8830","none","replicated 2x in C direction"
+"09000N3","tong-v2, 046","COF-300","3D","H,C,N","J. Am. Chem. Soc., 2009, 131, 4570-4571","none","none"
+"09010N2","tong-v2, 186","PPy-COF","2D","H,B,C,O","Angew. Chem. Int. Ed., 2009, 48, 5439-5442","none","replicated 2x in C direction"
+"10000N2","tong-v2, 074","CTF-2-AA","2D","H,C,N","Adv. Mater., 2010, 22, 2202-2205","none","replicated 2x in C direction"
+"10001N2","tong-v2, 075","CTF-2-AB","2D","H,C,N","Adv. Mater., 2010, 22, 2202-2205","none","none"
+"10010N2","tong-v2, 169","Pc-PBBA-COF","2D","H,B,C,N,O","Nat. Chem., 2010, 2, 672-677","none","replicated 2x in C direction"
+"10020N2","tong-v2, 224","TBPB COF","2D","H,C","Chem. Commun., 2010, 46, 7157-7159","none","replicated 2x in C direction"
+"11000N2","tong-v2, 049","COF-42-bnn","2D","H,C,N,O","J. Am. Chem. Soc., 2011, 133, 11478-11481","none","replicated 2x in C direction"
+"11001N2","tong-v2, 050","COF-42-gra","2D","H,C,N,O","J. Am. Chem. Soc., 2011, 133, 11478-11481","none","none"
+"11002N2","tong-v2, 051","COF-43-bnn","2D","H,C,N,O","J. Am. Chem. Soc., 2011, 133, 11478-11481","none","replicated 2x in C direction"
+"11003N2","tong-v2, 052","COF-43-gra","2D","H,C,N,O","J. Am. Chem. Soc., 2011, 133, 11478-11481","none","none"
+"11010N2","tong-v2, 001","2D-NiPc-BTDA-COF","2D","H,B,C,N,O,S,Ni","J. Am. Chem. Soc., 2011, 133, 14510-14513","none","replicated 2x in C direction, DFT geo_opt to fix too long N-S bond"
+"11020N2","tong-v2, 063","COF-LZU1","2D","H,C,N","J. Am. Chem. Soc., 2011, 133, 19816-19822","none","replicated 2x in C direction"
+"11030N2","tong-v2, 048","COF-366","2D","H,C,N","Chem. Mater., 2011, 23, 4094-4097","none","aligned to xy plan"
+"11031N2","tong-v2, 056","COF-66","2D","H,B,C,N,O","Chem. Mater., 2011, 23, 4094-4097","none","aligned to xy plan, replicated 2x in C direction"
+"12000N2","tong-v2, 255","TpPa-1","2D","H,C,N,O","J. Am. Chem. Soc., 2012, 134, 19524-19527","13051N","replicated 2x in C direction"
+"12001N2","tong-v2, 256","TpPa-2","2D","H,C,N,O","J. Am. Chem. Soc., 2012, 134, 19524-19527","none","replicated 2x in C direction"
+"12010N2","SI","H2P-COF","2D","H,B,C,N,O","Angew. Chem. Int. Ed., 2012, 51, 2618-2622","none","replicated 2x in C direction"
+"12011N2","SI","ZnP-COF","2D","H,B,C,N,O,Zn","Angew. Chem. Int. Ed., 2012, 51, 2618-2622","none","replicated 2x in C direction"
+"12012N2","SI","CuP-COF","2D","H,B,C,N,O,Cu","Angew. Chem. Int. Ed., 2012, 51, 2618-2622","none","replicated 2x in C direction"
+"12020N2","tong-v2, 280","ZnPc-Py","2D","H,B,C,N,O,Zn","Angew. Chem. Int. Ed., 2012, 51, 2623-2627","none","replicated 2x in C direction"
+"12022N2","tong-v2, 277","ZnPc-DPB","2D","H,B,C,N,O,Zn","Angew. Chem. Int. Ed., 2012, 51, 2623-2627","none","replicated 2x in C direction"
+"12023N2","tong-v2, 278","ZnPc-NDI","2D","H,B,C,N,O,Zn","Angew. Chem. Int. Ed., 2012, 51, 2623-2627","none","replicated 2x in C direction"
+"12024N2","tong-v2, 279","ZnPc-PPE","2D","H,B,C,N,O,Zn","Angew. Chem. Int. Ed., 2012, 51, 2623-2627","none","replicated 2x in C direction"
+"12030N2","tong-v2, 081","DA-COF","2D","H,B,C,N,O,S","Adv. Mater., 2012, 24, 3026-3031","none","replicated 2x in C direction"
+"12040N2","tong-v2, 071","CTC-COF","2D","H,B,C,O","J. Mater. Chem., 2012, 22, 5369","none","replicated 2x in C direction"
+"12050N2","tong-v2, 026","BLP-2H-AA","2D","H,B,C,N","Chem. Commun., 2012, 48, 8823-8825","none","replicated 2x in C direction"
+"12051N2","tong-v2, 027","BLP-2H-AB","2D","H,B,C,N","Chem. Commun., 2012, 48, 8823-8825","none","none"
+"12060N2","tong-v2, 276","ZnPc-COF","2D","H,B,C,N,O,Zn","Chem. Commun., 2012, 48, 8952-8954","none","aligned to xy plan, replicated 2x in C direction"
+"12061N2","manual, 12060N2","CuPc-COF","2D","H,B,C,N,O,Cu","Chem. Commun., 2012, 48, 8952-8954","none","changed metal"
+"12062N2","manual, 12060N2","CoPc-COF","2D","H,B,C,N,O,Co","Chem. Commun., 2012, 48, 8952-8954","none","changed metal"
+"13000N2","SI","FCTF-1","2D","C,N,F","Energy Environ. Sci., 2013, 6, 3684","none","created adding F to 08020N and UFF opt , replicated 2x in C direction"
+"13010N2","tong-v2, 212","Star-COF-1","2D","H,B,C,O","CrystEngComm, 2013, 15, 1508-1511","none","replicated 2x in C direction"
+"13011N2","tong-v2, 213","Star-COF-2","2D","H,B,C,O","CrystEngComm, 2013, 15, 1508-1511","none","replicated 2x in C direction"
+"13012N2","tong-v2, 214","Star-COF-3","2D","H,B,C,O","CrystEngComm, 2013, 15, 1508-1511","none","replicated 2x in C direction"
+"13020N2","tong-v2, 225","TD-COF-5","2D","H,B,C,O","CrystEngComm, 2013, 15, 1524-1527","none","replicated 2x in C direction"
+"13030N2","tong-v2, 072","CTF-0","2D","H,C,N","Chem. Mater., 2013, 25, 1542-1548","none","replicated 2x in C direction"
+"13040N3","tong-v2, 047","COF-320","3D","H,C,N","J. Am. Chem. Soc., 2013, 135, 16336-16339","none","none"
+"13050N2","tong-v2, 082","DAAQ-TFP COF","2D","H,C,N,O","J. Am. Chem. Soc., 2013, 135, 16821-16824","none","replicated 2x in C direction"
+"13051N2","tong-v2, 083","DAQ-TFP COF","2D","H,C,N,O","J. Am. Chem. Soc., 2013, 135, 16821-16824","12000N","replicated 2x in C direction"
+"13060N2","tong-v2, 196","Py-Azine COF","2D","H,C,N","J. Am. Chem. Soc., 2013, 135, 17310-17313","none","replicated 2x in C direction"
+"13070N2","tong-v2, 243","TpBD-2NO2","2D","H,C,N,O","J. Am. Chem. Soc., 2013, 135, 17853-17861","none","replicated 2x in C direction"
+"13071N2","tong-v2, 244","TPBD-ME2","2D","H,C,N,O","J. Am. Chem. Soc., 2013, 135, 17853-17861","none","replicated 2x in C direction"
+"13072N2","tong-v2, 245","TpBD-NH2","2D","H,C,N,O","J. Am. Chem. Soc., 2013, 135, 17853-17861","none","replicated 2x in C direction"
+"13073N2","tong-v2, 247","TpBD-NO2","2D","H,C,N,O","J. Am. Chem. Soc., 2013, 135, 17853-17861","none","replicated 2x in C direction"
+"13074N2","tong-v2, 248","TpBD-(OMe)2","2D","H,C,N,O","J. Am. Chem. Soc., 2013, 135, 17853-17861","none","replicated 2x in C direction"
+"13075N2","tong-v2, 254","TpPa-1-F2","2D","H,C,N,O,F","J. Am. Chem. Soc., 2013, 135, 17853-17861","none","replicated 2x in C direction"
+"13076N2","tong-v2, 257","TpPa-F4","2D","H,C,N,O,F","J. Am. Chem. Soc., 2013, 135, 17853-17861","none","replicated 2x in C direction"
+"13077N2","tong-v2, 258","TpPa-NO2","2D","H,C,N,O","J. Am. Chem. Soc., 2013, 135, 17853-17861","none","replicated 2x in C direction"
+"13078N2","tong-v2, 261","TpPa-SO3H","2D","H,C,N,O,S","J. Am. Chem. Soc., 2013, 135, 17853-17861","none","replicated 2x in C direction"
+"13080N2","tong-v2, 070","CS-COF","2D","H,C,N","Nat. Commun., 2013, 4, 2736","none","replicated 2x in C direction"
+"13090N2","tong-v2, 269","TT-COF","2D","H,B,C,O,S","Angew. Chem. Int. Ed., 2013, 52, 2920-2924","none","replicated 2x in C direction"
+"13100N2","tong-v2, 132","ILCOF-1-AA","2D","H,C,N","Chem. Eur. J., 2013, 19, 3324-3328","none","replicated 2x in C direction"
+"13101N2","tong-v2, 133","ILCOF-1-AB","2D","H,C,N","Chem. Eur. J., 2013, 19, 3324-3328","none","none"
+"13110N2","tong-v2, 079","CuP-SQ COF","2D","H,C,N,O,Cu","Angew. Chem. Int. Ed., 2013, 52, 3770-3774","none","fixed missing Cu but the geometry of the ligand is wrong when compared to the paper, replicated 2x in C direction"
+"13120N2","tong-v2, 170","PCTF-1","2D","H,C,N","Chem. Commun., 2013, 49, 3961","none","replicated 2x in C direction"
+"13121N2","tong-v2, 171","PCTF-2","2D","H,C,N","Chem. Commun., 2013, 49, 3961","none","replicated 2x in C direction"
+"13122N2","tong-v2, 172","PCTF-3","2D","H,C,N","Chem. Commun., 2013, 49, 3961","none","replicated 2x in C direction"
+"13123N2","tong-v2, 173","PCTF-4","2D","H,C,N,S","Chem. Commun., 2013, 49, 3961","none","aligned to xy plan, replicated 2x in C direction"
+"13130N2","tong-v2, 111","DTP-ANDI-COF","2D","H,B,C,N,O","Chem. Sci., 2013, 4, 4505","none","replicated 2x in C direction"
+"13140N2","tong-v2, 215","T-COF 1","2D","H,B,C,O,S","Proc. Natl. Acad. Sci., 2013, 110, 4923-4928","none","replicated 2x in C direction"
+"13141N2","tong-v2, 216","T-COF 2","2D","H,B,C,O,S","Proc. Natl. Acad. Sci., 2013, 110, 4923-4928","none","replicated 2x in C direction"
+"13142N2","tong-v2, 217","T-COF 3","2D","H,B,C,O,S","Proc. Natl. Acad. Sci., 2013, 110, 4923-4928","none","replicated 2x in C direction"
+"13150N2","tong-v2, 249","TpBD","2D","H,C,N,O","J. Am. Chem. Soc., 2013, 135, 5328-5331","16320N","replicated 2x in C direction"
+"13160N2","tong-v2, 078","CuP-Ph COF","2D","H,C,N,O,Cu","J. Am. Chem. Soc., 2013, 135, 546-549","none","replicated 2x in C direction, fixed chemistry according to paper"
+"13161N2","tong-v2, 080","CuP-TFPh COF","2D","H,C,N,O,F,Cu","J. Am. Chem. Soc., 2013, 135, 546-549","none","replicated 2x in C direction,  fixed chemistry according to paper"
+"13170N2","tong-v2, 067","CoPc-PorDBA","2D","H,B,C,N,O","CrystEngComm, 2013, 15, 7157","none","aligned to xy plan, replicated 2x in C direction"
+"13180N3","tong-v2, 152","NPN-1","3D","H,C,N,O","Nat. Chem., 2013, 5, 830-834","none","none"
+"13181N3","tong-v2, 153","NPN-2","3D","H,C,N,O,Si","Nat. Chem., 2013, 5, 830-834","none","none"
+"13182N3","tong-v2, 154","NPN-3","3D","H,C,N,O","Nat. Chem., 2013, 5, 830-834","none","none"
+"14000N2","tong-v2, 014","ACOF-1","2D","H,C,N","Chem. Commun., 2014, 50, 13825-13828","none","replicated 2x in C direction"
+"14010N2","tong-v2, 271","TTF-Py-COF","2D","H,C,N,S","Chem. Eur. J., 2014, 20, 14608-14613","none","replicated 2x in C direction"
+"14020N2","tong-v2, 058","COF-AA-H","2D","H,C,N","J. Am. Chem. Soc., 2014, 136, 15885-15888","none","replicated 2x in C direction"
+"14030N2","tong-v2, 237","Tp-Por COF-AA","2D","H,B,C,N,O","J. Am. Chem. Soc., 2014, 136, 17802-17807 ","none","replicated 2x in C direction"
+"14031N2","tong-v2, 238","Tp-Por COF-AB","2D","H,B,C,N,O","J. Am. Chem. Soc., 2014, 136, 17802-17807 ","none","none"
+"14040N2","tong-v2, 230","TFPT-COF","2D","H,C,N,O","Chem. Sci., 2014, 5, 2789-2793","none","replicated 2x in C direction"
+"14050N3","tong-v2, 024","BF-COF-1","3D","H,C","Angew. Chem. Int. Ed., 2014, 53, 2878-2882","none","none"
+"14051N3","tong-v2, 025","BF-COF-2","3D","H,C,N,O","Angew. Chem. Int. Ed., 2014, 53, 2878-2882","none","none"
+"14060N2","tong-v2, 270","TTF-COF","2D","H,C,N,S","Chem. Sci., 2014, 5, 4693-4700","none","replicated 2x in C direction"
+"14070N2","tong-v2, 189","Py-2,2'-BPyPh-COF","2D","H,C,N","Chem. Commun., 2014, 50, 6161","none","replicated 2x in C direction"
+"14071N2","tong-v2, 190","Py-2,3-BPyPh-COF","2D","H,C,N","Chem. Commun., 2014, 50, 6161","none","replicated 2x in C direction"
+"14072N2","tong-v2, 191","Py-2,3-DHPh-COF","2D","H,C,N,O","Chem. Commun., 2014, 50, 6161","none","replicated 2x in C direction"
+"14073N2","tong-v2, 200","Py-DHPh COF","2D","H,C,N,O","Chem. Commun., 2014, 50, 6161","none","replicated 2x in C direction"
+"14080N2","tong-v2, 018","AzO-COF","2D","H,B,C,N,O","CrystEngComm, 2014, 16, 6547","none","replicated 2x in C direction"
+"14090N2","tong-v2, 232","Tp-Azo","2D","H,C,N,O","J. Am. Chem. Soc., 2014, 136, 6570-6573","none","replicated 2x in C direction"
+"14091N2","tong-v2, 239","Tp-Stb","2D","H,C,N,O","J. Am. Chem. Soc., 2014, 136, 6570-6573","none","aligned to xy plan, replicated 2x in C direction"
+"14100N2","tong-v2, 059","COFBTA-PDA","2D","H,C,N","Angew. Chem. Int. Ed., 2014, 53, 9564-9568","none","replicated 2x in C direction"
+"15000N2","tong-v2, 030","C2N-h2D","2D","C,N","Nat. Commun., 2015, 6, 6486","none","replicated 2x in C direction"
+"15010N2","tong-v2, 195","Py-An COF","2D","H,C,N","Chem. Commun., 2015, 51, 10096--10098","none","aligned to xy plan, replicated 2x in C direction"
+"15020N2","tong-v2, 068","CPF-1","2D","H,C,N,O","Catal. Sci. Technol., 2015, 5, 101-104","none","aligned to xy plan, replicated 2x in C direction"
+"15021N2","tong-v2, 069","CPF-2","2D","H,C,N,O","Catal. Sci. Technol., 2015, 5, 101-104","none","aligned to xy plan, replicated 2x in C direction"
+"15030N2","tong-v2, 158","NTU-COF-1","2D","H,B,C,N,O","J. Am. Chem. Soc., 2015, 137, 1020-1023","none","replicated 2x in C direction"
+"15031N2","tong-v2, 159","NTU-COF-2","2D","H,B,C,N,O","J. Am. Chem. Soc., 2015, 137, 1020-1023","none","replicated 2x in C direction"
+"15040N2","tong-v2, 203","RT-COF-1","2D","H,B,C,O","Chem. Eur. J., 2015, 21,10666 -10670 ","none","added H on benz, replicated 2x in C direction"
+"15050N2","tong-v2, 060","COF-JLU2","2D","H,C,N,O","Chem. Eur. J., 2015, 21, 12079-12084","none","replicated 2x in C direction"
+"15060N2","tong-v2, 126","HP-COF-1","2D","H,C,N","J. Am. Chem. Soc., 2015, 137, 13772-13775","none","replicated 2x in C direction"
+"15061N2","tong-v2, 127","HP-COF-2","2D","H,C,N","J. Am. Chem. Soc., 2015, 137, 13772-13775","none","replicated 2x in C direction"
+"15070N2","tong-v2, 090","2,3-DhaTab","2D","H,C,N,O","J. Mater. Chem. A, 2015, 3, 23664-23669","none","replicated 2x in C direction"
+"15071N2","tong-v2, 091","2,5-DhaTab","2D","H,C,N,O","J. Mater. Chem. A, 2015, 3, 23664-23669","none","replicated 2x in C direction"
+"15072N2","tong-v2, 094","2,5-DhaTph","2D","H,C,N,O","J. Mater. Chem. A, 2015, 3, 23664-23669","none","aligned to xy plan, replicated 2x in C direction"
+"15080N2","tong-v2, 125","HO2C-H2P-COF","2D","H,B,C,N,O","Angew. Chem. Int. Ed., 2015, 54, 2986-2990","none","aligned to xy plan, replicated 2x in C direction"
+"15081N2","tong-v2, 166","HO-H2P-COF","2D","H,C,N,O","Angew. Chem. Int. Ed., 2015, 54, 2986-2990","none","removed H from the porphirine, replicated 2x in C direction"
+"15090N2","tong-v2, 093","2,3-DhaTph","2D","H,C,N,O","Chem. Commun., 2015, 51, 310-313","none","aligned to xy plan, replicated 2x in C direction"
+"15091N2","tong-v2, 100","2,3-DmaTph","2D","H,C,N,O","Chem. Commun., 2015, 51, 310-313","none","aligned to xy plan, replicated 2x in C direction"
+"15100N2","tong-v2, 229","TfpBDH","2D","H,C,N,O","Chem. Sci., 2015, 6, 3931-3939","none","some O atoms replaced with H, replicated 2x in C direction"
+"15101N2","tong-v2, 250","TpBDH","2D","H,C,N,O","Chem. Sci., 2015, 6, 3931-3939","none","some O atoms replaced with H, replicated 2x in C direction"
+"15110N2","tong-v2, 015","AEM-COF-1","2D","H,B,C,O","Chem. Sci., 2015, 6, 4049-4053","none","replicated 2x in C direction"
+"15111N2","tong-v2, 016","AEM-COF-2","2D","H,B,C,O","Chem. Sci., 2015, 6, 4049-4053","none","replicated 2x in C direction"
+"15120N2","tong-v2, 065","COF-SDU1","2D","H,C,N,O","RSC Adv., 2015, 5, 41017-41024","none","replicated 2x in C direction"
+"15130N2","tong-v2, 085","DBA-COF 1","2D","H,B,C,O","Chem. Mater., 2015, 27, 6169-6172","none","replicated 2x in C direction"
+"15131N2","tong-v2, 086","DBA-COF 2","2D","H,B,C,O","Chem. Mater., 2015, 27, 6169-6172","none","replicated 2x in C direction"
+"15140N2","tong-v2, 092","DhaTab","2D","H,C,N","Nat. Commun., 2015, 6, 6786","none","replicated 2x in C direction"
+"15150N2","tong-v2, 124","HCC-H2P-COF","2D","H,C,N,O","J. Am. Chem. Soc., 2015, 137, 7079-7082","none","replicated 2x in C direction"
+"15160N2","tong-v2, 134","iPrTAPB-TFP","2D","H,C,N,O","J. Mater. Chem. C, 2015, 3, 7159-7171","none","aligned to xy plan, replicated 2x in C direction"
+"15161N2","tong-v2, 135","iPrTAPB-TFPB","2D","H,C,N","J. Mater. Chem. C, 2015, 3, 7159-7171","none","replicated 2x in C direction"
+"15162N2","tong-v2, 220","TAPB-TFP","2D","H,C,N,O","J. Mater. Chem. C, 2015, 3, 7159-7171","none","aligned to xy plan, replicated 2x in C direction"
+"15163N2","tong-v2, 221","TAPB-TFPB","2D","H,C,N","J. Mater. Chem. C, 2015, 3, 7159-7171","none","replicated 2x in C direction"
+"15170N2","tong-v2, 123","HBC-COF","2D","H,C,N","Nat. Commun., 2015, 6, 7786","none","replicated 2x in C direction"
+"15171N2","tong-v2, 128","HPB-COF","2D","H,C,N","Nat. Commun., 2015, 6, 7786","none","replicated 2x in C direction"
+"15180N2","tong-v2, 087","DCuPc-ANDI-COF","2D","H,B,C,N,O,Cu","J. Am. Chem. Soc., 2015, 137, 7817-7827","none","replicated 2x in C direction"
+"15181N2","tong-v2, 088","DCuPc-APDI-COF","2D","H,B,C,N,O,Cu","J. Am. Chem. Soc., 2015, 137, 7817-7827","none","replicated 2x in C direction"
+"15182N2","tong-v2, 089","DCuPc-APyrDI-COF","2D","H,B,C,N,O,Cu","J. Am. Chem. Soc., 2015, 137, 7817-7827","none","replicated 2x in C direction"
+"15183N2","tong-v2, 108","DNiPc-ANDI-COF","2D","H,B,C,N,O,Ni","J. Am. Chem. Soc., 2015, 137, 7817-7827","none","replicated 2x in C direction"
+"15184N2","tong-v2, 109","DNiPc-APDI-COF","2D","H,B,C,N,O,Ni","J. Am. Chem. Soc., 2015, 137, 7817-7827","none","replicated 2x in C direction"
+"15185N2","tong-v2, 110","DNiPc-APyrDI-COF","2D","H,B,C,N,O,Ni","J. Am. Chem. Soc., 2015, 137, 7817-7827","none","replicated 2x in C direction"
+"15186N2","tong-v2, 112","DTP-APyrDI-COF","2D","H,B,C,N,O","J. Am. Chem. Soc., 2015, 137, 7817-7827","none","replicated 2x in C direction"
+"15190N2","tong-v2, 017","ATFG-COF","2D","H,C,N,O","Chem. Mater., 2015, 27, 7874-7881","none","replicated 2x in C direction"
+"15200N3","tong-v2, 179","PI-COF-4-2P","3D","H,C,N,O","J. Am. Chem. Soc., 2015, 137, 8352-8355","none","none"
+"15201N3","tong-v2, 180","PI-COF-5","3D","H,C,N,O","J. Am. Chem. Soc., 2015, 137, 8352-8355","none","none"
+"15202N3","tong-v2, 181","PI-COF-5-2P","3D","H,C,N,O","J. Am. Chem. Soc., 2015, 137, 8352-8355","none","none"
+"15210N2","tong-v2, 174","Ph-An-COF","2D","H,B,C,O","Angew. Chem. Int. Ed., 2015, 54, 8704-8707","none","replicated 2x in C direction"
+"15211N2","tong-v2, 175","Ph-AnCD-COF","2D","H,B,C,O","Angew. Chem. Int. Ed., 2015, 54, 8704-8707","none","replicated 2x in C direction"
+"16000N2","tong-v2, 198","Py-DBA-COF-1","2D","H,B,C,O","J. Am. Chem. Soc., 2016, 138, 10120-10123","none","replicated 2x in C direction"
+"16001N2","tong-v2, 199","Py-DBA-COF-2","2D","H,B,C,O","J. Am. Chem. Soc., 2016, 138, 10120-10123","none","replicated 2x in C direction"
+"16002N2","tong-v2, 201","Py-MV-DBA-COF","2D","H,B,C,O","J. Am. Chem. Soc., 2016, 138, 10120-10123","none","replicated 2x in C direction"
+"16010N2","tong-v2, 019","BBO-COF-1","2D","H,B,C,O","ACS Macro Lett., 2016, 5, 1055-1058","none","replicated 2x in C direction"
+"16011N2","tong-v2, 020","BBO-COF-2","2D","H,B,C,O","ACS Macro Lett., 2016, 5, 1055-1058","none","replicated 2x in C direction"
+"16020N2","tong-v2, 062","COF-JLU4","2D","H,C,N,O","Chem. Commun., 2016, 52, 11088-11091","none","replicated 2x in C direction"
+"16030N2","tong-v2, 138","LZU-70","2D","H,C,N","J. Am. Chem. Soc., 2016, 138, 11489-11492","none","replicated 2x in C direction"
+"16031N2","tong-v2, 139","LZU-72","2D","H,C,N","J. Am. Chem. Soc., 2016, 138, 11489-11492","none","replicated 2x in C direction"
+"16032N2","tong-v2, 140","LZU-76","2D","H,C,N,O","J. Am. Chem. Soc., 2016, 138, 11489-11492","none","replicated 2x in C direction"
+"16040N2","tong-v2, 209","SIOC-COF-5","2D","H,C,N","Chem. Commun., 2016, 52, 11704-11707","none","aligned to xy plan, replicated 2x in C direction"
+"16041N2","tong-v2, 210","SIOC-COF-6","2D","H,C,N","Chem. Commun., 2016, 52, 11704-11707","none","replicated 2x in C direction"
+"16050N2","tong-v2, 141","MC-COF-NiPc-E1E7","2D","H,B,C,N,O,Ni","Nat. Commun., 2016, 7, 12325","none","replicated 2x in C direction"
+"16051N2","tong-v2, 142","MC-COF-TP-E11E22","2D","H,B,C,N,O,S","Nat. Commun., 2016, 7, 12325","none","replicated 2x in C direction"
+"16052N2","tong-v2, 143","MC-COF-TP-E11E71","2D","H,B,C,N,O,S","Nat. Commun., 2016, 7, 12325","none","aligned to xy plan, replicated 2x in C direction"
+"16053N2","tong-v2, 144","MC-COF-TP-E11E72","2D","H,B,C,O","Nat. Commun., 2016, 7, 12325","none","replicated 2x in C direction"
+"16054N2","tong-v2, 145","MC-COF-TP-E12E21","2D","H,B,C,N,O,S","Nat. Commun., 2016, 7, 12325","none","replicated 2x in C direction"
+"16055N2","tong-v2, 146","MC-COF-TP-E12E71","2D","H,B,C,O","Nat. Commun., 2016, 7, 12325","none","replicated 2x in C direction"
+"16056N2","tong-v2, 147","MC-COF-TP-E1E3E7","2D","H,B,C,O,S","Nat. Commun., 2016, 7, 12325","none","aligned to xy plan, replicated 2x in C direction"
+"16057N2","tong-v2, 148","MC-COF-TP-E22E31","2D","H,B,C,N,O,S","Nat. Commun., 2016, 7, 12325","none","replicated 2x in C direction"
+"16058N2","tong-v2, 149","MC-COF-TP-E22E41","2D","H,B,C,N,O,S","Nat. Commun., 2016, 7, 12325","none","aligned to xy plan, replicated 2x in C direction"
+"16060N2","tong-v2, 032","CCOF-1","2D","H,C,N,O","J. Am. Chem. Soc., 2016, 138, 12332-12335","none","none"
+"16061N2","tong-v2, 033","CCOF-2","2D","H,C,N,O","J. Am. Chem. Soc., 2016, 138, 12332-12335","none","none"
+"16070N2","tong-v2, 164","NUS-3","2D","H,C,N,O","Chem. Mater., 2016, 28, 1277-1285","none","replicated 2x in C direction"
+"16080N2","tong-v2, 028","BW-COF-AA","2D","H,C,N","ACS Macro Lett., 2016, 5, 1348-1352","none","aligned to xy plan, replicated 2x in C direction"
+"16081N2","tong-v2, 029","BW-COF-AB","2D","H,C,N","ACS Macro Lett., 2016, 5, 1348-1352","none","aligned to xy plan"
+"16082N2","tong-v2, 121","HB-COF-AA","2D","H,C,N","ACS Macro Lett., 2016, 5, 1348-1352","none","replicated 2x in C direction"
+"16083N2","tong-v2, 122","HB-COF-AB","2D","H,C,N","ACS Macro Lett., 2016, 5, 1348-1352","none","aligned to xy plan"
+"16090N2","tong-v2, 228","TfBD","2D","H,B,C,O","Angew. Chem. Int. Ed., 2016, 55, 13979 -13984 ","none","replicated 2x in C direction"
+"16100N2","tong-v2, 151","N3-COF","2D","H,C,N","J. Mater. Chem. A, 2016, 4, 14106-14110","none","replicated 2x in C direction"
+"16110N3","tong-v2, 096","DL-COF-1-bor","3D","H,B,C,N,O","J. Am. Chem. Soc., 2016, 138, 14783-14788","none","none"
+"16111N3","tong-v2, 097","DL-COF-1-ctn","3D","H,B,C,N,O","J. Am. Chem. Soc., 2016, 138, 14783-14788","none","none"
+"16112N3","tong-v2, 098","DL-COF-2-bor","3D","H,B,C,N,O,F","J. Am. Chem. Soc., 2016, 138, 14783-14788","none","none"
+"16113N3","tong-v2, 099","DL-COF-2-ctn","3D","H,B,C,N,O,F","J. Am. Chem. Soc., 2016, 138, 14783-14788","none","none"
+"16120N2","tong-v2, 259","TpPa-Py","2D","H,C,N,O","Chem. Mater., 2016, 28, 1489-1494","none","aligned to xy plan, replicated 2x in C direction"
+"16121N2","tong-v2, 260","TpPa-SO3H-Py","2D","H,C,N,O,S","Chem. Mater., 2016, 28, 1489-1494","none","aligned to xy plan, replicated 2x in C direction"
+"16130N3","tong-v2, 155","Ni-DBA-3D-COF-bor","3D","H,B,C,O,Ni","J. Am. Chem. Soc., 2016, 138, 15134-15137","none","none"
+"16131N3","tong-v2, 156","Ni-DBA-3D-COF-ctn","3D","H,B,C,O,Ni","J. Am. Chem. Soc., 2016, 138, 15134-15137","none","none"
+"16140N2","tong-v2, 008","4PE-1P-oxi","2D","H,C,N,O","J. Am. Chem. Soc., 2016, 138, 15519-15522","none","H added on N, replicated 2x in C direction"
+"16141N2","tong-v2, 241","TPB-TP-COF-oxi","2D","H,C,N,O","J. Am. Chem. Soc., 2016, 138, 15519-15522","none","replicated 2x in C direction"
+"16142N2","tong-v2, 242","TPB-TP-COF","2D","H,C,N","J. Am. Chem. Soc., 2016, 138, 15519-15522","none","replicated 2x in C direction"
+"16150N2","tong-v2, 084","DaTP","2D","H,C,N,O","Angew. Chem. Int. Ed., 2016, 55, 15604 -15608","none","replicated 2x in C direction"
+"16160N2","tong-v2, 131","IISERP-COF3","2D","H,C,N,O","Adv. Energy Mater., 2016, 6, 1601189 ","none","aligned to xy plan, replicated 2x in C direction"
+"16170N2","tong-v2, 187","Py-1P COF","2D","H,C,N","J. Am. Chem. Soc., 2016, 138, 16703-16710 ","none","replicated 2x in C direction"
+"16171N2","tong-v2, 188","Py-1PF COF","2D","H,C,N,F","J. Am. Chem. Soc., 2016, 138, 16703-16710 ","none","replicated 2x in C direction"
+"16172N2","tong-v2, 192","Py-2PE COF","2D","H,C,N","J. Am. Chem. Soc., 2016, 138, 16703-16710 ","none","replicated 2x in C direction"
+"16173N2","tong-v2, 193","Py-3PEBTD COF","2D","H,C,N,S","J. Am. Chem. Soc., 2016, 138, 16703-16710 ","none","replicated 2x in C direction"
+"16174N2","tong-v2, 194","Py-3PE COF","2D","H,C,N,O","J. Am. Chem. Soc., 2016, 138, 16703-16710 ","none","replicated 2x in C direction"
+"16180C2","tong-v2, 129","ICOF-1","2D","H,B,C,N,O","Angew. Chem. Int. Ed., 2016, 55, 1737-1741","none","aligned to xy plan, replicated 2x in C direction"
+"16181C2","tong-v2, 130","ICOF-2","2D","H,Li,B,C,O","Angew. Chem. Int. Ed., 2016, 55, 1737-1741","none","replicated 2x in C direction"
+"16190N2","tong-v2, 207","SIOC-COF-3-AB","2D","H,C,N","Chem. Eur. J., 2016, 22, 17784-17789","none","none"
+"16191N2","tong-v2, 208","SIOC-COF-4-AB","2D","H,C,N","Chem. Eur. J., 2016, 22, 17784-17789","none","none"
+"16200N2","tong-v2, 160","NUS-10","2D","H,C,N,O,S","ACS Appl. Mater. Inter., 2016, 8, 18505-18512","none","replicated 2x in C direction"
+"16201N2","tong-v2, 165","NUS-9","2D","H,C,N,O,S","ACS Appl. Mater. Inter., 2016, 8, 18505-18512","none","replicated 2x in C direction"
+"16210N2","tong-v2, 222","Tb-DANT-COF","2D","H,C,N,O","J. Mater. Chem. A, 2016, 4, 18621-18627","none","replicated 2x in C direction"
+"16211N2","tong-v2, 236","Tp-DANT-COF","2D","H,C,N,O","J. Mater. Chem. A, 2016, 4, 18621-18627","none","replicated 2x in C direction"
+"16220N2","tong-v2, 066","COF-TpAzo","2D","H,C,N,O","J. Chem. Eng. Data., 2016, 61, 1904-1909","none","replicated 2x in C direction"
+"16230N2","tong-v2, 268","TRIPTA","2D","H,C,N,O","RSC Adv., 2016, 6, 28047-28054","none","replicated 2x in C direction"
+"16240C2","tong-v2, 265","TpTG-Br","2D","H,C,N,O,Br","J. Am. Chem. Soc., 2016, 138, 2823-2828","none","replicated 2x in C direction"
+"16241C2","tong-v2, 266","TpTG-Cl","2D","H,C,N,O,Cl","J. Am. Chem. Soc., 2016, 138, 2823-2828","none","replicated 2x in C direction"
+"16242C2","tong-v2, 267","TpTG-I","2D","H,C,N,O,I","J. Am. Chem. Soc., 2016, 138, 2823-2828","none","replicated 2x in C direction"
+"16250N3","tong-v2, 006","3D-Py-COF","3D","H,C,N","J. Am. Chem. Soc., 2016, 138, 3302-3305","none","none"
+"16251N3","tong-v2, 007","3D-Py-COF-2P","3D","H,C,N","J. Am. Chem. Soc., 2016, 138, 3302-3305","none","none"
+"16260N2","tong-v2, 064","COF-LZU8","2D","H,C,N,O,S","J. Am. Chem. Soc., 2016, 138, 3031-3037","none","replicated 2x in C direction"
+"16270N2","tong-v2, 009","4PE-1P","2D","H,C,N","Nat. Chem., 2016, 8, 310-316","none","replicated 2x in C direction"
+"16271N2","tong-v2, 010","4PE-2P","2D","H,C,N","Nat. Chem., 2016, 8, 310-316","none","replicated 2x in C direction"
+"16272N2","tong-v2, 011","4PE-3P","2D","H,C,N","Nat. Chem., 2016, 8, 310-316","none","replicated 2x in C direction"
+"16273N2","tong-v2, 012","4PE-TT","2D","H,C,N,S","Nat. Chem., 2016, 8, 310-316","none","replicated 2x in C direction"
+"16280C2","tong-v2, 168","PC-COF","2D","H,C,N,Cl","Polym. Chem., 2016, 7, 3392-3397","none","aligned to xy plan, replicated 2x in C direction"
+"16290N3","tong-v2, 054","COF-505","3D","H,C,N","Science, 2016, 351, 361-365","none","Removed Cu(I) and BF4-"
+"16300N2","tong-v2, 219","TAPB-PDA COF","2D","H,C,N","Chem. Commun., 2016, 52, 3690-3693","none","replicated 2x in C direction"
+"16310N2","tong-v2, 031","CC-TAPH-COF","2D","H,C,N,O","RSC Adv., 2016, 6, 38774-38781","none","Removed 2H from porph, added missing H on benz, UFF opt overlapping, aligned to xy plan, replicated 2x in C direction"
+"16311N2","tong-v2, 157","NN-TAPH-COF","2D","H,C,N,O","RSC Adv., 2016, 6, 38774-38781","none","Added H on CN, aligned to xy plan, replicated 2x in C direction"
+"16312N2","tong-v2, 167","OH-TAPH-COF","2D","H,C,N,O","RSC Adv., 2016, 6, 38774-38781","none","aligned to xy plan, replicated 2x in C direction"
+"16320N2","tong-v2, 253","TpFn","2D","H,C,N,O","IUCRJ, 2016, 6, 402-407","13150N","replicated 2x in C direction"
+"16330N2","tong-v2, 176","PI-2-COF","2D","H,C,N","Chem. Commun., 2016, 52, 4128-4131","none","replicated 2x in C direction"
+"16331N2","tong-v2, 177","PI-3-COF","2D","H,C,N","Chem. Commun., 2016, 52, 4128-4131","none","moved H from N to C, replicated 2x in C direction"
+"16332N3","tong-v2, 178","PI-COF-4","3D","H,C,N,O","Chem. Commun., 2016, 52, 4128-4131","none","none"
+"16340N2","tong-v2, 185","POR-COF","2D","H,C,N,O","CrystEngComm, 2016, 18, 4259-4263","none","corrected N=O group, replicated 2x in C direction"
+"16350N2","tong-v2, 022","BDT-COF","2D","H,B,C,O,S","CrystEngComm, 2016, 18, 4295-4302","none","replicated 2x in C direction"
+"16351N2","tong-v2, 023","BDT-OEt-COF","2D","H,B,C,O,S","CrystEngComm, 2016, 18, 4295-4302","none","replicated 2x in C direction"
+"16360N2","tong-v2, 262","TPT-COF-1","2D","H,C,N,O","Chem. Commun., 2016, 52, 4706-4709","none","replicated 2x in C direction"
+"16361N2","tong-v2, 263","TPT-COF-2","2D","H,C,N,O","Chem. Commun., 2016, 52, 4706-4709","none","replicated 2x in C direction"
+"16370N2","tong-v2, 076","CTF-FUM","2D","H,C,N","Environ. Sci. Tech., 2016, 50, 4869-4876","none","replicated 2x in C direction"
+"16371N2","tong-v2, 077","CTF-DCN","2D","H,C,N","Environ. Sci. Tech., 2016, 50, 4869-4876","none","replicated 2x in C direction"
+"16380N2","tong-v2, 161","NUS-14","2D","H,C,N","Chem. Mater., 2016, 28, 5095-5101","none","replicated 2x in C direction"
+"16381N2","tong-v2, 162","NUS-15","2D","H,C,N","Chem. Mater., 2016, 28, 5095-5101","none","replicated 2x in C direction"
+"16390N2","tong-v2, 272","TThPP","2D","H,C,N,S","ACS Appl. Mater. Inter., 2016, 8, 5366-5375","none","aligned to xy plan, replicated 2x in C direction, added S atoms as in the paper"
+"16400N2","tong-v2, 252","TPE-Ph COF","2D","H,B,C,O","J. Am. Chem. Soc., 2016, 138, 5797-5800","none","replicated 2x in C direction"
+"16410C2","tong-v2, 113","EB-COF:Br","2D","H,C,N,O,Br","J. Am. Chem. Soc., 2016, 138, 5897-5903","none","aligned to xy plan, replicated 2x in C direction"
+"16411C2","tong-v2, 114","EB-COF:Cl","2D","H,C,N,O,Cl","J. Am. Chem. Soc., 2016, 138, 5897-5903","none","substituted Br with Cl, aligned to xy plan, replicated 2x in C direction"
+"16412C2","tong-v2, 115","EB-COF:F","2D","H,C,N,O,F","J. Am. Chem. Soc., 2016, 138, 5897-5903","none","substituted Br with F, aligned to xy plan, replicated 2x in C direction"
+"16413C2","tong-v2, 116","EB-COF:I","2D","H,C,N,O,I","J. Am. Chem. Soc., 2016, 138, 5897-5903","none","substituted Br with I, aligned to xy plan, replicated 2x in C direction"
+"16420N2","tong-v2, 246","TpBD-NHCOCH3","2D","H,C,N,O","Chem. Mater., 2016, 28, 626-631","none","UFF optimized to fix overlapping H, replicated 2x in C direction"
+"16430N2","tong-v2, 061","COF-JLU3","2D","H,C,N,O","Chem. Commun., 2016, 52, 6613-6616","none","aligned to xy plan, replicated 2x in C direction"
+"16440N2","tong-v2, 240","TPB-DMTP-COF","2D","H,C,N,O","Nat. Mater., 2016, 15, 722-727","none","aligned to xy plan, replicated 2x in C direction"
+"16450N2","tong-v2, 184","Por-COF","2D","H,C,N","J. Mater. Chem. A, 2016, 4, 7416-7421","none","aligned to xy plan"
+"16460N2","tong-v2, 095","2,3-DhaTta","2D","H,C,N,O","Angew. Chem. Int. Ed., 2016, 55, 7806-7810","none","replicated 2x in C direction"
+"16470N2","tong-v2, 021","BCCTP-COF","2D","H,C","Chem. Commun., 2016, 52, 8726-8729","none","replicated 2x in C direction"
+"16480N2","tong-v2, 273","TTI-COF","2D","H,C,N","Adv. Mater., 2016, 28, 8749-8754","none","replicated 2x in C direction"
+"16490N2","tong-v2, 150","MPCOF","2D","H,C,N,P","J. Hazard. Mater., 2016, 314, 95-104","none","replicated 2x in C direction"
+"16500N2","tong-v2, 231","TH-COF-1","2D","H,C,N,S","Micropor. Mesopor. Mat., 2016, 224, 95-99","none","replicated 2x in C direction"
+"16510N2","tong-v2, 119","HAT-COF","2D","H,C,N","ACS Macro Lett., 2016, 5, 99-102","none","replicated 2x in C direction"
+"17000N2","tong-v2, 183","PI-COF","2D","H,C,N,O","ACS Appl. Mater. Inter., 2017, 9, 13415-13421","none","replicated 2x in C direction"
+"17010N2","tong-v2, 223","TBI-COF","2D","H,C,N","Mater. Chem. Front., 2017, 1, 1354-1361","none","replicated 2x in C direction"
+"17020N2","tong-v2, 251","TpBPy","2D","H,C,N,O","ACS Appl. Mater. Inter., 2017, 9, 13785-13792 ","none","replicated 2x in C direction"
+"17030N2","tong-v2, 264","TpTD","2D","H,C,N,O","Adv. Mater., 2017, 29, 1603945","none","replicated 2x in C direction"
+"17040N2","tong-v2, 206","SB-PORPy","2D","H,C,N","ACS Appl. Mater. Inter., 2017, 9 , 23843-23851","none","none"
+"17050N2","tong-v2, 218","TAPB-BMTTPA-COF","2D","H,C,N,S","J. Am. Chem. Soc., 2017, 139, 2428-2434","none","replicated 2x in C direction"
+"17060N2","SI","HAT-NTBCA-COF","2D","H,C,N","Chem. Commun., 2017, 53, 2431-2434","none","replicated 2x in C direction"
+"17061N2","SI","HAT-NTBA-COF","2D","H,C,N","Chem. Commun., 2017, 53, 2431-2434","none","replicated 2x in C direction"
+"17070N2","tong-v2, 274","TzDa","2D","H,C,N,O","ACS Appl. Mater. Inter., 2017, 9, 24999-25005","none","replicated 2x in C direction"
+"17080C2","tong-v2, 202","PyTTA-BFBIm-iCOF","2D","H,C,N,Br","Angew. Chem. Int. Ed., 2017, 56, 4982-4986","none","none"
+"17090N3","tong-v2, 136","LZU-301-sol","3D","H,C,N","J. Am. Chem. Soc., 2017, 139, 4995-4998","none","none"
+"17091N3","tong-v2, 137","LZU-301","3D","H,C,N","J. Am. Chem. Soc., 2017, 139, 4995-4998","none","none"
+"17100N2","tong-v2, 182","PI-COF-SR","2D","H,C,N,O","Sci. Rep., 2017, 7, 557 ","none","replicated 2x in C direction"
+"17110N2","tong-v2, 205","Salen-COF","2D","H,C,N,O","J. Am. Chem. Soc., 2017, 139, 6042-6045","none","replicated 2x in C direction"
+"17120N2","tong-v2, 034","CCOF-MPC","2D","H,C,N","Chem. Mater., 2017, 29, 6518-6524","none","none"
+"17130N2","tong-v2, 233","TP-COF-BZ","2D","H,C,N","J. Am. Chem. Soc., 2017, 139, 6736-6743","none","replicated 2x in C direction"
+"17131N2","tong-v2, 234","TP-COF-DAB","2D","H,C,N","J. Am. Chem. Soc., 2017, 139, 6736-6743","none","replicated 2x in C direction"
+"17140N2","tong-v2, 117","FL-COF-1","2D","H,C,N","ACS Appl. Mater. Inter., 2017, 9, 7108-7114","none","add a second H to penthagonal C, replicated 2x in C direction"
+"17150N2","tong-v2, 101","DMTA-TPB1/2'","2D","H,C,N,O","J. Am. Chem. Soc., 2017, 139, 8277-8285","none","replicated 2x in C direction"
+"17151N2","tong-v2, 102","DMTA-TPB1/3'","2D","H,C,N,O","J. Am. Chem. Soc., 2017, 139, 8277-8285","none","replicated 2x in C direction"
+"17152N2","tong-v2, 103","DMTA-TPB1/4'","2D","H,C,N,O","J. Am. Chem. Soc., 2017, 139, 8277-8285","none","replicated 2x in C direction"
+"17153N2","tong-v2, 104","DMTA-TPB1/5'","2D","H,C,N,O","J. Am. Chem. Soc., 2017, 139, 8277-8285","none","replicated 2x in C direction"
+"17154N2","tong-v2, 105","DMTA-TPB2","2D","H,C,N,O","J. Am. Chem. Soc., 2017, 139, 8277-8285","none","replicated 2x in C direction"
+"17155N2","tong-v2, 106","DMTA-TPB3","2D","H,C,N,O","J. Am. Chem. Soc., 2017, 139, 8277-8285","none","replicated 2x in C direction"
+"17156N2","tong-v2, 107","DMTA-TPB4","2D","H,C,N,O","J. Am. Chem. Soc., 2017, 139, 8277-8285","none","none"
+"17160N3","tong-v2, 002","3D-CuPor-COF-0P","3D","H,C,N,Cu","J. Am. Chem. Soc., 2017, 139, 8705-8709 ","none","none"
+"17161N3","tong-v2, 003","3D-CuPor-COF","3D","H,C,N,Cu","J. Am. Chem. Soc., 2017, 139, 8705-8709 ","none","none"
+"17162N3","tong-v2, 004","3D-Por-COF-0P","3D","H,C,N","J. Am. Chem. Soc., 2017, 139, 8705-8709 ","none","none"
+"17163N3","tong-v2, 005","3D-Por-COF","3D","H,C,N","J. Am. Chem. Soc., 2017, 139, 8705-8709 ","none","none"
+"17170N2","tong-v2, 204","SA-COF","2D","H,C,N,O","J. Am. Chem. Soc., 2017, 139, 8897-8904","none","replicated 2x in C direction"
+"17180N2","tong-v2, 226","TDFP-1","2D","H,C,N,O","ChemSusChem, 2017, 10, 921-929","none","added H on N, reverted C N, replicated 2x in C direction"
+"17181N2","tong-v2, 227","TFB-COF","2D","H,C,N,O","ChemSusChem, 2017, 10, 921-929","none","replicated 2x in C direction"
+"17190N2","SI","TPA-COF-2-AA","2D","H,C,N","J. Am. Chem. Soc., 2017, 139 , 8698-8704","none","replicated 2x in C direction"
+"17191N2","SI","TPA-COF","2D","H,C,N","J. Am. Chem. Soc., 2017, 139 , 8698-8704","none","replicated 2x in C direction"
+"17200C3","SI","COF-112","3D","H,B,C,N,F,Co","J. Am. Chem. Soc., 2017, 139, 13166-13172","none","none"
+"17210N2","SI","Tp-Ttba","2D","H,C,N,O","J. Am. Chem. Soc., 2017, 139, 13083-13091","none","replicated 2x in C direction"
+"17220N2","SI","Thio-COF","2D","H,C,N,O,S","J. Am. Chem. Soc., 2017, 139, 17082-17088","none","removed H from CN, replicated 2x in C direction"
+"17230N2","tong-v2, 211","SIOC-COF-7","2D","H,C,N","Chem. Commun., 2017, 53, 7266-7269","none","replicated 2x in C direction"
+"18000C3","SI","Si-COF-5-air","3D","H,C,O,Na,Si","J. Am. Chem. Soc., 2018, 140, 5330-5333","none","none"
+"18001C3","SI","Si-COF-5","3D","H,C,O,Na,Si","J. Am. Chem. Soc., 2018, 140, 5330-5333","none","none"
+"18010N3","SI","CCOF-5","3D","H,C,N,O","J. Am. Chem. Soc., 2018, 140, 892-895","none","none"
+"18011N3","SI","CCOF-6","3D","H,C,N,O","J. Am. Chem. Soc., 2018, 140, 892-895","none","none"
+"18020N3","SI","COF-DL229 2-fold","3D","H,C,N","Chem. Eur. J., 2018, 24, 585-589","none","none"
+"18021N3","SI","COF-DL229 4-fold","3D","H,C,N","Chem. Eur. J., 2018, 24, 585-589","none","cell dim wrong then scaled"
+"18022N3","SI","COF-DL229 6-fold","3D","H,C,N","Chem. Eur. J., 2018, 24, 585-589","none","none"
+"18023N3","SI","COF-DL229 8-fold","3D","H,C,N","Chem. Eur. J., 2018, 24, 585-589","none","none"
+"18030N2","SI","TPE-COF-I","2D","H,C,N","Chem. Mater., 2018, 30, 1762-1768","none","replicated 2x in C direction"
+"18031N2","SI","TPE-COF-II","2D","H,C,N,O","Chem. Mater., 2018, 30, 1762-1768","none","replicated 2x in C direction"
+"18032N2","SI","TPE-COF-III","2D","H,C,N","Chem. Mater., 2018, 30, 1762-1768","none","replicated 2x in C direction"
+"18033N2","SI","TPE-COF-IV","2D","H,C,N","Chem. Mater., 2018, 30, 1762-1768","none","replicated 2x in C direction"
+"18040N3","SI","3D-OH-COF","3D","H,C,N,O","Angew. Chem. Int. Ed., 2018, 130, 6150-6156","none","none"
+"18041N3","SI","3D-COOH-COF","3D","H,C,N,O","Angew. Chem. Int. Ed., 2018, 130, 6150-6156","none","fixed disorder"
+"18050N2","SI","[OH],0%-TD-COF","2D","H,C,N,O","ACS Appl. Mater. Inter., 2018, 10, 41350-41358","none","replicated 2x in C direction"
+"18060N2","SI","Tf-DHzDPr","2D","H,C,N,O","Nat. Commun., 2018, 9, 2335","none","replicated 2x in C direction"
+"18061N2","SI","Tf-DHzDAll","2D","H,C,N,O","Nat. Commun., 2018, 9, 2335","none","replicated 2x in C direction"
+"18070N2","SI","COF-HQ","2D","H,C,N,O","ACS Appl. Mater. Inter., 2018, 10, 15364-15368","none","replicated 2x in C direction"
+"18080N2","SI","COF-366-Co","2D","H,C,N,Co","J. Am. Chem. Soc., 2018, 140, 1116-1122","none","added missing H, replicated 2x in C direction"
+"18081N2","SI","COF-366-F4-Co","2D","H,C,N,F,Co","J. Am. Chem. Soc., 2018, 140, 1116-1122","none","replicated 2x in C direction"
+"18082N2","SI","COF-366-F-Co","2D","H,C,N,F,Co","J. Am. Chem. Soc., 2018, 140, 1116-1122","none","corrected partial occupancy of F, replicated 2x in C direction"
+"18083N2","SI","COF-366-(OMe)2-Co","2D","H,C,N,O,Co","J. Am. Chem. Soc., 2018, 140, 1116-1122","none","replicated 2x in C direction"
+"18090N2","SI","FLT-COF-1-Eclipsed","2D","H,B,C,O","J. Am. Chem. Soc., 2018, 139, 10506-10513","none","replicated 2x in C direction"
+"18091N2","SI","FLT-COF-1-Staggered","2D","H,B,C,O","J. Am. Chem. Soc., 2018, 139, 10506-10513","none","replicated 2x in C direction"
+"18100N2","SI","TP-BDDA","2D","H,C,N,O","J. Am. Chem. Soc., 2018, 140, 1423-1427","none","replicated 2x in C direction"
+"18101N2","SI","TP-EDDA","2D","H,C,N,O","J. Am. Chem. Soc., 2018, 140, 1423-1427","none","replicated 2x in C direction"
+"18110N2","SI","ILCOF-1","2D","H,C,N","J. Am. Chem. Soc., 2018, 140, 9099-9103","none","replicated 2x in C direction"
+"18111N2","SI","COF-921","2D","H,C,N,S","J. Am. Chem. Soc., 2018, 140, 9099-9103","none","replicated 2x in C direction"
+"18112N2","SI","LZU-192","2D","H,C,N,O","J. Am. Chem. Soc., 2018, 140, 9099-9103","none","replicated 2x in C direction"
+"18120N3","SI","3D-IL-COF-1","3D","H,C,N","J. Am. Chem. Soc., 2018, 140, 4494-4498","none","none"
+"18121N3","SI","3D-IL-COF-2","3D","H,C,N","J. Am. Chem. Soc., 2018, 140, 4494-4498","none","adjusted UC dimensions to have a physical aromatic C-C distance of ca. 1.45 Angs"
+"18122N3","SI","3D-IL-COF-3","3D","H,C,N","J. Am. Chem. Soc., 2018, 140, 4494-4498","none","adjusted UC dimensions to have a physical aromatic C-C distance of ca. 1.45 Angs"
+"18130N3","CSD, 1846135","COF-303","3D","H,C,N","Science, 2018, 361, 48-52","none","none"
+"18131N3","CSD, 1846136","COF-300_hydrate","3D","H,C,N","Science, 2018, 361, 48-52","none","removed water solvent"
+"18132N3","CSD, 1846138","COF-300","3D","H,C,N","Science, 2018, 361, 48-52","09000N","none"
+"18133N3","CSD, 1846139","LZU-111","3D","H,C,N","Science, 2018, 361, 48-52","none","none"
+"18134N3","CSD, 1846140","LZU-79","3D","H,C,N","Science, 2018, 361, 48-52","none","fixed partial occupation for the ligand"
