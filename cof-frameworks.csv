@@ -29,6 +29,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 11020N2,"tong-v2, 063",COF-LZU1,"H,C,N",none,replicated 2x in C direction
 11030N2,"tong-v2, 048",COF-366,"H,C,N",none,aligned to xy plan
 11031N2,"tong-v2, 056",COF-66,"H,B,C,N,O",none,"aligned to xy plan, replicated 2x in C direction"
+11040N2,SI,HHTP-DPB,"H,B,C,O",none,added hydrogens
 12000N2,"tong-v2, 255",TpPa-1,"H,C,N,O",13051N,replicated 2x in C direction
 12001N2,"tong-v2, 256",TpPa-2,"H,C,N,O",none,replicated 2x in C direction
 12010N2,SI,H2P-COF,"H,B,C,N,O",none,replicated 2x in C direction
@@ -323,7 +324,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 18132N3,"CSD, 1846138",COF-300,"H,C,N",09000N,none
 18133N3,"CSD, 1846139",LZU-111,"H,C,N",none,none
 18134N3,"CSD, 1846140",LZU-79,"H,C,N",none,fixed partial occupation for the ligand
-19000N3,SI,JUC-518,"H,C,S,N",none,Added some missing H 
+19000N3,SI,JUC-518,"H,C,S,N",none,Added some missing H
 19001N3,SI,JUC-518 2-fold,"H,C,S,N",none,none
 19002N3,SI,JUC-519,"H,C,S,N",none,none
 19003N3,SI,JUC-519 2-fold,"H,C,S,N",none,none
