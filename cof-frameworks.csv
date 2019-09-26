@@ -334,3 +334,16 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19182N2,SI,COF-SDU3,"H,C,N,O",none,replicated 2x in C direction
 19190N2,SI (CIF),CCOF-7,"H,C,N,O,Cl",none,none
 19191N2,SI (CIF),CCOF-8,"H,C,N,O,Cl",none,none
+19200N2,SI,COF-701,"H,C,N",none,none
+19210N2,SI,H-ImCOF,"H,C,N",none,"substituted CH3 with H, removed Li, replicated 2x in C direction"
+19211C2,SI,H-Li-ImCOF,"H,Li,C,N",none,"substituted CH3 with H, replicated 2x in C direction"
+19212N2,SI,CH3-ImCOF ,"H,C,N",none,replicated 2x in C direction
+19213C2,SI,CH3-Li-ImCOF,"H,Li,C,N",none,replicated 2x in C direction
+19214N2,SI,CF3-ImCOF,"H,C,N,F",none,replicated 2x in C direction
+19215C2,SI,CF3-Li-ImCOF,"H,Li,C,N,F",none,replicated 2x in C direction
+19220N2,SI,TFPB-BD,"H,C,N",none,replicated 2x in C direction
+19230N2,SI,BABE-TFPy-AA,"H,C,N,O",none,replicated 2x in C direction
+19231N2,SI,BABE-TFPy-AB,"H,C,N,O",none,none
+19240N3,SI,3D-TPB-COF-H,"H,C,N",none,none
+19241N3,SI,3D-TPB-COF-Me,"H,C,N",none,none
+19242N3,SI,3D-TPB-COF-F,"H,C,N,F",none,none
