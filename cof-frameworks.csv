@@ -347,3 +347,14 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19240N3,SI,3D-TPB-COF-H,"H,C,N",none,none
 19241N3,SI,3D-TPB-COF-Me,"H,C,N",none,none
 19242N3,SI,3D-TPB-COF-F,"H,C,N,F",none,none
+19250N3,SI (CIF),salen-COF 1,"H,C,N,O,Si",none,none
+19251N3,SI (CIF),salen-COF 1-Zn,"H,C,N,O,Si,Zn",none,none
+19252N3,SI (CIF),salen-COF 2,"H,C,N,O",none,none
+19253N3,SI (CIF),salen-COF 2-Zn,"H,C,N,O,Zn",none,none
+19260N2,SI,g-C34N6-COF,"H,C,N",none,replicated 2x in C direction
+19270N2,SI,TTCOF-Zn AA,"H,C,N,S,Zn",none,replicated 2x in C direction
+19271N2,SI,TTCOF-Zn AB,"H,C,N,S,Zn",none,aligned to xy plan
+19280N2,SI,COF-170,"H,C,N,O",none,replicated 2x in C direction
+19281N2,SI,COF-170-OH,"H,C,N,O",none,replicated 2x in C direction
+19282N2,SI,COF-170-carbamide,"H,C,N,O",none,replicated 2x in C direction
+19283N2,SI,COF-170-thiocarbamate,"H,C,N,O,S",none,replicated 2x in C direction
