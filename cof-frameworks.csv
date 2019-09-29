@@ -358,3 +358,10 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19281N2,SI,COF-170-OH,"H,C,N,O",none,replicated 2x in C direction
 19282N2,SI,COF-170-carbamide,"H,C,N,O",none,replicated 2x in C direction
 19283N2,SI,COF-170-thiocarbamate,"H,C,N,O,S",none,replicated 2x in C direction
+19290N2,SI,COF-346,"H,C,N",none,replicated 2x in C direction
+19291N2,SI,COF-360,"H,C,N",none,replicated 2x in C direction
+19292N2,SI,COF-340,"H,C,N,O",none,"aligned to xy plan, replicated 2x in C direction"
+19300N2,SI,V-COF-1,"H,C,N",none,replicated 2x in C direction
+19301N2,SI,V-COF-2,"H,C,N",none,replicated 2x in C direction
+19310N2,SI,COF-808,"H,C,N",none,"added H atoms, replicated 2x in C direction"
+19311N2,SI,COF-909,"H,C,N",none,"added H atoms, replicated 2x in C direction"
