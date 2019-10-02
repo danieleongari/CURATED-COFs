@@ -333,6 +333,8 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19021N3,SI,JUC-508 2-fold,"H,C,N,O,F","none", "none"
 19022N3,SI,JUC-509,"H,C,N,O,Cl","none", "none"
 19023N3,SI,JUC-509 2-fold,"H,C,N,O,Cl","none", "none"
+19030N2,SI,COF-IL AA,"H,C,N,O,Br","none", "none"
+19031N2,SI,COF-IL AB,"H,C,N,O,Br","none", "none"
 19170N2,SI,DPP2-HHTP,"H,B,C,N,O",none,"fixed overlapping H, replicated 2x in C direction"
 19180N2,SI,COF-SDU1,"H,C,N,O",none,replicated 2x in C direction
 19181N2,SI,COF-SDU2,"H,C,N,O",none,"UC value parsed from the main text, replicated 2x in C direction"
