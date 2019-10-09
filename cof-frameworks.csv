@@ -386,3 +386,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 "19102N2","SI","PZ-COF2 AA","C,H,N","none","replicated along z"
 "19103N2","SI","PZ-COF2 AB","C,H,N","none","replicated along z"
 "19110N2","SI","COF-SQ","C,H,N,O","none","replicated along z"
+"19120N2","SI","Bth-Dha AA","C,H,N,O","none","replicated along z"
+"19121N2","SI","Bth-Dha AB","C,H,N,O","none","none"
+"19122N2","SI","Bth-Dma AA","C,H,N,O","none","replicated along z"
+"19123N2","SI","Bth-Dma AB","C,H,N,O","none","none"
