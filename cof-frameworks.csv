@@ -343,7 +343,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19071N2,SI,TBICOF AB,"H,C,N,O","none","added hydrogens"
 19072N2,SI,TBICOF ABC,"H,C,N,O","none","added hydrogens"
 19080N2,SI,2D-COF-1,"H,C,N,O","none","replicated in C direction"
-"19090N2","SI","TPT-DAHQ","2","C, H, N, O","Chemistry – An Asian Journal, 2019, 14, 1429-1435","none","fix symmetry (P6), replicated along z"
+"19090N2","SI","TPT-DAHQ","C,H,N,O","none","fix symmetry (P6), replicated along z"
 19170N2,SI,DPP2-HHTP,"H,B,C,N,O",none,"fixed overlapping H, replicated 2x in C direction"
 19180N2,SI,COF-SDU1,"H,C,N,O",none,replicated 2x in C direction
 19181N2,SI,COF-SDU2,"H,C,N,O",none,"UC value parsed from the main text, replicated 2x in C direction"
@@ -381,3 +381,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19301N2,SI,V-COF-2,"H,C,N",none,replicated 2x in C direction
 19310N2,SI,COF-808,"H,C,N",none,"added H atoms, replicated 2x in C direction"
 19311N2,SI,COF-909,"H,C,N",none,"added H atoms, replicated 2x in C direction"
+"19100N2","SI","PZ-COF1 AB","C,H,O","none","replicated along z"
+"19101N2","SI","PZ-COF1 AA","C,H,O","none","replicated along z"
+"19102N2","SI","PZ-COF2 AA","C,H,N","none","replicated along z"
+"19103N2","SI","PZ-COF2 AB","C,H,N","none","replicated along z"
