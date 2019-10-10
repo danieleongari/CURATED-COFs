@@ -344,10 +344,10 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19072N2,SI,TBICOF ABC,"H,C,N,O",none,added hydrogens
 19080N2,SI,2D-COF-1,"H,C,N,O",none,replicated 2x in C direction
 19090N2,SI,TPT-DAHQ,"C,H,N,O",none,"fix symmetry (P6), replicated 2x in C direction"
-19100N2,SI,PZ-COF1 AB,"C,H,O",none,replicated 2x in C direction
+19100N2,SI,PZ-COF1 AB,"C,H,O",none,none
 19101N2,SI,PZ-COF1 AA,"C,H,O",none,replicated 2x in C direction
 19102N2,SI,PZ-COF2 AA,"C,H,N",none,replicated 2x in C direction
-19103N2,SI,PZ-COF2 AB,"C,H,N",none,replicated 2x in C direction
+19103N2,SI,PZ-COF2 AB,"C,H,N",none,none
 19110N2,SI,COF-SQ,"C,H,N,O",none,replicated 2x in C direction
 19120N2,SI,Bth-Dha AA,"C,H,N,O",none,replicated 2x in C direction
 19121N2,SI,Bth-Dha AB,"C,H,N,O",none,none
@@ -361,7 +361,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19144N2,SI,JUC-505-COOH AA,"C,H,O",none,replicated 2x in C direction
 19145N2,SI,JUC-505-COOH AB,"C,H,N,O",none,none
 19150N2,SI,TpTt,"C,H,N,O",none,none
-19160N2,SI,TpPa-SO3,"C,H,N,O,S",none,none
+19160N2,SI,TpPa-SO3Li,"C,H,N,O,S,Li",none,none
 19170N2,SI,DPP2-HHTP,"H,B,C,N,O",none,"fixed overlapping H, replicated 2x in C direction"
 19180N2,SI,COF-SDU1,"H,C,N,O",none,replicated 2x in C direction
 19181N2,SI,COF-SDU2,"H,C,N,O",none,"UC value parsed from the main text, replicated 2x in C direction"
