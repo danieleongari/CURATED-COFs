@@ -337,6 +337,8 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19031N2,SI,COF-IL AB,"H,C,N,O,Br",none,none
 19040N2,SI,"VO-PyTTA-2,3-DHTA","H,C,N,O,V",none,"replicated 2x in C direction, removed PMM2 space group that lead to a wrong structure"
 19041N2,SI,"VO-TAPT-2,3-DHTA","H,C,N,O,V",none,"fixed disorder, added hydrogens, replicated 2x in C direction"
+19050N2,SI,TTT-DTDA COF,"H,C,N,S",none,replicated 2x in C direction
+19051N2,SI,TTT-BTDA COF,"H,C,N,S",none,replicated 2x in C direction
 19060N2,SI,TPB2-COF,"H,C,N,O",none,"added hydrogens, replicated 2x in C direction"
 19061N2,SI,TPB2-COF,"H,C,N,O",none,"added hydrogens, replicated 2x in C direction"
 19070N2,SI,TBICOF AA,"H,C,N,O",none,"added hydrogens, replicated 2x in C direction"
@@ -399,3 +401,11 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19301N2,SI,V-COF-2,"H,C,N",none,replicated 2x in C direction
 19310N2,SI,COF-808,"H,C,N",none,"added H atoms, replicated 2x in C direction"
 19311N2,SI,COF-909,"H,C,N",none,"added H atoms, replicated 2x in C direction"
+19320C2,SI,COF-NHC,"H,C,N",none,"excluded overlapping PF6- ions, replicated 2x in C direction"
+19330N2,SI,DBC-2P,"H,C,N",none,"fixed disorder (but now need optimization), replicated 2x in C direction"
+19340N2,SI,g-C18N3-COF,"H,C,N",none,replicated 2x in C direction
+19341N2,SI,g-C33N3-COF,"H,C,N",none,replicated 2x in C direction
+19350N2,SI (CIF),py-COF,"H,C,N",none,replicated 2x in C direction
+19351N2,SI (CIF),BFBAEB-COF,"H,C,N",none,replicated 2x in C direction
+19352N2,SI (CIF),BFBAEPy-COF,"H,C,N",none,replicated 2x in C direction
+19353N2,SI (CIF),TAEPy-COF,"H,C,N",none,replicated 2x in C direction
