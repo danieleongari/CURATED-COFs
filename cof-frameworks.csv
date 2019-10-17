@@ -409,3 +409,10 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19351N2,SI (CIF),BFBAEB-COF,"H,C,N",none,replicated 2x in C direction
 19352N2,SI (CIF),BFBAEPy-COF,"H,C,N",none,replicated 2x in C direction
 19353N2,SI (CIF),TAEPy-COF,"H,C,N",none,replicated 2x in C direction
+19360N2,SI,TA TAPB-COF,"H,C,N",none,replicated 2x in C direction
+19361N2,SI,TT TAPB-COF,"H,C,N,S",none,replicated 2x in C direction
+19362N2,SI,BDT TAPB-COF,"H,C,N,S",none,replicated 2x in C direction
+19363N2,SI,BDT-OMe TAPB-COF,"H,C,N,O,S",none,replicated 2x in C direction
+19364N2,SI,BDT-OEt TAPB-COF,"H,C,N,O,S",none,replicated 2x in C direction
+19365N2,SI,BDT-OPr TAPB-COF,"H,C,N,O,S",none,replicated 2x in C direction
+19366N2,SI,"Pyrene-2,7 TAPB-COF","H,C,N",none,replicated 2x in C direction
