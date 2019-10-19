@@ -414,5 +414,5 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19362N2,SI,BDT TAPB-COF,"H,C,N,S",none,replicated 2x in C direction
 19363N2,SI,BDT-OMe TAPB-COF,"H,C,N,O,S",none,replicated 2x in C direction
 19364N2,SI,BDT-OEt TAPB-COF,"H,C,N,O,S",none,replicated 2x in C direction
-19365N2,SI,BDT-OPr TAPB-COF,"H,C,N,O,S",none,replicated 2x in C direction
+19365N2,SI,BDT-OPr TAPB-COF,"H,C,N,O,S",none,"replaced C27 with H, replicated 2x in C direction"
 19366N2,SI,"Pyrene-2,7 TAPB-COF","H,C,N",none,replicated 2x in C direction
