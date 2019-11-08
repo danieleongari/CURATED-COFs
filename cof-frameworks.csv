@@ -363,7 +363,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19144N2,SI,JUC-505-COOH AA,"C,H,O",none,replicated 2x in C direction
 19145N2,SI,JUC-505-COOH AB,"C,H,N,O",none,none
 19150N2,SI,TpTt,"C,H,N,O",none,none
-19160N2,SI,TpPa-SO3Li,"C,H,N,O,S,Li",none,none
+19160C2,SI,TpPa-SO3Li,"C,H,N,O,S,Li",none,none
 19170N2,SI,DPP2-HHTP,"H,B,C,N,O",none,"fixed overlapping H, replicated 2x in C direction"
 19180N2,SI,COF-SDU1,"H,C,N,O",none,replicated 2x in C direction
 19181N2,SI,COF-SDU2,"H,C,N,O",none,"UC value parsed from the main text, replicated 2x in C direction"
