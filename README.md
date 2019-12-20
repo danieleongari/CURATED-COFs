@@ -11,3 +11,6 @@ The database is built on top of the work of [Tong et al.](https://doi.org/10.102
 
 #### Cite as
 *D. Ongari, A. V. Yakutovich, L. Talirz and B. Smit, Building a consistent and reproducible database for adsorption evaluation in Covalent-Organic Frameworks, ACS Central Science 2019, in press* ([10.1021/acscentsci.9b00619](https://doi.org/10.1021/acscentsci.9b00619))
+
+#### Help us
+Please report any missing COF structure or error by using [this form](https://forms.gle/gQpjcSEHjoJpqira8). Thank you!
