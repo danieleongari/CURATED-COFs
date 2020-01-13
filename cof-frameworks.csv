@@ -324,6 +324,10 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 18132N3,"CSD, 1846138",COF-300,"H,C,N",09000N,none
 18133N3,"CSD, 1846139",LZU-111,"H,C,N",none,none
 18134N3,"CSD, 1846140",LZU-79,"H,C,N",none,fixed partial occupation for the ligand
+18140N2,SI,"2D-TTFB-TAPA","C,H,N","none","replicated 2x in C direction"
+18141N2,SI,"2D-TTFB-TAPB","C,H,N","none","replicated 2x in C direction"
+18142N3,SI,"3D-TTFB-TAPA","C,H,N","none","none"
+18143N3,SI,"3D-TTFB-TAPB","C,H,N","none","none"
 19000N3,SI,JUC-518,"H,C,S,N",none,Added some missing H
 19001N3,SI,JUC-518 2-fold,"H,C,S,N",none,none
 19002N3,SI,JUC-519,"H,C,S,N",none,none
@@ -416,7 +420,27 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19364N2,SI,BDT-OEt TAPB-COF,"H,C,N,O,S",none,replicated 2x in C direction
 19365N2,SI,BDT-OPr TAPB-COF,"H,C,N,O,S",none,"replaced C27 with H, replicated 2x in C direction"
 19366N2,SI,"Pyrene-2,7 TAPB-COF","H,C,N",none,replicated 2x in C direction
-18140N2,SI,"2D-TTFB-TAPA","C,H,N","none","replicated 2x in C direction"
-18141N2,SI,"2D-TTFB-TAPB","C,H,N","none","replicated 2x in C direction"
-18142N3,SI,"3D-TTFB-TAPA","C,H,N","none","none"
-18143N3,SI,"3D-TTFB-TAPB","C,H,N","none","none"
+19370N2,SI,"Aminal-COF-2","C,H,N","none","replicated 2x in C direction"
+19380N2,SI,"A2B2-Por-COF","C,H,N","none","replicated 2x in C direction"
+19390N2,SI,"IISERP-COF15","C,H,N,O","none","replicated 2x in C direction, correct angles, add H"
+19400N3,SI,"3D-HNU5","C,H,N","none","none"
+19401N3,SI,"3D-HNU5 2-fold","C,H,N","none","none"
+19402N3,SI,"3D-HNU5 3-fold","C,H,N","none","none"
+19403N3,SI,"3D-HNU5 4-fold","C,H,N","none","none"
+19404N3,SI,"3D-HNU5 5-fold","C,H,N","none","none"
+19410N2,SI (CIF),"Per-1P COF","C,H,N","none","replicated 2x in C direction"
+19411N2,SI (CIF),"Per-N COF","C,H,N","none","replicated 2x in C direction"
+19412N2,SI (CIF),"Per-Py COF","C,H,N","none","replicated 2x in C direction"
+19413N2,SI (CIF),"Tz-TT COF","C,H,N,S","none","replicated 2x in C direction"
+19430N2,SI,"TFPPy-PDA-COF","C,H,N","none","replicated 2x in C direction"
+19431N2,SI,"TFPPy-PyTTA-COF","C,H,N","none","replicated 2x in C direction"
+19440N2,SI (CIF),"CuPc-pz","C,H,Cu,N","none","none"
+19441N2,SI (CIF),"ZnPc-pz","C,H,N,Zn","none","none"
+19460N2,SI,"JUC-520 AA","C,H,N,O","none","replicated 2x in C direction"
+19461N2,SI,"JUC-520 AB","C,H,N,O","none","none"
+19462N2,SI,"JUC-521 AA","C,H,N,O","none","replicated 2x in C direction"
+19463N2,SI,"JUC-521 AB","C,H,N,O","none","none"
+19464N2,SI,"JUC-522 AA","C,H,N,O","none","replicated 2x in C direction"
+19465N2,SI,"JUC-522 AB","C,H,N,O","none","none"
+19466N2,SI,"JUC-523 AA","C,H,N,O","none","replicated 2x in C direction"
+19467N2,SI,"JUC-523 AB","C,H,N,O","none","none"
