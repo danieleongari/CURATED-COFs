@@ -444,3 +444,5 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 19465N2,SI,"JUC-522 AB","C,H,N,O","none","none"
 19466N2,SI,"JUC-523 AA","C,H,N,O","none","replicated 2x in C direction"
 19467N2,SI,"JUC-523 AB","C,H,N,O","none","none"
+19470N2,SI,"BITA-PDA","C,H,N","none","replicated 2x in C direction"
+19471N2,SI,"BITA-PDA","C,H,N","none","none"
