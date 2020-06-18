@@ -2,7 +2,7 @@ data_crystal
  
 _cell_length_a    27.93700
 _cell_length_b    27.93700
-_cell_length_c    27.93700
+_cell_length_c    74.80120
 _cell_angle_alpha 90.00000
 _cell_angle_beta  90.00000
 _cell_angle_gamma 90.00000

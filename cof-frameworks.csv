@@ -523,7 +523,6 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 20113N3,SI,"JUC-551 1-fold","C,H,N,O","none","none"
 20114N3,SI,"JUC-551 2-fold","C,H,N,O","none","none"
 20115N3,SI,"JUC-551 3-fold","C,H,N,O","none","none"
-20116N3,SI,"JUC-552 1-fold","C,H,N,O","none","none"
 20117N3,SI,"JUC-552 3-fold","C,H,N,O","none","none"
 20120N2,SI,"2D-BPTA-COF","C,H,N","none","none"
 20121N3,SI,"3D-BMTA-COF","C,H,N","none","none"
@@ -576,3 +575,5 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 20282N2,SI,"BCTA-TP-COF","C,H,N","none","replicated 2x in C direction, fixed cell dim A and B, fixed H position"
 20290N2,SI,"Car-ETTA","C,H,N","none","replicated 2x in C direction"
 20300N2,SI,"EB-COF-1","C,H,N,O","none","replicated 2x in C direction"
+20116N3,SI,"JUC-552 1-fold","C,H,N,O","none","none"
+20118N3,SI,"JUC-552 2-fold","C,H,N,O","corrected symmetry from I41/a to P42/n","none"
