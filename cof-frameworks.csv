@@ -566,7 +566,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 20240C2,SI,"CoPc-PDQ-COF","C,H,N,Ni","none","none"
 20250N2,SI,"COF-TVBT-PA AA","C,H,N","none","replicated 2x in C direction"
 20260N3,SI,"JUC-530","C,H,N","none","none"
-20261N3,SI,"JUC-531","C,H,N","none","none"
+20261N3,SI,"JUC-531","C,H,N","none","added H to CN carbon"
 20270C2,SI,"TFPA-TGCl-iCOF","C,H,ClN","none","replicated 2x in C direction"
 20271C2,SI,"TFPB-TGCl-iCOF","C,H,ClN","none","replicated 2x in C direction"
 20272C2,SI,"TFPT-TGCl-iCOF","C,H,ClN","none","replicated 2x in C direction"
