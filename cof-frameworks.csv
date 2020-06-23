@@ -257,10 +257,6 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 16490N2,"tong-v2, 150",MPCOF,"H,C,N,P",none,replicated 2x in C direction
 16500N2,"tong-v2, 231",TH-COF-1,"H,C,N,S",none,replicated 2x in C direction
 16510N2,"tong-v2, 119",HAT-COF,"H,C,N",none,replicated 2x in C direction
-16520N2,SI,brick-wall-COF AA,"C,H,N",none,"aligned to xy plan, replicated 2x in C direction"
-16521N3,SI,brick-wall-COF AB,"C,H,N",none,aligned to xy plan
-16522N2,SI,herringbone-COF AA,"C,H,N",none,replicated 2x in C direction
-16523N2,SI,herringbone-COF AB,"C,H,N",none,aligned to the xz plan
 17000N2,"tong-v2, 183",PI-COF,"H,C,N,O",none,replicated 2x in C direction
 17010N2,"tong-v2, 223",TBI-COF,"H,C,N",none,replicated 2x in C direction
 17020N2,"tong-v2, 251",TpBPy,"H,C,N,O",none,replicated 2x in C direction
