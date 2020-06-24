@@ -1,0 +1,21 @@
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v2.5.0
+  hooks:
+  - id: double-quote-string-fixer
+  - id: end-of-file-fixer
+  - id: mixed-line-ending
+  # this would affect all CIF files, changing their hashkeys
+  # - id: trailing-whitespace
+
+- repo: local
+  hooks:
+  - id: csv-unique-doi
+    name: Check that DOIs are unique
+    entry: python ./.github/validate.py unique-dois
+    language: system
+    pass_filenames: false
+    files: >-
+        (?x)^(
+            cof-papers.csv
+        )$
