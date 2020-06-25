@@ -34,6 +34,34 @@ def validate_unique_dois():
 
     print('No duplicate DOIs found.')
 
+@cli.command('unique-cof-ids')
+def validate_unique_cof_ids():
+    """Check that CURATED-COF IDs are unique."""
+    ids = FRAMEWORKS_DF['CURATED-COFs ID'].str.lower()
+
+    duplicates = [item for item, count in collections.Counter(list(ids)).items() if count > 1]
+
+    if duplicates:
+        print('Error: Duplicate CURATED-COF IDs detected: {}'.format(duplicates))
+        sys.exit(1)
+
+    print('No duplicate CURATED-COF IDs found.')
+
+
+@cli.command('unique-cof-names')
+def validate_unique_cof_names():
+    """Check that CURATED-COF names are unique."""
+    names = FRAMEWORKS_DF['Name'].str.lower()
+    names = names.str.replace('-',' ')
+
+    duplicates = [item for item, count in collections.Counter(list(names)).items() if count > 1]
+
+    if duplicates:
+        print('Error: Duplicate CURATED-COF names detected: {}'.format(duplicates))
+        sys.exit(1)
+
+    print('No duplicate CURATED-COF names found.')
+
 
 if __name__ == '__main__':
     cli()  # pylint: disable=no-value-for-parameter
