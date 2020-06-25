@@ -1,4 +1,8 @@
-# Autoformatting of files
+# Contributing directly to the repository
+
+You can contribute to the repository directly via pull requests.
+
+## Autoformatting of files
 
 The CSV and CIF files are validated using pre-commit hooks.
 
@@ -6,8 +10,7 @@ The CSV and CIF files are validated using pre-commit hooks.
 ## Install pre-commit hooks locally
 
 ```
-cd .workflows
-pip install -r requirements.txt
+pip install -r .github/requirements.txt
 pre-commit install
 ```
 
