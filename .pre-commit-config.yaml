@@ -19,3 +19,30 @@ repos:
         (?x)^(
             cof-papers.csv
         )$
+  - id: csv-unique-ids
+    name: Check that CURATED-COF IDs are unique
+    entry: python ./.github/validate.py unique-cof-ids
+    language: system
+    pass_filenames: false
+    files: >-
+        (?x)^(
+            cof-frameworks.csv
+        )$
+  - id: csv-unique-names
+    name: Check that CURATED-COF names are unique
+    entry: python ./.github/validate.py unique-cof-names
+    language: system
+    pass_filenames: false
+    files: >-
+        (?x)^(
+            cof-frameworks.csv
+        )$
+  - id: duplicates-marked-reciprocally
+    name: Check that marking of "Duplicate found" is reciprocal.
+    entry: python ./.github/validate.py duplicates-marked-reciprocally
+    language: system
+    pass_filenames: false
+    files: >-
+        (?x)^(
+            cof-frameworks.csv
+        )$
