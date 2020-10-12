@@ -46,3 +46,12 @@ repos:
         (?x)^(
             cof-frameworks.csv
         )$
+  - id: overlapping-atoms
+    name: Check that there are no overlapping atoms.
+    entry: python ./.github/validate.py overlapping-atoms
+    language: system
+    pass_filenames: true
+    files: >-
+        (?x)^(
+            cifs/.*.cif
+        )$
