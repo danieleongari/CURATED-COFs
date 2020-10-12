@@ -572,7 +572,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 20281N2,SI,BCTB-PD COF,"C,H,N",none,replicated 2x in C direction
 20282N2,SI,BCTA-TP-COF,"C,H,N",none,"replicated 2x in C direction, fixed cell dim A and B, fixed H position"
 20290N2,SI,Car-ETTA,"C,H,N",none,replicated 2x in C direction
-20300N2,SI,EB-COF-1,"C,H,N,O",none,replicated 2x in C direction
+20300N2,SI,EB-COF-1,"C,H,N,O",none,"replicated 2x in C direction, add H on CN"
 20310N2,SI,"P-COF-1","C,H,N,P","none",replicated 2x in C direction
 20311N2,SI,"P-COF-2","C,H,N,P","none",replicated 2x in C direction
 20320N2,SI,"TzBA","C,H,N","none","replicated 2x in C direction"
