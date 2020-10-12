@@ -15,7 +15,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 08013N2,"tong-v2, 044",COF-18Å,"H,B,C,O",none,replicated 2x in C direction
 08020N2,"tong-v2, 073",CTF-1,"H,C,N",none,replicated 2x in C direction
 08030N2,"tong-v2, 235",TP-COF,"H,B,C,O",none,replicated 2x in C direction
-09000N3,"tong-v2, 046",COF-300,"H,C,N",none,none
+09000N3,"tong-v2, 046",COF-300,"H,C,N",18132N3,none
 09010N2,"tong-v2, 186",PPy-COF,"H,B,C,O",none,replicated 2x in C direction
 10000N2,"tong-v2, 074",CTF-2 AA,"H,C,N",none,replicated 2x in C direction
 10001N2,"tong-v2, 075",CTF-2 AB,"H,C,N",none,none
@@ -30,7 +30,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 11030N2,"tong-v2, 048",COF-366,"H,C,N",none,aligned to xy plan
 11031N2,"tong-v2, 056",COF-66,"H,B,C,N,O",none,"aligned to xy plan, replicated 2x in C direction"
 11040N2,SI,HHTP-DPB,"H,B,C,O",none,"added hydrogens, replicated 2x in C direction"
-12000N2,"tong-v2, 255",TpPa-1,"H,C,N,O",13051N,replicated 2x in C direction
+12000N2,"tong-v2, 255",TpPa-1,"H,C,N,O",13051N2,replicated 2x in C direction
 12001N2,"tong-v2, 256",TpPa-2,"H,C,N,O",none,replicated 2x in C direction
 12010N2,SI,H2P-COF,"H,B,C,N,O",none,replicated 2x in C direction
 12011N2,SI,ZnP-COF,"H,B,C,N,O,Zn",none,replicated 2x in C direction
@@ -54,7 +54,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 13030N2,"tong-v2, 072",CTF-0,"H,C,N",none,replicated 2x in C direction
 13040N3,"tong-v2, 047",COF-320,"H,C,N",none,none
 13050N2,"tong-v2, 082",DAAQ-TFP COF,"H,C,N,O",none,replicated 2x in C direction
-13051N2,"tong-v2, 083",DAQ-TFP COF,"H,C,N,O",12000N,replicated 2x in C direction
+13051N2,"tong-v2, 083",DAQ-TFP COF,"H,C,N,O",12000N2,replicated 2x in C direction
 13060N2,"tong-v2, 196",Py-Azine COF,"H,C,N",none,replicated 2x in C direction
 13070N2,"tong-v2, 243",TpBD-2NO2,"H,C,N,O",none,replicated 2x in C direction
 13071N2,"tong-v2, 244",TPBD-ME2,"H,C,N,O",none,replicated 2x in C direction
@@ -78,7 +78,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 13140N2,"tong-v2, 215",T-COF 1,"H,B,C,O,S",none,replicated 2x in C direction
 13141N2,"tong-v2, 216",T-COF 2,"H,B,C,O,S",none,replicated 2x in C direction
 13142N2,"tong-v2, 217",T-COF 3,"H,B,C,O,S",none,replicated 2x in C direction
-13150N2,"tong-v2, 249",TpBD,"H,C,N,O",16320N,replicated 2x in C direction
+13150N2,"tong-v2, 249",TpBD,"H,C,N,O",16320N2,replicated 2x in C direction
 13160N2,"tong-v2, 078",CuP-Ph COF,"H,C,N,O,Cu",none,"replicated 2x in C direction, fixed chemistry according to paper"
 13161N2,"tong-v2, 080",CuP-TFPh COF,"H,C,N,O,F,Cu",none,"replicated 2x in C direction,  fixed chemistry according to paper"
 13170N2,"tong-v2, 067",CoPc-PorDBA,"H,B,C,N,O",none,"aligned to xy plan, replicated 2x in C direction"
@@ -232,7 +232,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 16310N2,"tong-v2, 031",CC-TAPH-COF,"H,C,N,O",none,"Removed 2H from porph, added missing H on benz, UFF opt overlapping, aligned to xy plan, replicated 2x in C direction"
 16311N2,"tong-v2, 157",NN-TAPH-COF,"H,C,N,O",none,"Added H on CN, aligned to xy plan, replicated 2x in C direction"
 16312N2,"tong-v2, 167",OH-TAPH-COF,"H,C,N,O",none,"aligned to xy plan, replicated 2x in C direction"
-16320N2,"tong-v2, 253",TpFn,"H,C,N,O",13150N,replicated 2x in C direction
+16320N2,"tong-v2, 253",TpFn,"H,C,N,O",13150N2,replicated 2x in C direction
 16330N2,"tong-v2, 176",PI-2-COF,"H,C,N",none,replicated 2x in C direction
 16331N2,"tong-v2, 177",PI-3-COF,"H,C,N",none,"moved H from N to C, replicated 2x in C direction"
 16332N3,"tong-v2, 178",PI-COF-4,"H,C,N,O",none,none
@@ -336,7 +336,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 18122N3,SI,3D-IL-COF-3,"H,C,N",none,adjusted UC dimensions to have a physical aromatic C-C distance of ca. 1.45 Angs
 18130N3,"CSD, 1846135",COF-303,"H,C,N",none,none
 18131N3,"CSD, 1846136",COF-300_hydrate,"H,C,N",none,removed water solvent
-18132N3,"CSD, 1846138",COF-300,"H,C,N",09000N,none
+18132N3,"CSD, 1846138",COF-300,"H,C,N",09000N3,none
 18133N3,"CSD, 1846139",LZU-111,"H,C,N",none,none
 18134N3,"CSD, 1846140",LZU-79,"H,C,N",none,fixed partial occupation for the ligand
 18140N2,SI,2D-TTFB-TAPA,"C,H,N",none,replicated 2x in C direction
@@ -521,7 +521,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 20115N3,SI,JUC-551 3-fold,"C,H,N,O",none,none
 20116N3,SI,JUC-552 1-fold,"C,H,N,O",none,none
 20117N3,SI,JUC-552 3-fold,"C,H,N,O",none,none
-20118N3,SI,JUC-552 2-fold,"C,H,N,O",corrected symmetry from I41/a to P42/n,none
+20118N3,SI,JUC-552 2-fold,"C,H,N,O",none,corrected symmetry from I41/a to P42/n
 20120N2,SI,2D-BPTA-COF,"C,H,N",none,none
 20121N3,SI,3D-BMTA-COF,"C,H,N",none,none
 20130N2,SI,TPB-DBBA-COF,"C,H,Br,N",none,replicated 2x in C direction

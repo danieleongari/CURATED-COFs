@@ -57,10 +57,35 @@ def validate_unique_cof_names():
     duplicates = [item for item, count in collections.Counter(list(names)).items() if count > 1]
 
     if duplicates:
-        print('Error: Duplicate CURATED-COF names detected: {}'.format(duplicates))
+        print('Warning: Duplicate CURATED-COF names detected: {}'.format(duplicates))
         sys.exit(1)
 
     print('No duplicate CURATED-COF names found.')
+
+@cli.command('duplicates-marked-reciprocally')
+def duplicates_marked_reciprocally():
+    """Check that marking of rows with "Duplicate found" is reciprocal."""
+    ids = FRAMEWORKS_DF['CURATED-COFs ID'].str
+    messages = []
+
+    for _index, row in FRAMEWORKS_DF.iterrows():
+        if row['Duplicate found'] != 'none':
+            original_id = row['CURATED-COFs ID']
+            duplicate_id = row['Duplicate found']
+            duplicate_row = FRAMEWORKS_DF.loc[FRAMEWORKS_DF['CURATED-COFs ID'] == duplicate_id ]
+            if not len(duplicate_row) == 1:
+                messages.append(f'Found row without reciprocal duplicate mark:\n{row}')
+
+            duplicate_row_original_id = duplicate_row['Duplicate found'].values[0]
+            if not duplicate_row['Duplicate found'].values[0] == original_id:
+                messages.append(f'Duplicate row lists ID {duplicate_row_original_id}, expected {original_id}')
+
+    if messages:
+       print(messages)
+       sys.exit(1)
+
+    print('Rows marked as duplicates go both ways.')
+
 
 
 if __name__ == '__main__':
