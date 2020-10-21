@@ -186,7 +186,7 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 16081N2,"tong-v2, 029",BW-COF AB,"H,C,N",none,aligned to xy plan
 16082N2,"tong-v2, 121",HB-COF AA,"H,C,N",none,replicated 2x in C direction
 16083N2,"tong-v2, 122",HB-COF AB,"H,C,N",none,aligned to xy plan
-16090N2,"tong-v2, 228",TfBD,"H,B,C,O",none,replicated 2x in C direction
+16090N2,"tong-v2, 228",TfBD,"H,C,N",none,"replicated 2x in C direction, corrected N and C"
 16100N2,"tong-v2, 151",N3-COF,"H,C,N",none,replicated 2x in C direction
 16110N3,"tong-v2, 096",DL-COF-1-bor,"H,B,C,N,O",none,none
 16111N3,"tong-v2, 097",DL-COF-1-ctn,"H,B,C,N,O",none,none
