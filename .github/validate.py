@@ -7,6 +7,8 @@ import pandas
 import click
 import collections
 
+from ase import io, geometry
+
 SCRIPT_PATH = os.path.split(os.path.realpath(__file__))[0]
 ROOT_DIR = os.path.join(SCRIPT_PATH, os.pardir)
 
@@ -86,6 +88,27 @@ def duplicates_marked_reciprocally():
 
     print('Rows marked as duplicates go both ways.')
 
+
+@cli.command('overlapping-atoms')
+@click.argument('cifs', type=str, nargs=-1)
+def overlapping_atoms(cifs):
+    """Check that there are no overlapping atoms."""
+    messages = []
+
+    for cif in cifs:
+        try:
+            atoms = io.read(cif)
+        except Exception as exc:
+            raise ValueError(f'Unable to parse file {cif}') from exc
+        overlaps = geometry.get_duplicate_atoms(atoms, cutoff=0.1)
+        if len(overlaps) != 0:
+            messages.append(f'Overlapping atoms detected in {cif}')
+    
+    if messages:
+       print(messages)
+       sys.exit(1)
+
+    print('No overlapping atoms found.')
 
 
 if __name__ == '__main__':
