@@ -144,7 +144,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 15210N2,"tong-v2, 174",Ph-An-COF,"H,B,C,O",replicated 2x in C direction
 15211N2,"tong-v2, 175",Ph-AnCD-COF,"H,B,C,O",replicated 2x in C direction
 15220N2,SI,N-COF,"C,H,N",replicated 2x in C direction
-15230N2,SI,Ph-An-COF-duplicate,"C,H,B,O","replicated 2x in C direction, add H"
 15240N2,SI (CIF),TAT-COF-1 AA,"C,H,N",replicated 2x in C direction
 15242N2,SI (CIF),TAT-COF-2 AA,"C,H,N",replicated 2x in C direction
 15250N2,Priv. Comm.,N0-COF,"C,H,N",replicated 2x in C direction
