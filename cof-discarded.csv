@@ -1,0 +1,30 @@
+CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications,Reason Discarded
+10001N2,"tong-v2, 075",CTF-2 AB,"H,C,N",none,none,AA stacking suggested
+12051N2,"tong-v2, 027",BLP-2H AB,"H,B,C,N",none,none,AA stacking suggested
+13101N2,"tong-v2, 133",ILCOF-1 AB,"H,C,N",none,none,AA stacking suggested
+14031N2,"tong-v2, 238",Tp-Por COF AB,"H,B,C,N,O",none,none,AA stacking suggested
+15241N2,SI (CIF),TAT-COF-1 AB,"C,H,N",none,none,AA stacking suggested
+15243N2,SI (CIF),TAT-COF-2 AB,"C,H,N",none,none,AA stacking suggested
+16081N2,"tong-v2, 029",BW-COF AB,"H,C,N",none,aligned to xy plan,AA stacking suggested
+16082N2,"tong-v2, 121",HB-COF AA,"H,C,N",none,replicated 2x in C direction,BW configuration in AA stacking suggested
+16083N2,"tong-v2, 122",HB-COF AB,"H,C,N",none,aligned to xy plan,BW configuration in AA stacking suggested
+18091N2,SI,FLT-COF-1 AB,"H,B,C,O",none,replicated 2x in C direction,AA stacking suggested
+19031N2,SI,COF-IL AB,"H,C,N,O,Br",none,none,AA stacking suggested
+19071N2,SI,TBICOF AB,"H,C,N,O",none,added hydrogens,AA stacking suggested
+19072N2,SI,TBICOF ABC,"H,C,N,O",none,added hydrogens,AA stacking suggested
+19100N2,SI,PZ-COF1 AB,"C,H,O",none,none,AA stacking suggested
+19103N2,SI,PZ-COF2 AB,"C,H,N",none,none,AA stacking suggested
+19121N2,SI,Bth-Dha AB,"C,H,N,O",none,none,AA stacking suggested
+19123N2,SI,Bth-Dma AB,"C,H,N,O",none,none,AA stacking suggested
+19141N2,SI,JUC-505 AB,"C,N,O",none,none,AA stacking suggested
+19143N2,SI,JUC-506 AB,"C,H,O",none,none,AA stacking suggested
+19145N2,SI,JUC-505-COOH AB,"C,H,N,O",none,none,AA stacking suggested
+19231N2,SI,BABE-TFPy AB,"H,C,N,O",none,none,AA stacking suggested
+19271N2,SI,TTCOF-Zn AB,"H,C,N,S,Zn",none,aligned to xy plan,AA stacking suggested
+19461N2,SI,JUC-520 AB,"C,H,N,O",none,none,AA stacking suggested
+19463N2,SI,JUC-521 AB,"C,H,N,O",none,none,AA stacking suggested
+19465N2,SI,JUC-522 AB,"C,H,N,O",none,none,AA stacking suggested
+19467N2,SI,JUC-523 AB,"C,H,N,O",none,none,AA stacking suggested
+19471N2,SI,BITA-PDA AB,"C,H,N",none,none,AA stacking suggested
+20171N2,SI,TTF-TA AB,"C,H,N,S",none,none,AA stacking suggested
+20173N2,SI,TTF-DMTA-1,"C,H,N,O,S",none,replicated 2x in C direction,tilted version of 20172N2
