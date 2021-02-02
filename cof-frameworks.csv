@@ -120,7 +120,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 15101N2,"tong-v2, 250",TpBDH,"H,C,N,O","some O atoms replaced with H, replicated 2x in C direction"
 15110N2,"tong-v2, 015",AEM-COF-1,"H,B,C,O",replicated 2x in C direction
 15111N2,"tong-v2, 016",AEM-COF-2,"H,B,C,O",replicated 2x in C direction
-15120N2,"tong-v2, 065",COF-SDU1,"H,C,N,O",replicated 2x in C direction
 15130N2,"tong-v2, 085",DBA-COF 1,"H,B,C,O",replicated 2x in C direction
 15131N2,"tong-v2, 086",DBA-COF 2,"H,B,C,O",replicated 2x in C direction
 15140N2,"tong-v2, 092",DhaTab,"H,C,N",replicated 2x in C direction
@@ -145,7 +144,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 15210N2,"tong-v2, 174",Ph-An-COF,"H,B,C,O",replicated 2x in C direction
 15211N2,"tong-v2, 175",Ph-AnCD-COF,"H,B,C,O",replicated 2x in C direction
 15220N2,SI,N-COF,"C,H,N",replicated 2x in C direction
-15230N2,SI,Ph-An-COF,"C,H,B,O","replicated 2x in C direction, add H"
+15230N2,SI,Ph-An-COF-duplicate,"C,H,B,O","replicated 2x in C direction, add H"
 15240N2,SI (CIF),TAT-COF-1 AA,"C,H,N",replicated 2x in C direction
 15242N2,SI (CIF),TAT-COF-2 AA,"C,H,N",replicated 2x in C direction
 15250N2,Priv. Comm.,N0-COF,"C,H,N",replicated 2x in C direction
@@ -177,7 +176,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 16070N2,"tong-v2, 164",NUS-3,"H,C,N,O",replicated 2x in C direction
 16080N2,"tong-v2, 028",BW-COF AA,"H,C,N","aligned to xy plan, replicated 2x in C direction"
 16090N2,"tong-v2, 228",TfBD,"H,C,N","replicated 2x in C direction, corrected N and C"
-16100N2,"tong-v2, 151",N3-COF,"H,C,N",replicated 2x in C direction
+16100N2,"tong-v2, 151",Bai's N3-COF,"H,C,N",replicated 2x in C direction
 16110N3,"tong-v2, 096",DL-COF-1-bor,"H,B,C,N,O",none
 16111N3,"tong-v2, 097",DL-COF-1-ctn,"H,B,C,N,O",none
 16112N3,"tong-v2, 098",DL-COF-2-bor,"H,B,C,N,O,F",none
@@ -243,7 +242,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 16420N2,"tong-v2, 246",TpBD-NHCOCH3,"H,C,N,O","UFF optimized to fix overlapping H, replicated 2x in C direction"
 16430N2,"tong-v2, 061",COF-JLU3,"H,C,N,O","aligned to xy plan, replicated 2x in C direction"
 16440N2,"tong-v2, 240",TPB-DMTP-COF,"H,C,N,O","aligned to xy plan, replicated 2x in C direction"
-16450N2,"tong-v2, 184",Por-COF,"H,C,N",aligned to xy plan
+16450N2,"tong-v2, 184",Liao's Por-COF,"H,C,N",aligned to xy plan
 16460N2,"tong-v2, 095","2,3-DhaTta","H,C,N,O",replicated 2x in C direction
 16470N2,"tong-v2, 021",BCCTP-COF,"H,C",replicated 2x in C direction
 16480N2,"tong-v2, 273",TTI-COF,"H,C,N",replicated 2x in C direction
@@ -349,7 +348,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 19050N2,SI,TTT-DTDA COF,"H,C,N,S",replicated 2x in C direction
 19051N2,SI,TTT-BTDA COF,"H,C,N,S",replicated 2x in C direction
 19060N2,SI,TPB2-COF,"H,C,N,O","added hydrogens, replicated 2x in C direction"
-19061N2,SI,TPB2-COF,"H,C,N,O","added hydrogens, replicated 2x in C direction"
+19061N2,SI,Tfp2-COF,"H,C,N,O","added hydrogens, replicated 2x in C direction"
 19070N2,SI,TBICOF AA,"H,C,N,O","added hydrogens, replicated 2x in C direction"
 19080N2,SI,2D-COF-1,"H,C,N,O",replicated 2x in C direction
 19090N2,SI,TPT-DAHQ,"C,H,N,O","fix symmetry (P6), replicated 2x in C direction"
@@ -456,17 +455,17 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 19520N2,SI,12C4-COF,"C,H,N,O",replicated 2x in C direction
 19521N2,SI,15C5-COF,"C,H,N,O",replicated 2x in C direction
 19522N2,SI,18C6-COF,"C,H,N,O",replicated 2x in C direction
-19530N2,SI,COF-1,"C,H,N",replicated 2x in C direction
-19531N2,SI,COF-2,"C,H,N",replicated 2x in C direction
+19530N2,SI,Yuan's COF-1,"C,H,N",replicated 2x in C direction
+19531N2,SI,Yuan's COF-2,"C,H,N",replicated 2x in C direction
 19540N2,SI,TA_DBC-COF,"C,H,N",replicated 2x in C direction
 19541N2,SI,Biph_DBC-COF,"C,H,N",replicated 2x in C direction
 19542N2,SI,TT_DBC-COF,"C,H,N,S",replicated 2x in C direction
 19550N2,SI,Red-PV-COF,"C,H,N","replicated 2x in C direction, removed Cl, added H in porpyrin"
-19560N2,SI,Red-PV-COF,"C,H,N,O","replicated 2x in C direction, add H"
+19560N2,SI,DhaTab-V,"C,H,N,O","replicated 2x in C direction, add H"
 19570N2,Priv. Comm.,PT2B-COF,"C,H,N",replicated 2x in C direction
 19571N2,Priv. Comm.,PY2B-COF,"C,H,N",replicated 2x in C direction
 19572N2,Priv. Comm.,PT-COF,"C,H,N",replicated 2x in C direction
-19573N2,Priv. Comm.,PY-COF,"C,H,N",replicated 2x in C direction
+19573N2,Priv. Comm.,Banerjee's PY-COF,"C,H,N",replicated 2x in C direction
 20000N2,SI,TPI-COF,"C,H,N,S",add H atom
 20010N2,SI,COF-616,"C,H,N,O","replicated 2x in C direction, add missing atom C4"
 20020N2,SI,DAAQ-TFP,"C,H,N,O",replicated 2x in C direction
@@ -498,10 +497,10 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 20140N2,SI,OMe-OH-TPBP-COF,"C,H,N,O",replicated 2x in C direction
 20141N2,SI,OMe-TPBP-COF,"C,H,N,O",replicated 2x in C direction
 20142N2,SI,OH-TPBP-COF,"C,H,N,O",replicated 2x in C direction
-20150N2,SI,B-COF-1,"C,H,N,S",replicated 2x in C direction
-20151N2,SI,B-COF-2,"C,H,N,S",replicated 2x in C direction
-20152N2,SI,T-COF-1,"C,H,N,S",replicated 2x in C direction
-20153N2,SI,T-COF-2,"C,H,N,S",replicated 2x in C direction
+20150N2,SI,Wang's B-COF-1,"C,H,N,S",replicated 2x in C direction
+20151N2,SI,Wang's B-COF-2,"C,H,N,S",replicated 2x in C direction
+20152N2,SI,Wang's T-COF-1,"C,H,N,S",replicated 2x in C direction
+20153N2,SI,Wang's T-COF-2,"C,H,N,S",replicated 2x in C direction
 20160N2,SI,P-DpTaDm-COF,"C,H,N,O",replicated 2x in C direction
 20161N2,SI,P-StTaDm-COF,"C,H,N,O",replicated 2x in C direction
 20162N2,SI,P-StTtDm-COF,"C,H,N,O",replicated 2x in C direction

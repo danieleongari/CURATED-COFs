@@ -4,6 +4,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 13051N2,"tong-v2, 083",DAQ-TFP COF,"H,C,N,O",replicated 2x in C direction,duplicate of 12000N2
 13101N2,"tong-v2, 133",ILCOF-1 AB,"H,C,N",none,AA stacking suggested
 14031N2,"tong-v2, 238",Tp-Por COF AB,"H,B,C,N,O",none,AA stacking suggested
+15120N2,"tong-v2, 065",COF-SDU1,"H,C,N,O",replicated 2x in C direction,the structure does not match with the paper (4 benzene rings in the ligand instead of 4). Refer to the correct duplicate 19180N2 
 15241N2,SI (CIF),TAT-COF-1 AB,"C,H,N",none,AA stacking suggested
 15243N2,SI (CIF),TAT-COF-2 AB,"C,H,N",none,AA stacking suggested
 16081N2,"tong-v2, 029",BW-COF AB,"H,C,N",aligned to xy plan,AA stacking suggested
