@@ -293,9 +293,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 18001C3,SI,Si-COF-5,"H,C,O,Na,Si",none
 18010N3,SI,CCOF-5,"H,C,N,O",none
 18011N3,SI,CCOF-6,"H,C,N,O",none
-18020N3,SI,COF-DL229 2-fold,"H,C,N",none
-18021N3,SI,COF-DL229 4-fold,"H,C,N",cell dim wrong then scaled
-18022N3,SI,COF-DL229 6-fold,"H,C,N",none
 18023N3,SI,COF-DL229 8-fold,"H,C,N",none
 18030N2,SI,TPE-COF-I,"H,C,N",replicated 2x in C direction
 18031N2,SI,TPE-COF-II,"H,C,N,O",replicated 2x in C direction
@@ -333,14 +330,10 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 18160N2,Priv. Comm.,rs-TTI-COF,"C,H,N",none
 18161N2,Priv. Comm.,TTT-COF,"C,H,N,S",none
 19000N3,SI,JUC-518,"H,C,S,N",Added some missing H
-19001N3,SI,JUC-518 2-fold,"H,C,S,N",none
-19002N3,SI,JUC-519,"H,C,S,N",none
 19003N3,SI,JUC-519 2-fold,"H,C,S,N",none
 19010N2,SI,TPE-TAP-COF,"H,C,N","fixed too long C-H bond, replicated 2x in C direction"
 19020N3,SI,JUC-508,"H,C,N,O,F",none
-19021N3,SI,JUC-508 2-fold,"H,C,N,O,F",none
 19022N3,SI,JUC-509,"H,C,N,O,Cl",none
-19023N3,SI,JUC-509 2-fold,"H,C,N,O,Cl",none
 19030N2,SI,COF-IL AA,"H,C,N,O,Br",none
 19040N2,SI,"VO-PyTTA-2,3-DHTA","H,C,N,O,V","replicated 2x in C direction, removed PMM2 space group that lead to a wrong structure"
 19041N2,SI,"VO-TAPT-2,3-DHTA","H,C,N,O,V","fixed disorder, added hydrogens, replicated 2x in C direction"
@@ -415,11 +408,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 19370N2,SI,Aminal-COF-2,"C,H,N",replicated 2x in C direction
 19380N2,SI,A2B2-Por-COF,"C,H,N",replicated 2x in C direction
 19390N2,SI,IISERP-COF15,"C,H,N,O","replicated 2x in C direction, correct angles, add H"
-19400N3,SI,3D-HNU5,"C,H,N",none
 19401N3,SI,3D-HNU5 2-fold,"C,H,N",none
-19402N3,SI,3D-HNU5 3-fold,"C,H,N",none
-19403N3,SI,3D-HNU5 4-fold,"C,H,N",none
-19404N3,SI,3D-HNU5 5-fold,"C,H,N",none
 19410N2,SI (CIF),Per-1P COF,"C,H,N",replicated 2x in C direction
 19411N2,SI (CIF),Per-N COF,"C,H,N",replicated 2x in C direction
 19412N2,SI (CIF),Per-Py COF,"C,H,N",replicated 2x in C direction
@@ -481,15 +470,9 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 20090N2,SI,COF-77,"C,H,N",replicated 2x in C direction
 20091N2,SI,COF-78,"C,H,N,O","correct H with N, replicated 2x in C direction"
 20100C3,SI,Im-COF-Br,"C,H,Br,N",replicated 2x in C direction
-20110N3,SI,JUC-550 1-fold,"C,H,N,O",none
-20111N3,SI,JUC-550 2-fold,"C,H,N,O",none
-20112N3,SI,JUC-550 3-fold,"C,H,N,O",none
-20113N3,SI,JUC-551 1-fold,"C,H,N,O",none
-20114N3,SI,JUC-551 2-fold,"C,H,N,O",none
-20115N3,SI,JUC-551 3-fold,"C,H,N,O",none
-20116N3,SI,JUC-552 1-fold,"C,H,N,O",none
-20117N3,SI,JUC-552 3-fold,"C,H,N,O",none
-20118N3,SI,JUC-552 2-fold,"C,H,N,O",corrected symmetry from I41/a to P42/n
+20110N3,SI,JUC-550,"C,H,N,O",none
+20113N3,SI,JUC-551,"C,H,N,O",none
+20116N3,SI,JUC-552,"C,H,N,O",none
 20120N2,SI,2D-BPTA-COF,"C,H,N",none
 20121N3,SI,3D-BMTA-COF,"C,H,N",none
 20130N2,SI,TPB-DBBA-COF,"C,H,Br,N",replicated 2x in C direction
