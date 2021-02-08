@@ -586,7 +586,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 20565N3,SI,"BP-COF-6","C,H,B,O,P","aligned to xy plan, replicated 2x in B and C directions"
 20570N3,SI,"3D-COF-1 5-fold","C,H,N","none"
 20571N3,SI,"3D-COF-10 7-fold","C,H,N","none"
-21000C2,SI,"BrCOF-2 AA","C,H,Br,N","replicated 2x in C direction"
 20580N3,SI,"PD-COF-23","C,H,N,O","replicated 2x in C direction"
 20581N2,SI,"PD-COF-23-Ni","C,H,N,Ni,O","replicated 2x in C direction"
 20590N2,SI,"BT-TAPT-COF","C,H,N,S","replicated 2x in C direction"
@@ -637,3 +636,5 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 21090N3,SI,"FCOF-5","C,H,N,O","none"
 21091N3,SI,"FCOF-5-THF","C,H,N,O","none"
 21021N2,SI,"NKCOF-6","C,H,N","none"
+21000N2,SI,"BrCOF-1 AA","C,H,Br,N","replicated 2x in C direction"
+21001N2,SI,"BrCOF-2 AA","C,H,Br,N","replicated 2x in C direction, add missing H on Br-benzene"
