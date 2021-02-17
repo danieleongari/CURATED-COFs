@@ -5,17 +5,21 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 13101N2,"tong-v2, 133",ILCOF-1 AB,"H,C,N",none,AA stacking suggested
 14031N2,"tong-v2, 238",Tp-Por COF AB,"H,B,C,N,O",none,AA stacking suggested
 15120N2,"tong-v2, 065",COF-SDU1,"H,C,N,O",replicated 2x in C direction,the structure does not match with the paper (4 benzene rings in the ligand instead of 4). Refer to the correct duplicate 19180N2 
+15201N3,"tong-v2, 180",PI-COF-5,"H,C,N,O",none,4-fold structure suggested but its reported CIF is disordered
+15202N3,"tong-v2, 181",PI-COF-5-2P,"H,C,N,O",none,4-fold structure suggested but its reported CIF is disordered
 15241N2,SI (CIF),TAT-COF-1 AB,"C,H,N",none,AA stacking suggested
 15243N2,SI (CIF),TAT-COF-2 AB,"C,H,N",none,AA stacking suggested
 16081N2,"tong-v2, 029",BW-COF AB,"H,C,N",aligned to xy plan,AA stacking suggested
 16082N2,"tong-v2, 121",HB-COF AA,"H,C,N",replicated 2x in C direction,BW configuration in AA stacking suggested
 16083N2,"tong-v2, 122",HB-COF AB,"H,C,N",aligned to xy plan,BW configuration in AA stacking suggested
+16220N2,"tong-v2, 066",COF-TpAzo,"H,C,N,O",replicated 2x in C direction,duplicate of 14090N2
 16320N2,"tong-v2, 253",TpFn,"H,C,N,O",replicated 2x in C direction,duplicate of 13150N2
 18020N3,SI,COF-DL229 2-fold,"H,C,N",none,8-fold interpenetration suggested (18023N3)
 18021N3,SI,COF-DL229 4-fold,"H,C,N",cell dim wrong then scaled,8-fold interpenetration suggested (18023N3)
 18022N3,SI,COF-DL229 6-fold,"H,C,N",none,8-fold interpenetration suggested (18023N3)
 18091N2,SI,FLT-COF-1 AB,"H,B,C,O",replicated 2x in C direction,AA stacking suggested
 18132N3,"CSD, 1846138",COF-300,"H,C,N",none,duplicate of 09000N3
+18160N2,Priv. Comm.,rs-TTI-COF,"C,H,N",none,randomly stacked equivalent of 16481N2
 19001N3,SI,JUC-518 2-fold,"H,C,S,N",none,non-interpenetrated configuration suggested (19000N3)
 19002N3,SI,JUC-519,"H,C,S,N",none,2-fold interpenetration suggested (19003N3)
 19021N3,SI,JUC-508 2-fold,"H,C,N,O,F",none,non-interpenetrated configuration suggested (19020N3)
@@ -48,4 +52,5 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 20115N3,SI,JUC-551 3-fold,"C,H,N,O",none,non-interpenetrated configuration suggested (20113N3)
 20117N3,SI,JUC-552 3-fold,"C,H,N,O",none,non-interpenetrated configuration suggested (20116N3)
 20118N3,SI,JUC-552 2-fold,"C,H,N,O",corrected symmetry from I41/a to P42/n,non-interpenetrated configuration suggested (20116N3)
+20163N2,SI,S-DpTaDm-COF,"C,H,N,O",replicated 2x in C direction,exactly the same as 20164N2 but not mentioned in the main text
 20173N2,SI,TTF-DMTA-1,"C,H,N,O,S",replicated 2x in C direction,tilted version of 20172N2

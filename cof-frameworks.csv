@@ -139,8 +139,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 15186N2,"tong-v2, 112",DTP-APyrDI-COF,"H,B,C,N,O",replicated 2x in C direction
 15190N2,"tong-v2, 017",ATFG-COF,"H,C,N,O",replicated 2x in C direction
 15200N3,"tong-v2, 179",PI-COF-4-2P,"H,C,N,O",none
-15201N3,"tong-v2, 180",PI-COF-5,"H,C,N,O",none
-15202N3,"tong-v2, 181",PI-COF-5-2P,"H,C,N,O",none
 15210N2,"tong-v2, 174",Ph-An-COF,"H,B,C,O",replicated 2x in C direction
 15211N2,"tong-v2, 175",Ph-AnCD-COF,"H,B,C,O",replicated 2x in C direction
 15220N2,SI,N-COF,"C,H,N",replicated 2x in C direction
@@ -202,7 +200,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 16201N2,"tong-v2, 165",NUS-9,"H,C,N,O,S",replicated 2x in C direction
 16210N2,"tong-v2, 222",Tb-DANT-COF,"H,C,N,O",replicated 2x in C direction
 16211N2,"tong-v2, 236",Tp-DANT-COF,"H,C,N,O",replicated 2x in C direction
-16220N2,"tong-v2, 066",COF-TpAzo,"H,C,N,O",replicated 2x in C direction
 16230N2,"tong-v2, 268",TRIPTA,"H,C,N,O",replicated 2x in C direction
 16240C2,"tong-v2, 265",TpTG-Br,"H,C,N,O,Br",replicated 2x in C direction
 16241C2,"tong-v2, 266",TpTG-Cl,"H,C,N,O,Cl",replicated 2x in C direction
@@ -327,7 +324,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 18143N3,SI,3D-TTFB-TAPB,"C,H,N",none
 18150N2,SI,CAA-COF-1,"C,H,Cl,N,O","replicated 2x in C direction, added H"
 18151N2,SI,CAA-COF-2,"C,H,Cl,N,O","replicated 2x in C direction, added H"
-18160N2,Priv. Comm.,rs-TTI-COF,"C,H,N",none
 18161N2,Priv. Comm.,TTT-COF,"C,H,N,S",none
 19000N3,SI,JUC-518,"H,C,S,N",Added some missing H
 19003N3,SI,JUC-519 2-fold,"H,C,S,N",none
@@ -423,7 +419,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 19451N2,SI,MH-CCOF3,"C,H,N,O",replicated 2x in C direction
 19452N2,SI,MH-CCOF4,"C,H,N,O",replicated 2x in C direction
 19453N2,SI,TAH-CCOF1,"C,H,N",replicated 2x in C direction
-19454N2,SI,SAH-CCOF1-Boc,"C,H,N,O",replicated 2x in C direction
+19454N2,SI,"SAH-CCOF1-Boc","C,H,N,O","replicated 2x in C direction"
 19455N2,SI,G-CCOF1,"C,H,N",replicated 2x in C direction
 19456N2,SI,TAH-COF2,"C,H,N",replicated 2x in C direction
 19460N2,SI,JUC-520 AA,"C,H,N,O",replicated 2x in C direction
@@ -486,7 +482,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 20160N2,SI,P-DpTaDm-COF,"C,H,N,O",replicated 2x in C direction
 20161N2,SI,P-StTaDm-COF,"C,H,N,O",replicated 2x in C direction
 20162N2,SI,P-StTtDm-COF,"C,H,N,O",replicated 2x in C direction
-20163N2,SI,S-DpTaDm-COF,"C,H,N,O",replicated 2x in C direction
 20164N2,SI,S-TmTaDm-COF,"C,H,N,O",replicated 2x in C direction
 20165N2,SI,S-TmTaTp-COF,"C,H,N",replicated 2x in C direction
 20166N2,SI,S-TmTtDm-COF,"C,H,N,O",replicated 2x in C direction
