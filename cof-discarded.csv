@@ -45,7 +45,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 19465N2,SI,JUC-522 AB,"C,H,N,O",none,AA stacking suggested
 19467N2,SI,JUC-523 AB,"C,H,N,O",none,AA stacking suggested
 19471N2,SI,BITA-PDA AB,"C,H,N",none,AA stacking suggested
-20171N2,SI,TTF-TA AB,"C,H,N,S",none,AA stacking suggested
 20111N3,SI,JUC-550 2-fold,"C,H,N,O",none,non-interpenetrated configuration suggested (20110N3)
 20112N3,SI,JUC-550 3-fold,"C,H,N,O",none,non-interpenetrated configuration suggested (20110N3)
 20114N3,SI,JUC-551 2-fold,"C,H,N,O",none,non-interpenetrated configuration suggested (20113N3)
@@ -53,4 +52,5 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 20117N3,SI,JUC-552 3-fold,"C,H,N,O",none,non-interpenetrated configuration suggested (20116N3)
 20118N3,SI,JUC-552 2-fold,"C,H,N,O",corrected symmetry from I41/a to P42/n,non-interpenetrated configuration suggested (20116N3)
 20163N2,SI,S-DpTaDm-COF,"C,H,N,O",replicated 2x in C direction,exactly the same as 20164N2 but not mentioned in the main text
+20171N2,SI,TTF-TA AB,"C,H,N,S",none,AA stacking suggested
 20173N2,SI,TTF-DMTA-1,"C,H,N,O,S",replicated 2x in C direction,tilted version of 20172N2
