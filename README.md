@@ -7,11 +7,11 @@ This repository contains original structures from literature search, with git-tr
 DFT-optimized frameworks with DDEC charges are available on [Materials Cloud](https://www.materialscloud.org/discover/curated-cofs).
 
 * `cof-frameworks.csv` contains the list of COFs
-* `cof-discarded.csv` contains a list of COFs that have been discarded because of known duplicate, discarded layering, discarded n-folding, or other reasons reported in the document
+* `cof-discarded.csv` contains a list of COFs that have been discarded because of duplicate detection, unobserved AA/AB stacking variant, unobserved n-fold interpenetration, or other reasons reported in the document
 * `cof-papers.csv` contains a list of the reference papers for the COFs in the database: for example, `p0701` is the reference of COFs `07010N3`, `07011N3`, `07012N3`, and `07013N3`
-* `cifs/` directory, contains all the CIF files for the COFs listed in `cof-frameworks.csv` and `cof-discarded.csv`
+* `cifs/` contains all the crystallographic information files (CIFs) for the COFs listed in `cof-frameworks.csv` and `cof-discarded.csv`
 
-The database is built on top of the work of [Tong et al.](https://doi.org/10.1021/acs.jpcc.8b04742), named [CoRE-COF-DT280-v2.0](https://github.com/core-cof/CoRE-COF-Database/tree/2c1419d1f3c0d6eccce4306728cfe151c6b2ee08).
+The database builds on the work of [Tong et al.](https://doi.org/10.1021/acs.jpcc.8b04742), named [CoRE-COF-DT280-v2.0](https://github.com/core-cof/CoRE-COF-Database/tree/2c1419d1f3c0d6eccce4306728cfe151c6b2ee08).
 
 ### Structure labels
 ![Structure labels](images/figure1.gif)

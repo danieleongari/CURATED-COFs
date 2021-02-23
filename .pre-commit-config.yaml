@@ -37,15 +37,6 @@ repos:
         (?x)^(
             cof-frameworks.csv
         )$
-  # - id: duplicates-marked-reciprocally
-  #   name: Check that marking of "Duplicate found" is reciprocal.
-  #   entry: python ./.github/validate.py duplicates-marked-reciprocally
-  #   language: system
-  #   pass_filenames: false
-  #   files: >-
-  #       (?x)^(
-  #           cof-frameworks.csv
-  #       )$
   - id: overlapping-atoms
     name: Check that there are no overlapping atoms.
     entry: python ./.github/validate.py overlapping-atoms
