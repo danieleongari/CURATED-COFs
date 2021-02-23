@@ -6,15 +6,22 @@ Clean, Uniform and Refined with Automatic Tracking from Experimental Database (C
 This repository contains original structures from literature search, with git-tracked corrections. \
 DFT-optimized frameworks with DDEC charges are available on [Materials Cloud](https://www.materialscloud.org/discover/curated-cofs).
 
-The database is built on top of the work of [Tong et al.](https://doi.org/10.1021/acs.jpcc.8b04742), named [CoRE-COF-DT280-v2.0](https://github.com/core-cof/CoRE-COF-Database/tree/2c1419d1f3c0d6eccce4306728cfe151c6b2ee08).
+* `cof-frameworks.csv` contains the list of COFs
+* `cof-discarded.csv` contains a list of COFs that have been discarded because of duplicate detection, unobserved AA/AB stacking variant, unobserved n-fold interpenetration, or other reasons reported in the document
+* `cof-papers.csv` contains a list of the reference papers for the COFs in the database: for example, `p0701` is the reference of COFs `07010N3`, `07011N3`, `07012N3`, and `07013N3`
+* `cifs/` contains all the crystallographic information files (CIFs) for the COFs listed in `cof-frameworks.csv` and `cof-discarded.csv`
 
-#### Structure labels
+The database builds on the work of [Tong et al.](https://doi.org/10.1021/acs.jpcc.8b04742), named [CoRE-COF-DT280-v2.0](https://github.com/core-cof/CoRE-COF-Database/tree/2c1419d1f3c0d6eccce4306728cfe151c6b2ee08).
+
+### Structure labels
 ![Structure labels](images/figure1.gif)
 
-#### Cite as
-*D. Ongari, A. V. Yakutovich, L. Talirz and B. Smit, Building a consistent and reproducible database for adsorption evaluation in Covalent-Organic Frameworks, ACS Central Science 2019, in press* ([10.1021/acscentsci.9b00619](https://doi.org/10.1021/acscentsci.9b00619))
+### Cite as
+* Original release: *D. Ongari, A. V. Yakutovich, L. Talirz and B. Smit, Building a consistent and reproducible database for adsorption evaluation in Covalent-Organic Frameworks, ACS Central Science 2019, 5, 10, 1663-1675* ([10.1021/acscentsci.9b00619](https://doi.org/10.1021/acscentsci.9b00619))
 
-#### Help us
+* Update: *D. Ongari, L. Talirz and B. Smit, Too Many Materials and Too Many Applications: An Experimental Problem Waiting for a Computational Solution, ACS Central Science 2020, 6, 11, 1890-1900* ([10.1021/acscentsci.0c00988](https://doi.org/10.1021/acscentsci.0c00988))
+
+### Help us
 Please report new COF structures or mistakes by using [this form](https://forms.gle/gQpjcSEHjoJpqira8). Thank you!
 
 For bulk submissions, see [here](CONTRIBUTING.md).

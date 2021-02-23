@@ -1,19 +1,19 @@
 data_crystal
- 
+
 _cell_length_a    26.97800
 _cell_length_b    27.25110
 _cell_length_c    8.45420
 _cell_angle_alpha 89.69760
 _cell_angle_beta  89.38900
 _cell_angle_gamma 60.33100
- 
-_symmetry_space_group_name_Hall 'P 1'
-_symmetry_space_group_name_H-M  'P 1'
- 
+
+_space_group_name_Hall 'P 1'
+_space_group_name_H-M_alt  'P 1'
+
 loop_
 _symmetry_equiv_pos_as_xyz
- 'x,y,z' 
- 
+'x,y,z' 
+
 loop_
 _atom_site_label
 _atom_site_type_symbol
