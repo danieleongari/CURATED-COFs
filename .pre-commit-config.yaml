@@ -37,6 +37,17 @@ repos:
         (?x)^(
             cof-frameworks.csv
         )$
+  - id: csv-consistent-paper-ids
+    name: Check that CURATED-COF paper ids are consistent
+    entry: python ./.github/validate.py consistent-paper-ids
+    language: system
+    pass_filenames: false
+    files: >-
+        (?x)^(
+            cof-frameworks.csv|
+            cof-discarded.csv|
+            cof-papers.csv
+        )$
   - id: overlapping-atoms
     name: Check that there are no overlapping atoms.
     entry: python ./.github/validate.py overlapping-atoms

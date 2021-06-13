@@ -6,6 +6,7 @@ import sys
 import pandas
 import click
 import collections
+import warnings
 
 from ase import io, geometry
 from pymatgen.io.cif import CifParser
@@ -15,9 +16,11 @@ SCRIPT_PATH = os.path.split(os.path.realpath(__file__))[0]
 ROOT_DIR = os.path.join(SCRIPT_PATH, os.pardir)
 
 FRAMEWORKS_CSV = os.path.join(ROOT_DIR, 'cof-frameworks.csv')
+FRAMEWORKS_DISCARDED_CSV = os.path.join(ROOT_DIR, 'cof-discarded.csv')
 PAPERS_CSV = os.path.join(ROOT_DIR, 'cof-papers.csv')
 
 FRAMEWORKS_DF = pandas.read_csv(FRAMEWORKS_CSV)
+FRAMEWORKS_DISCARDED_DF = pandas.read_csv(FRAMEWORKS_DISCARDED_CSV)
 PAPERS_DF = pandas.read_csv(PAPERS_CSV)
 
 @click.group()
@@ -37,6 +40,35 @@ def validate_unique_dois():
         sys.exit(1)
 
     print('No duplicate DOIs found.')
+
+@cli.command('consistent-paper-ids')
+def consistent_paper_ids():
+    """Check that papers corresponding to CURATED-COF-IDs are all deposited.
+    
+    Also check whether any of the papers in cof-papers.csv have no associated structure.
+    """
+    paper_ids = PAPERS_DF['CURATED-COFs paper ID'].str.lower()
+    cof_ids = list(FRAMEWORKS_DF['CURATED-COFs ID'].str.lower()) + list(FRAMEWORKS_DISCARDED_DF['CURATED-COFs ID'].str.lower())
+    cof_ids_paper_ids = { cof_id: f'p{cof_id[:4]}' for cof_id in cof_ids }
+    paper_ids_set = set(cof_ids_paper_ids.values())
+    
+    if  paper_ids_set == set(paper_ids):
+        print('Set of paper IDs from cof-papers.csv and cof-frameworks.csv (+ cof-discarded.csv) agree.')
+        return
+
+    messages = []
+    for paper_id in paper_ids:
+        if paper_id not in paper_ids_set:
+            messages.append(f'Paper {paper_id} has no associated structure.')
+        else:
+            paper_ids_set.remove(paper_id)
+
+    for paper_id in paper_ids_set:
+        messages.append(f'Paper {paper_id} is missing in cof-papers.csv.')
+
+    if messages:
+       print('\n'.join(messages))
+       sys.exit(1)
 
 @cli.command('unique-cof-ids')
 def validate_unique_cof_ids():
@@ -85,7 +117,7 @@ def duplicates_marked_reciprocally():
                 messages.append(f'Duplicate row lists ID {duplicate_row_original_id}, expected {original_id}')
 
     if messages:
-       print(messages)
+       print('\n'.join(messages))
        sys.exit(1)
 
     print('Rows marked as duplicates go both ways.')
@@ -131,11 +163,11 @@ def unique_structures(cifs):
                 occupancy_tolerance=1000,  # CSD overspecifies equivalent sites
             ).get_structures(primitive=True)[0]
 
-        print(f'structure graph for {cif} with {len(structure)} atoms')
         if len(structure) > 1000:
             print(f'Skipping structure graph for {cif} with {len(structure)} atoms')
             continue
 
+        print(f'Computing structure graph for {cif} with {len(structure)} atoms')
         mofchecker = MOFChecker(structure)
         graph_hash = mofchecker.graph_hash
 
