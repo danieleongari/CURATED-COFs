@@ -8,6 +8,8 @@ import click
 import collections
 
 from ase import io, geometry
+from pymatgen.io.cif import CifParser
+from mofchecker import MOFChecker
 
 SCRIPT_PATH = os.path.split(os.path.realpath(__file__))[0]
 ROOT_DIR = os.path.join(SCRIPT_PATH, os.pardir)
@@ -110,6 +112,41 @@ def overlapping_atoms(cifs):
 
     print('No overlapping atoms found.')
 
+@cli.command('unique-structures')
+@click.argument('cifs', type=str, nargs=-1)
+def unique_structures(cifs):
+    """Check if structures are unique.
+
+    Uses the mofchecker to compare the atom graph of all structures, making sure that they are unique.
+    """
+    hashes = {}
+    errors = []
+    
+    for cif in cifs:
+
+        with warnings.catch_warnings():
+            warnings.simplefilter('ignore')
+            structure = CifParser(
+                cif,
+                occupancy_tolerance=1000,  # CSD overspecifies equivalent sites
+            ).get_structures(primitive=True)[0]
+
+        print(f'structure graph for {cif} with {len(structure)} atoms')
+        if len(structure) > 1000:
+            print(f'Skipping structure graph for {cif} with {len(structure)} atoms')
+            continue
+
+        mofchecker = MOFChecker(structure)
+        graph_hash = mofchecker.graph_hash
+
+        if graph_hash in hashes:
+            errors.append(f'Warning: {cif} and {hashes[graph_hash]} have the same structure graph hash')
+        else:
+            hashes[graph_hash] = cif
+
+    if errors:
+       print('\n'.join(errors))
+       sys.exit(1)
 
 if __name__ == '__main__':
     cli()  # pylint: disable=no-value-for-parameter

@@ -20,3 +20,20 @@ jobs:
       run: |
         pre-commit install
         pre-commit run --all-files || ( git status --short ; git diff ; exit 1 )
+
+  # this is split off because it can take too long
+  uniqueness:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install python dependencies
+      run: |
+        pip install -r .github/requirements.txt
+    - name: Check that structures are unique
+      run: |
+        python ./.github/validate.py unique-structures cifs/*.cif
