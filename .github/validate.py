@@ -175,10 +175,15 @@ def unique_structures(cifs):
 
     Uses the mofchecker to compare the atom graph of all structures, making sure that they are unique.
     """
+    discarded_ids = list(FRAMEWORKS_DISCARDED_DF['CURATED-COFs ID'].values)
     hashes = {}
     errors = []
     
     for cif in cifs:
+
+        id = cif.split('/')[-1].split('.')[0]
+        if id in discarded_ids:
+            continue # skip COFs already discarded
 
         with warnings.catch_warnings():
             warnings.simplefilter('ignore')
