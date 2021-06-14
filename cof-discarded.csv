@@ -12,6 +12,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 16081N2,"tong-v2, 029",BW-COF AB,"H,C,N",aligned to xy plane,AA stacking suggested
 16082N2,"tong-v2, 121",HB-COF AA,"H,C,N",replicated 2x in C direction,BW configuration in AA stacking suggested
 16083N2,"tong-v2, 122",HB-COF AB,"H,C,N",aligned to xy plane,BW configuration in AA stacking suggested
+16131N3,"tong-v2, 156",Ni-DBA-3D-COF-ctn,"H,B,C,O,Ni",bor configuration suggested
 16220N2,"tong-v2, 066",COF-TpAzo,"H,C,N,O",replicated 2x in C direction,duplicate of 14090N2
 16320N2,"tong-v2, 253",TpFn,"H,C,N,O",replicated 2x in C direction,duplicate of 13150N2
 18020N3,SI,COF-DL229 2-fold,"H,C,N",none,8-fold interpenetration suggested (18023N3)

@@ -181,7 +181,6 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 16120N2,"tong-v2, 259",TpPa-Py,"H,C,N,O","aligned to xy plane, replicated 2x in C direction"
 16121N2,"tong-v2, 260",TpPa-SO3H-Py,"H,C,N,O,S","aligned to xy plane, replicated 2x in C direction"
 16130N3,"tong-v2, 155",Ni-DBA-3D-COF-bor,"H,B,C,O,Ni",none
-16131N3,"tong-v2, 156",Ni-DBA-3D-COF-ctn,"H,B,C,O,Ni",none
 16140N2,"tong-v2, 008",4PE-1P-oxi,"H,C,N,O","H added on N, replicated 2x in C direction"
 16141N2,"tong-v2, 241",TPB-TP-COF-oxi,"H,C,N,O",replicated 2x in C direction
 16142N2,"tong-v2, 242",TPB-TP-COF,"H,C,N",replicated 2x in C direction
