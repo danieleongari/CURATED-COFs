@@ -55,4 +55,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 20163N2,SI,S-DpTaDm-COF,"C,H,N,O",replicated 2x in C direction,exactly the same as 20164N2 but not mentioned in the main text
 20171N2,SI,TTF-TA AB,"C,H,N,S",none,AA stacking suggested
 20173N2,SI,TTF-DMTA-1,"C,H,N,O,S",replicated 2x in C direction,tilted version of 20172N2
-21102N2,SI,"NKCOF-110","C,H,N,S","replicated 2x in C direction", duplicate of 16173N2
+21102N2,SI,"NKCOF-110","C,H,N,S","replicated 2x in C direction",duplicate of 16173N2
+21182N2,SI,"AZO-3","C,H,N,O","replicated 2x in C direction",duplicate of 14090N2
+21210N2,SI,"TPDA-PDA","C,H,N","replicated 2x in C direction",duplicate of 20630N2
