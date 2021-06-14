@@ -9,8 +9,8 @@ import warnings
 from pathlib import Path
 
 from ase import io, geometry
-# from pymatgen.io.cif import CifParser
-# from mofchecker import MOFChecker
+from pymatgen.io.cif import CifParser
+from mofchecker import MOFChecker
 
 SCRIPT_PATH = Path(__file__).resolve().parent
 ROOT_DIR = SCRIPT_PATH.parent
