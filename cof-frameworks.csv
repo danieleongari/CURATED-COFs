@@ -631,6 +631,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 21090N3,SI,"FCOF-5","C,H,N,O","none"
 21091N3,SI,"FCOF-5-THF","C,H,N,O","none"
 21100N2,SI,"NKCOF-108","C,H,F,N,S","replicated 2x in C direction"
+21101N2,SI,"NKCOF-109","C,H,F,N,S","replicated 2x in C direction"
 21110N3,SI,"JUC-568 ceq","C,H,N","swap B and C dimensions"
 21111N3,SI,"JUC-569 2-fold acs","C,H,N","none"
 21120N2,SI,"COF-DM","C,H,N,O","replicated 2x in C direction"
