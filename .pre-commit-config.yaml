@@ -28,6 +28,16 @@ repos:
         (?x)^(
             cof-frameworks.csv
         )$
+  - id: match-cifs
+    name: Check that all frameworks have a matching CIF
+    entry: python ./.github/validate.py match-cifs
+    language: system
+    pass_filenames: false
+    files: >-
+        (?x)^(
+            cof-frameworks.csv|
+            cifs/*.cif
+        )$
   - id: csv-unique-names
     name: Check that CURATED-COF names are unique
     entry: python ./.github/validate.py unique-cof-names

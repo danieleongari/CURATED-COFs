@@ -1,23 +1,24 @@
 #!/usr/bin/env python
 """Check consistency of CURATED COF database"""
 
-import os
 import sys
 import pandas
 import click
 import collections
 import warnings
+from pathlib import Path
 
 from ase import io, geometry
-from pymatgen.io.cif import CifParser
-from mofchecker import MOFChecker
+# from pymatgen.io.cif import CifParser
+# from mofchecker import MOFChecker
 
-SCRIPT_PATH = os.path.split(os.path.realpath(__file__))[0]
-ROOT_DIR = os.path.join(SCRIPT_PATH, os.pardir)
+SCRIPT_PATH = Path(__file__).resolve().parent
+ROOT_DIR = SCRIPT_PATH.parent
+CIFS_DIR = ROOT_DIR / 'cifs'
 
-FRAMEWORKS_CSV = os.path.join(ROOT_DIR, 'cof-frameworks.csv')
-FRAMEWORKS_DISCARDED_CSV = os.path.join(ROOT_DIR, 'cof-discarded.csv')
-PAPERS_CSV = os.path.join(ROOT_DIR, 'cof-papers.csv')
+FRAMEWORKS_CSV = ROOT_DIR /  'cof-frameworks.csv'
+FRAMEWORKS_DISCARDED_CSV = ROOT_DIR / 'cof-discarded.csv'
+PAPERS_CSV = ROOT_DIR / 'cof-papers.csv'
 
 FRAMEWORKS_DF = pandas.read_csv(FRAMEWORKS_CSV)
 FRAMEWORKS_DISCARDED_DF = pandas.read_csv(FRAMEWORKS_DISCARDED_CSV)
@@ -97,6 +98,29 @@ def validate_unique_cof_names():
         sys.exit(1)
 
     print('No duplicate CURATED-COF names found.')
+
+@cli.command('match-cifs')
+def validate_matching_cifs():
+    """Check that all frameworks have a matching CIF."""
+    ids = list(FRAMEWORKS_DF['CURATED-COFs ID'].values) + list(FRAMEWORKS_DISCARDED_DF['CURATED-COFs ID'].values)
+    cifs = [ p.name for p in CIFS_DIR.glob('*.cif') ]
+
+    messages = []
+    for id in ids:
+        fname = f'{id}.cif'
+        if fname in cifs:
+            cifs.remove(fname)
+        else:
+            messages.append(f'CIF file for COF {id} missing.')
+
+    for cif in cifs:
+        messages.append(f'Unreferenced CIF file {cif}')
+
+    if messages:
+       print('\n'.join(messages))
+       sys.exit(1)
+
+    print('All frameworks in cof-frameworks.csv have a matching CIF.')
 
 @cli.command('duplicates-marked-reciprocally')
 def duplicates_marked_reciprocally():
