@@ -9,9 +9,9 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 15202N3,"tong-v2, 181",PI-COF-5-2P,"H,C,N,O",none,4-fold structure suggested but its reported CIF is disordered
 15241N2,SI (CIF),TAT-COF-1 AB,"C,H,N",none,AA stacking suggested
 15243N2,SI (CIF),TAT-COF-2 AB,"C,H,N",none,AA stacking suggested
-16081N2,"tong-v2, 029",BW-COF AB,"H,C,N",aligned to xy plan,AA stacking suggested
+16081N2,"tong-v2, 029",BW-COF AB,"H,C,N",aligned to xy plane,AA stacking suggested
 16082N2,"tong-v2, 121",HB-COF AA,"H,C,N",replicated 2x in C direction,BW configuration in AA stacking suggested
-16083N2,"tong-v2, 122",HB-COF AB,"H,C,N",aligned to xy plan,BW configuration in AA stacking suggested
+16083N2,"tong-v2, 122",HB-COF AB,"H,C,N",aligned to xy plane,BW configuration in AA stacking suggested
 16220N2,"tong-v2, 066",COF-TpAzo,"H,C,N,O",replicated 2x in C direction,duplicate of 14090N2
 16320N2,"tong-v2, 253",TpFn,"H,C,N,O",replicated 2x in C direction,duplicate of 13150N2
 18020N3,SI,COF-DL229 2-fold,"H,C,N",none,8-fold interpenetration suggested (18023N3)
@@ -35,7 +35,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 19143N2,SI,JUC-506 AB,"C,H,O",none,AA stacking suggested
 19145N2,SI,JUC-505-COOH AB,"C,H,N,O",none,AA stacking suggested
 19231N2,SI,BABE-TFPy AB,"H,C,N,O",none,AA stacking suggested
-19271N2,SI,TTCOF-Zn AB,"H,C,N,S,Zn",aligned to xy plan,AA stacking suggested
+19271N2,SI,TTCOF-Zn AB,"H,C,N,S,Zn",aligned to xy plane,AA stacking suggested
 19400N3,SI,3D-HNU5,"C,H,N",none,2-fold interpenetration suggested (19401N3)
 19402N3,SI,3D-HNU5 3-fold,"C,H,N",none,2-fold interpenetration suggested (19401N3)
 19403N3,SI,3D-HNU5 4-fold,"C,H,N",none,2-fold interpenetration suggested (19401N3)

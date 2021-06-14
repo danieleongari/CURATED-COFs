@@ -669,6 +669,6 @@ CURATED-COFs ID,Source,Name,Elements,Duplicate found,Modifications
 21311N3,SI,"TAPFY-COF-P","C,H,N","none"
 21312N2,SI,"TAPB-COF","C,H,N","replicated 2x in C direction"
 21313N3,SI,"TAPB-COF-P","C,H,N","aligned to xy plan"
-21314N2,SI,"TAPP-COF","C,H,N","aligned to xy plan, replicated 2x in C direction"
-21315N3,SI,"TAPP-COF-P","C,H,N","aligned to xy plan"
+21314N2,SI,"TAPP-COF","C,H,N","aligned to xy plane, replicated 2x in C direction"
+21315N3,SI,"TAPP-COF-P","C,H,N","aligned to xy plane"
 21320N2,SI,"VCOF-PyrBpy","C,H,N","replicated 2x in C direction"
