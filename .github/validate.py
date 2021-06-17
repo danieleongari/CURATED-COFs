@@ -220,12 +220,12 @@ def unique_structures(cifs):
         graph_hash = mofchecker.graph_hash
 
         if graph_hash in hashes:
-            if not {cif,hashes[graph_hash]} in UNIQUE_EXCEPTIONS:
-                errors.append(f'Warning: {cif} and {hashes[graph_hash]} have the same structure graph hash')
+            if not {id,hashes[graph_hash]} in UNIQUE_EXCEPTIONS:
+                errors.append(f'Warning: {id} and {hashes[graph_hash]} have the same structure graph hash')
             else:
                 pass # withous adding the same graph_hash
         else:
-            hashes[graph_hash] = cif
+            hashes[graph_hash] = id
 
     if errors:
        print('\n'.join(errors))
