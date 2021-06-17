@@ -14,14 +14,21 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 16081N2,"tong-v2, 029",BW-COF AB,"H,C,N",aligned to xy plane,AA stacking suggested
 16082N2,"tong-v2, 121",HB-COF AA,"H,C,N",replicated 2x in C direction,BW configuration in AA stacking suggested
 16083N2,"tong-v2, 122",HB-COF AB,"H,C,N",aligned to xy plane,BW configuration in AA stacking suggested
+16090N2,"tong-v2, 228",TfBD,"H,C,N","replicated 2x in C direction, corrected N and C",duplicate of 16330N2
+16100N2,"tong-v2, 151",Bai's N3-COF,"H,C,N",replicated 2x in C direction,duplicate of 16480N2
 16131N3,"tong-v2, 156",Ni-DBA-3D-COF-ctn,"H,B,C,O,Ni",bor configuration suggested
-16142N2,"tong-v2, 242",TPB-TP-COF,"H,C,N",replicated 2x in C direction,duplicate of 16300N2
 16220N2,"tong-v2, 066",COF-TpAzo,"H,C,N,O",replicated 2x in C direction,duplicate of 14090N2
 16270N2,"tong-v2, 009",4PE-1P,"H,C,N",replicated 2x in C direction,duplicate of 14020N2
+16300N2,"tong-v2, 219",TAPB-PDA COF,"H,C,N",replicated 2x in C direction,duplicate of 16142N2
 16320N2,"tong-v2, 253",TpFn,"H,C,N,O",replicated 2x in C direction,duplicate of 13150N2
+16381N2,"tong-v2, 162",NUS-15,"H,C,N",replicated 2x in C direction,duplicate of 16142N2
+16470N2,"tong-v2, 021",BCCTP-COF,"H,C",replicated 2x in C direction,duplicate of 10020N2
+17010N2,"tong-v2, 223",TBI-COF,"H,C,N",replicated 2x in C direction,duplicate of 15163N2
+17090N3,"tong-v2, 136",LZU-301-sol,"H,C,N",none,duplicate of 13040N3
 18020N3,SI,COF-DL229 2-fold,"H,C,N",none,8-fold interpenetration suggested (18023N3)
 18021N3,SI,COF-DL229 4-fold,"H,C,N",cell dim wrong then scaled,8-fold interpenetration suggested (18023N3)
 18022N3,SI,COF-DL229 6-fold,"H,C,N",none,8-fold interpenetration suggested (18023N3)
+18050N2,SI,"[OH],0%-TD-COF","H,C,N,O",replicated 2x in C direction,duplicate of 16440N2
 18091N2,SI,FLT-COF-1 AB,"H,B,C,O",replicated 2x in C direction,AA stacking suggested
 18132N3,"CSD, 1846138",COF-300,"H,C,N",none,duplicate of 09000N3
 18160N2,Priv. Comm.,rs-TTI-COF,"C,H,N",none,randomly stacked equivalent of 16481N2
@@ -41,6 +48,8 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 19145N2,SI,JUC-505-COOH AB,"C,H,N,O",none,AA stacking suggested
 19231N2,SI,BABE-TFPy AB,"H,C,N,O",none,AA stacking suggested
 19271N2,SI,TTCOF-Zn AB,"H,C,N,S,Zn",aligned to xy plane,AA stacking suggested
+19300N2,SI,V-COF-1,"H,C,N",replicated 2x in C direction, duplicate of 19340N2
+19301N2,SI,V-COF-2,"H,C,N","replicated 2x in C direction, add H to CH=CH vinylene group", duplicate of 19341N2
 19400N3,SI,3D-HNU5,"C,H,N",none,2-fold interpenetration suggested (19401N3)
 19402N3,SI,3D-HNU5 3-fold,"C,H,N",none,2-fold interpenetration suggested (19401N3)
 19403N3,SI,3D-HNU5 4-fold,"C,H,N",none,2-fold interpenetration suggested (19401N3)

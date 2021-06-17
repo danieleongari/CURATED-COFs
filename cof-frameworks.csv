@@ -170,8 +170,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 16061N2,"tong-v2, 033",CCOF-2,"H,C,N,O",none
 16070N2,"tong-v2, 164",NUS-3,"H,C,N,O","replicated 2x in C direction, add H on N"
 16080N2,"tong-v2, 028",BW-COF AA,"H,C,N","aligned to xy plane, replicated 2x in C direction"
-16090N2,"tong-v2, 228",TfBD,"H,C,N","replicated 2x in C direction, corrected N and C"
-16100N2,"tong-v2, 151",Bai's N3-COF,"H,C,N",replicated 2x in C direction
 16110N3,"tong-v2, 096",DL-COF-1-bor,"H,B,C,N,O",none
 16111N3,"tong-v2, 097",DL-COF-1-ctn,"H,B,C,N,O",none
 16112N3,"tong-v2, 098",DL-COF-2-bor,"H,B,C,N,O,F",none
@@ -181,6 +179,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 16130N3,"tong-v2, 155",Ni-DBA-3D-COF-bor,"H,B,C,O,Ni",none
 16140N2,"tong-v2, 008",4PE-1P-oxi,"H,C,N,O","H added on N, replicated 2x in C direction"
 16141N2,"tong-v2, 241",TPB-TP-COF-oxi,"H,C,N,O",replicated 2x in C direction
+16142N2,"tong-v2, 242",TPB-TP-COF,"H,C,N",replicated 2x in C direction
 16150N2,"tong-v2, 084",DaTP,"H,C,N,O",replicated 2x in C direction
 16160N2,"tong-v2, 131",IISERP-COF3,"H,C,N,O","aligned to xy plane, replicated 2x in C direction"
 16170N2,"tong-v2, 187",Py-1P COF,"H,C,N",replicated 2x in C direction
@@ -208,7 +207,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 16273N2,"tong-v2, 012",4PE-TT,"H,C,N,S",replicated 2x in C direction
 16280C2,"tong-v2, 168",PC-COF,"H,C,N,Cl","aligned to xy plane, replicated 2x in C direction"
 16290N3,"tong-v2, 054",COF-505,"H,C,N",Removed Cu(I) and BF4-
-16300N2,"tong-v2, 219",TAPB-PDA COF,"H,C,N",replicated 2x in C direction
 16310N2,"tong-v2, 031",CC-TAPH-COF,"H,C,N,O","Removed 2H from porph, added missing H on benz, UFF opt overlapping, aligned to xy plane, replicated 2x in C direction"
 16311N2,"tong-v2, 157",NN-TAPH-COF,"H,C,N,O","Added H on CN, aligned to xy plane, replicated 2x in C direction"
 16312N2,"tong-v2, 167",OH-TAPH-COF,"H,C,N,O","aligned to xy plane, replicated 2x in C direction"
@@ -223,7 +221,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 16370N2,"tong-v2, 076",CTF-FUM,"H,C,N",replicated 2x in C direction
 16371N2,"tong-v2, 077",CTF-DCN,"H,C,N",replicated 2x in C direction
 16380N2,"tong-v2, 161",NUS-14,"H,C,N",replicated 2x in C direction
-16381N2,"tong-v2, 162",NUS-15,"H,C,N",replicated 2x in C direction
 16390N2,"tong-v2, 272",TThPP,"H,C,N,S","aligned to xy plane, replicated 2x in C direction, added S atoms as in the paper"
 16400N2,"tong-v2, 252",TPE-Ph COF,"H,B,C,O",replicated 2x in C direction
 16410C2,"tong-v2, 113",EB-COF:Br,"H,C,N,O,Br","aligned to xy plane, replicated 2x in C direction"
@@ -235,14 +232,12 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 16440N2,"tong-v2, 240",TPB-DMTP-COF,"H,C,N,O","aligned to xy plane, replicated 2x in C direction"
 16450N2,"tong-v2, 184",Liao's Por-COF,"H,C,N",aligned to xy plan
 16460N2,"tong-v2, 095","2,3-DhaTta","H,C,N,O",replicated 2x in C direction
-16470N2,"tong-v2, 021",BCCTP-COF,"H,C",replicated 2x in C direction
 16480N2,"tong-v2, 273",TTI-COF,"H,C,N",replicated 2x in C direction
 16481N2,Priv. Comm.,TTI-COF antiparallel,"C,H,N",as studied in 10.1039/C6QM00378H
 16490N2,"tong-v2, 150",MPCOF,"H,C,N,P",replicated 2x in C direction
 16500N2,"tong-v2, 231",TH-COF-1,"H,C,N,S",replicated 2x in C direction
 16510N2,"tong-v2, 119",HAT-COF,"H,C,N",replicated 2x in C direction
 17000N2,"tong-v2, 183",PI-COF,"H,C,N,O",replicated 2x in C direction
-17010N2,"tong-v2, 223",TBI-COF,"H,C,N",replicated 2x in C direction
 17020N2,"tong-v2, 251",TpBPy,"H,C,N,O",replicated 2x in C direction
 17030N2,"tong-v2, 264",TpTD,"H,C,N,O",replicated 2x in C direction
 17040N2,"tong-v2, 206",SB-PORPy,"H,C,N",none
@@ -251,7 +246,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 17061N2,SI,HAT-NTBA-COF,"H,C,N",replicated 2x in C direction
 17070N2,"tong-v2, 274",TzDa,"H,C,N,O",replicated 2x in C direction
 17080C2,"tong-v2, 202",PyTTA-BFBIm-iCOF,"H,C,N,Br",none
-17090N3,"tong-v2, 136",LZU-301-sol,"H,C,N",none
 17091N3,"tong-v2, 137",LZU-301,"H,C,N",none
 17100N2,"tong-v2, 182",PI-COF-SR,"H,C,N,O",replicated 2x in C direction
 17110N2,"tong-v2, 205",Salen-COF,"H,C,N,O",replicated 2x in C direction
@@ -292,7 +286,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 18033N2,SI,TPE-COF-IV,"H,C,N",replicated 2x in C direction
 18040N3,SI,3D-OH-COF,"H,C,N,O",none
 18041N3,SI,3D-COOH-COF,"H,C,N,O",fixed disorder
-18050N2,SI,"[OH],0%-TD-COF","H,C,N,O",replicated 2x in C direction
 18060N2,SI,Tf-DHzDPr,"H,C,N,O",replicated 2x in C direction
 18061N2,SI,Tf-DHzDAll,"H,C,N,O",replicated 2x in C direction
 18070N2,SI,COF-HQ,"H,C,N,O",replicated 2x in C direction
@@ -377,8 +370,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 19290N2,SI,COF-346,"H,C,N",replicated 2x in C direction
 19291N2,SI,COF-360,"H,C,N",replicated 2x in C direction
 19292N2,SI,COF-340,"H,C,N,O","aligned to xy plane, replicated 2x in C direction"
-19300N2,SI,V-COF-1,"H,C,N",replicated 2x in C direction
-19301N2,SI,V-COF-2,"H,C,N",replicated 2x in C direction
 19310N2,SI,COF-808,"H,C,N","added H atoms, replicated 2x in C direction"
 19311N2,SI,COF-909,"H,C,N","added H atoms, replicated 2x in C direction"
 19320C2,SI,COF-NHC,"H,C,N","excluded overlapping PF6- ions, replicated 2x in C direction"
