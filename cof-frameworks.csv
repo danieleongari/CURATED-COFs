@@ -607,7 +607,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 21080N2,SI,"PIA-AA","C,H,N,O","replicated 2x in C direction"
 21081N2,SI,"PIB-AA","C,H,N,O","replicated 2x in C direction"
 21082N2,SI,"PIC-AA","C,H,N,O","replicated 2x in C direction"
-21083N2,SI,"PID-AA","C,H,N,O","replicated 2x in C direction"
 21090N3,SI,"FCOF-5","C,H,N,O","none"
 21091N3,SI,"FCOF-5-THF","C,H,N,O","none"
 21100N2,SI,"NKCOF-108","C,H,F,N,S","replicated 2x in C direction"

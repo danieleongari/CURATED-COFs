@@ -75,6 +75,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 20330N2,SI,"TAPB-PDA","C,H,N","replicated 2x in C direction",duplicate of 19360N2
 20641N2,SI,"COF-C3-CHO","C,H,N","replicated 2x in C direction",duplicate of 15163N2
 21001N2,SI,"BrCOF-2 AA","C,H,Br,N","replicated 2x in C direction, add missing H on Br-benzene",duplicate of 20130N2
+21083N2,SI,"PID-AA","C,H,N,O","replicated 2x in C direction",duplicate of 20600N2
 21102N2,SI,"NKCOF-110","C,H,N,S","replicated 2x in C direction",duplicate of 16173N2
 21182N2,SI,"AZO-3","C,H,N,O","replicated 2x in C direction",duplicate of 14090N2
 21210N2,SI,"TPDA-PDA","C,H,N","replicated 2x in C direction",duplicate of 20630N2
