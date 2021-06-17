@@ -398,7 +398,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 19420N3,SI,PCOF-1,"C,H,N",none
 19421N3,SI,PCOF-2,"C,H,N",none
 19430N2,SI,TFPPy-PDA-COF,"C,H,N",replicated 2x in C direction
-19431N2,SI,TFPPy-PyTTA-COF,"C,H,N",replicated 2x in C direction
 19440N2,SI (CIF),CuPc-pz,"C,H,Cu,N",none
 19441N2,SI (CIF),ZnPc-pz,"C,H,N,Zn",none
 19450N2,SI,MH-CCOF1,"C,H,N,O",replicated 2x in C direction
@@ -438,7 +437,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 19573N2,Priv. Comm.,Banerjee's PY-COF,"C,H,N",replicated 2x in C direction
 20000N2,SI,TPI-COF,"C,H,N,S",add H atom
 20010N2,SI,COF-616,"C,H,N,O","replicated 2x in C direction, add missing atom C4"
-20020N2,SI,DAAQ-TFP,"C,H,N,O",replicated 2x in C direction
 20021N2,SI,DAPH-TFP,"C,H,N,O",replicated 2x in C direction
 20030N2,SI,COF-OEt,"C,H,B,N,O",replicated 2x in C direction
 20031N2,SI,COF-OAl,"C,H,B,N,O",replicated 2x in C direction
@@ -483,14 +481,12 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 20182N2,SI,OH-TFP-TTA,"C,H,N,O",replicated 2x in C direction
 20190N2,SI,JUC-527,"C,H,N,S",replicated 2x in C direction
 20191N2,SI,JUC-528,"C,H,N,S",replicated 2x in C direction
-20200N2,SI,ETTF-DABP-COF,"C,H,N",replicated 2x in C direction
 20201N2,SI,sp2c-COF,"C,H,N",replicated 2x in C direction
 20202N2,SI,sp2c-COF-4,"C,H,N",replicated 2x in C direction
 20203N2,SI,sp2c-COF-5,"C,H,N",replicated 2x in C direction
 20210N2,SI,TJNU-201,"C,H,N",replicated 2x in C direction
 20211N2,SI,TJNU-202,"C,H,N","replicated 2x in C direction, corrected CH3 and CH"
 20220N2,SI,C4-SHz,"C,H,N,S",none
-20230N2,SI,BCzP-COF,"C,H,N",replicated 2x in C direction
 20240C2,SI,CoPc-PDQ-COF,"C,H,N,Ni",none
 20250N2,SI,COF-TVBT-PA AA,"C,H,N",replicated 2x in C direction
 20260N3,SI,JUC-530,"C,H,N",none
@@ -507,7 +503,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 20311N2,SI,"P-COF-2","C,H,N,P",replicated 2x in C direction
 20320N2,SI,"TzBA","C,H,N","replicated 2x in C direction"
 20321N2,SI,"JNU-1","C,H,N,O","replicated 2x in C direction"
-20330N2,SI,"TAPB-PDA","C,H,N","replicated 2x in C direction"
 20331N2,SI,"TAPB-TFPA","C,H,N","replicated 2x in C direction"
 20340N2,SI,"NDA-TN","C,H,N","aligned to xy plane, replicated 2x in C direction"
 20341N2,SI,"BDA-TN","C,H,N","replicated 2x in C direction"
@@ -576,7 +571,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 20630N2,SI,"WTA","C,H,N","replicated 2x in C direction"
 20631N2,SI,"WBDT","C,H,N,S","replicated 2x in C direction"
 20640N2,SI,"COF-C2v-CHO","C,H,N","replicated 2x in C direction"
-20641N2,SI,"COF-C3-CHO","C,H,N","replicated 2x in C direction"
 20650N2,SI,"LZU-561","C,H,F,N","replicated 2x in C direction"
 20651N3,SI,"LZU-562","C,H,F,N,O","none"
 20652N2,SI,"LZU-563","C,H,Cl,F,N","replicated 2x in C direction"
@@ -586,7 +580,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 20671N2,SI,"BFTB-BFTB COF","C,H,N","replicated 2x in C direction"
 20672N2,SI,"BFTB-BCTA COF","C,H,N","replicated 2x in C direction"
 21000N2,SI,"BrCOF-1 AA","C,H,Br,N","replicated 2x in C direction"
-21001N2,SI,"BrCOF-2 AA","C,H,Br,N","replicated 2x in C direction, add missing H on Br-benzene"
 21010N2,SI,"BD-COF","C,H,N,O","replicated 2x in C direction"
 21011N2,SI,"DBD-COF","C,H,N,O","replicated 2x in C direction"
 21012N2,SI,"Ox-BD-COF","C,H,N,O","replicated 2x in C direction"
