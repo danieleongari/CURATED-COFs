@@ -98,7 +98,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 14080N2,"tong-v2, 018",AzO-COF,"H,B,C,N,O",replicated 2x in C direction
 14090N2,"tong-v2, 232",Tp-Azo,"H,C,N,O",replicated 2x in C direction
 14091N2,"tong-v2, 239",Tp-Stb,"H,C,N,O","aligned to xy plane, replicated 2x in C direction"
-14100N2,"tong-v2, 059",COFBTA-PDA,"H,C,N",replicated 2x in C direction
 15000N2,"tong-v2, 030",C2N-h2D,"C,N",replicated 2x in C direction
 15010N2,"tong-v2, 195",Py-An COF,"H,C,N","aligned to xy plane, replicated 2x in C direction"
 15020N2,"tong-v2, 068",CPF-1,"H,C,N,O","aligned to xy plane, replicated 2x in C direction"
@@ -120,7 +119,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 15101N2,"tong-v2, 250",TpBDH,"H,C,N,O","some O atoms replaced with H, replicated 2x in C direction"
 15110N2,"tong-v2, 015",AEM-COF-1,"H,B,C,O",replicated 2x in C direction
 15111N2,"tong-v2, 016",AEM-COF-2,"H,B,C,O",replicated 2x in C direction
-15130N2,"tong-v2, 085",DBA-COF 1,"H,B,C,O",replicated 2x in C direction
 15131N2,"tong-v2, 086",DBA-COF 2,"H,B,C,O",replicated 2x in C direction
 15140N2,"tong-v2, 092",DhaTab,"H,C,N",replicated 2x in C direction
 15150N2,"tong-v2, 124",HCC-H2P-COF,"H,C,N,O",replicated 2x in C direction
@@ -151,8 +149,8 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 16000N2,"tong-v2, 198",Py-DBA-COF-1,"H,B,C,O",replicated 2x in C direction
 16001N2,"tong-v2, 199",Py-DBA-COF-2,"H,B,C,O",replicated 2x in C direction
 16002N2,"tong-v2, 201",Py-MV-DBA-COF,"H,B,C,O",replicated 2x in C direction
-16010N2,"tong-v2, 019",BBO-COF-1,"H,B,C,O",replicated 2x in C direction
-16011N2,"tong-v2, 020",BBO-COF-2,"H,B,C,O",replicated 2x in C direction
+16010N2,"tong-v2, 019",BBO-COF-1,"H,B,C,O,N","replicated 2x in C direction,replaced O with N"
+16011N2,"tong-v2, 020",BBO-COF-2,"H,B,C,O,N","replicated 2x in C direction,replaced O with N"
 16020N2,"tong-v2, 062",COF-JLU4,"H,C,N,O","replicated 2x in C direction, add H on N"
 16030N2,"tong-v2, 138",LZU-70,"H,C,N",replicated 2x in C direction
 16031N2,"tong-v2, 139",LZU-72,"H,C,N",replicated 2x in C direction
