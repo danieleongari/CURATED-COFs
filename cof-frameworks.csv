@@ -660,7 +660,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 21280N3,SI,"TFPB-DHTH","C,H,N,O","none"
 21290N2,SI,"JUC‐560 sql","C,H,N,S","replicated 2x in C direction"
 21291N3,SI,"JUC‐561 ffc","C,H,N,S","none"
-21300N3,SI,"Ti-COF-1","C,H,N,O,Ti","none"
+21300C3,SI,"Ti-COF-1","C,H,N,O,Ti","none"
 21310N2,SI,"TAPFY-COF","C,H,N","replicated 2x in C direction"
 21311N3,SI,"TAPFY-COF-P","C,H,N","none"
 21312N2,SI,"TAPB-COF","C,H,N","replicated 2x in C direction"
