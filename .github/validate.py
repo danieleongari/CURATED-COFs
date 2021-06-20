@@ -9,8 +9,8 @@ import warnings
 from pathlib import Path
 
 from ase import io, geometry
-# from pymatgen.io.cif import CifParser
-# from mofchecker import MOFChecker
+from pymatgen.io.cif import CifParser
+from mofchecker import MOFChecker
 
 SCRIPT_PATH = Path(__file__).resolve().parent
 ROOT_DIR = SCRIPT_PATH.parent
@@ -73,8 +73,8 @@ def consistent_paper_ids():
 
 @cli.command('unique-cof-ids')
 def validate_unique_cof_ids():
-    """Check that CURATED-COF IDs are unique."""
-    ids = FRAMEWORKS_DF['CURATED-COFs ID'].str.lower()
+    """Check that CURATED-COF IDs are unique, including discarded structures."""
+    ids = list(FRAMEWORKS_DF['CURATED-COFs ID'].str.lower()) + list(FRAMEWORKS_DISCARDED_DF['CURATED-COFs ID'].str.lower())
 
     duplicates = [item for item, count in collections.Counter(list(ids)).items() if count > 1]
 
@@ -168,6 +168,25 @@ def overlapping_atoms(cifs):
 
     print('No overlapping atoms found.')
 
+
+UNIQUE_EXCEPTIONS = [ # Exceptions manually found, to fix later
+    {'13073N2','13070N2'}, #different orientation of functional group
+    {'16242C2','16241C2'}, #different cation
+    {'16251N3','16250N3'}, #interpenetration
+    {'16332N3','15200N3'}, #interpenetration
+    {'16411C2','16410C2'}, #different cation
+    {'16412C2','16410C2'}, #different cation
+    {'16413C2','16410C2'}, #different cation
+    {'20211N2','18141N2'}, #FALSE POS: similar but different C-N position
+    {'20491N2','20490N2'}, #enantiomers
+    {'20501N3','20500N3'}, #different pore opening
+    {'21032N2','21030N2'}, #polimorphism study
+    {'21034N2','21033N2'}, #polimorphism study
+    {'21035N2','21031N2'}, #polimorphism study
+    {'21091N3','21090N3'}, #different pore opening
+    {'21242C2','21241C2'}, #different cation
+]
+
 @cli.command('unique-structures')
 @click.argument('cifs', type=str, nargs=-1)
 def unique_structures(cifs):
@@ -175,10 +194,15 @@ def unique_structures(cifs):
 
     Uses the mofchecker to compare the atom graph of all structures, making sure that they are unique.
     """
+    discarded_ids = list(FRAMEWORKS_DISCARDED_DF['CURATED-COFs ID'].values)
     hashes = {}
     errors = []
     
     for cif in cifs:
+
+        id = cif.split('/')[-1].split('.')[0]
+        if id in discarded_ids:
+            continue # skip COFs already discarded
 
         with warnings.catch_warnings():
             warnings.simplefilter('ignore')
@@ -196,9 +220,12 @@ def unique_structures(cifs):
         graph_hash = mofchecker.graph_hash
 
         if graph_hash in hashes:
-            errors.append(f'Warning: {cif} and {hashes[graph_hash]} have the same structure graph hash')
+            if not {id,hashes[graph_hash]} in UNIQUE_EXCEPTIONS:
+                errors.append(f'Warning: {id} and {hashes[graph_hash]} have the same structure graph hash')
+            else:
+                pass # withous adding the same graph_hash
         else:
-            hashes[graph_hash] = cif
+            hashes[graph_hash] = id
 
     if errors:
        print('\n'.join(errors))
