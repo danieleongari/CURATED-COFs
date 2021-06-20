@@ -73,8 +73,8 @@ def consistent_paper_ids():
 
 @cli.command('unique-cof-ids')
 def validate_unique_cof_ids():
-    """Check that CURATED-COF IDs are unique."""
-    ids = FRAMEWORKS_DF['CURATED-COFs ID'].str.lower()
+    """Check that CURATED-COF IDs are unique, including discarded structures."""
+    ids = list(FRAMEWORKS_DF['CURATED-COFs ID'].str.lower()) + list(FRAMEWORKS_DISCARDED_DF['CURATED-COFs ID'].str.lower())
 
     duplicates = [item for item, count in collections.Counter(list(ids)).items() if count > 1]
 
