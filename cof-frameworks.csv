@@ -647,3 +647,4 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 21314N2,SI,"TAPP-COF","C,H,N","aligned to xy plane, replicated 2x in C direction"
 21315N3,SI,"TAPP-COF-P","C,H,N","aligned to xy plane"
 21320N2,SI,"VCOF-PyrBpy","C,H,N","replicated 2x in C direction"
+21330N2,SI,"TAPT-DHTA","C,H,N,O","replicated 2x in C direction"
