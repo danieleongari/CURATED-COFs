@@ -79,3 +79,4 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 21102N2,SI,"NKCOF-110","C,H,N,S","replicated 2x in C direction",duplicate of 16173N2
 21182N2,SI,"AZO-3","C,H,N,O","replicated 2x in C direction",duplicate of 14090N2
 21210N2,SI,"TPDA-PDA","C,H,N","replicated 2x in C direction",duplicate of 20630N2
+21370N2,SI,"TpFH","C,H,N,O","replicated 2x in C direction",duplicate of 15050N2
