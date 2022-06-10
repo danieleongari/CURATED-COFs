@@ -647,7 +647,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 21314N2,SI,"TAPP-COF","C,H,N","aligned to xy plane, replicated 2x in C direction"
 21315N3,SI,"TAPP-COF-P","C,H,N","aligned to xy plane"
 21320N2,SI,"VCOF-PyrBpy","C,H,N","replicated 2x in C direction"
-21330N2,SI,"TAPT-DHTA","C,H,N,O","replicated 2x in C direction"
 21331N2,SI,"TAPT-DHNDA","C,H,N,O","replicated 2x in C direction"
 21340N2,SI,"COF3","C,N","replicated 2x in C direction"
 21350N2,SI,"Mcm-ZnPc-1","C,H,N,Zn","replicated 2x in C direction"
