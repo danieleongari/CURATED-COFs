@@ -81,3 +81,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 21210N2,SI,"TPDA-PDA","C,H,N","replicated 2x in C direction",duplicate of 20630N2
 21370N2,SI,"TpFH","C,H,N,O","replicated 2x in C direction",duplicate of 15050N2
 21481N2,SI,"Wu-COF-F6","C,H,F,N,O","replicated 2x in C direction", duplicate of 20460N2 by same author
+21630N2,SI,"TpBD-COF","C,H,N,O","replicated 2x in C direction", duplicate of 13150N2
+21631N2,SI,"TpAzo-COF","C,H,N,O","replicated 2x in C direction", duplicate of 14090N2
+21632N2,SI,"TpAnq-COF","C,H,N,O","replicated 2x in C direction", duplicate of 13050N2
+21633N2,SI,"TpTab-COF","C,H,N,O","replicated 2x in C direction", duplicate of 15162N2
