@@ -1,17 +1,29 @@
-using Logging, Xtals
+using CSV, DataFrames, Logging, Xtals
 
 rc[:paths][:crystals] = "cifs"
 
 xtal_names = readlines("./bond_anomalies.txt")
+discarded_names = String.(CSV.read("cof-discarded.csv", DataFrame)[:, "CURATED-COFs ID"])
 
-bogus_C = xtal_names[[59]]
-bogus_H = xtal_names[[2, 4, 11, 36, 48, 50, 51, 56, 57, 60, 63, 64]]
-close_contacts = xtal_names[[1, 7, 16, 20, 23, 30, 32, 33, 37, 38, 39, 40, 41, 42, 44, 45, 46, 47]]
-long_bonds = xtal_names[[3, 5, 19, 21, 25, 26, 27, 28, 29, 31, 34, 35, 43, 49, 52, 58, 61]]
+if isdir("reports")
+    rm("reports", recursive=true, force=true)
+end
 
 
-function run_report(names::Vector{String}, label::String)
-    dir = joinpath(pwd(), "reports", label)
+function left_join(left::Vector{String}, right::Vector{String})::Vector{String}
+    in_both = [l ∈ right for l in left]
+    return left[.! in_both]
+end
+
+
+# only structures that cannot be fixed by optimization (based on manual inspection of COFs found by xtals_test1.jl)
+problematic = left_join(xtal_names[[4, 36, 48, 50, 56, 59, 60]], discarded_names)
+fixed = ["16056N2.cif", "20340N2.cif", "20670N3.cif", "21021N2.cif", "21192N2.cif", "21392N2.cif"]
+problematic = left_join(problematic, fixed)
+
+
+function run_report(names::Vector{String})
+    dir = joinpath(pwd(), "reports")
     if !isdirpath(dir)
         mkpath(dir)
     end
@@ -23,7 +35,4 @@ function run_report(names::Vector{String}, label::String)
 end
 
 
-run_report(long_bonds, "long_bonds")
-run_report(close_contacts, "close_contacts")
-run_report(bogus_C, "bogus_C")
-run_report(bogus_H, "bogus_H")
+run_report(problematic)
