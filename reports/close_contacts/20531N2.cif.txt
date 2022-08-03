@@ -1,2 +1,0 @@
-┌ Warning: hydrogen atom 170 in 20531N2.cif is bonded to more than one atom!
-└ @ Xtals /home/adrian/.julia/packages/Xtals/VzwKl/src/bonds.jl:325

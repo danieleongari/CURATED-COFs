@@ -1,2 +1,0 @@
-┌ Warning: atom 141 = H in 21360N2.cif is not bonded to any other atom.
-└ @ Xtals /home/adrian/.julia/packages/Xtals/VzwKl/src/bonds.jl:320

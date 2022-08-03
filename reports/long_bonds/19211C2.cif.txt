@@ -1,2 +1,0 @@
-┌ Warning: atom 46 = H in 19211C2.cif is not bonded to any other atom.
-└ @ Xtals /home/adrian/.julia/packages/Xtals/VzwKl/src/bonds.jl:320

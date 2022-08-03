@@ -1,2 +1,0 @@
-┌ Warning: atom 624 = H in 19420N3.cif is not bonded to any other atom.
-└ @ Xtals /home/adrian/.julia/packages/Xtals/VzwKl/src/bonds.jl:320

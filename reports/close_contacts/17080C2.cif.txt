@@ -1,2 +1,0 @@
-┌ Warning: carbon atom 92 in 17080C2.cif is bonded to more than four atoms!
-└ @ Xtals /home/adrian/.julia/packages/Xtals/VzwKl/src/bonds.jl:330

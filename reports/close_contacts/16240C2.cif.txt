@@ -1,2 +1,0 @@
-┌ Warning: atom 29 = Br in 16240C2.cif is not bonded to any other atom.
-└ @ Xtals /home/adrian/.julia/packages/Xtals/VzwKl/src/bonds.jl:320
