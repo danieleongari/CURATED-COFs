@@ -1,0 +1,2 @@
+┌ Warning: carbon atom 52 in 19170N2.cif is bonded to more than four atoms!
+└ @ Xtals /home/adrian/.julia/packages/Xtals/VzwKl/src/bonds.jl:330

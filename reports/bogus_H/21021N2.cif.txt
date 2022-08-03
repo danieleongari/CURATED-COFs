@@ -1,0 +1,2 @@
+┌ Warning: carbon atom 7 in 21021N2.cif is bonded to more than four atoms!
+└ @ Xtals /home/adrian/.julia/packages/Xtals/VzwKl/src/bonds.jl:330

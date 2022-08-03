@@ -1,0 +1,2 @@
+┌ Warning: atom 130 = H in 21012N2.cif is not bonded to any other atom.
+└ @ Xtals /home/adrian/.julia/packages/Xtals/VzwKl/src/bonds.jl:320
