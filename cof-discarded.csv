@@ -86,3 +86,4 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 21632N2,SI,"TpAnq-COF","C,H,N,O","replicated 2x in C direction", duplicate of 13050N2
 21633N2,SI,"TpTab-COF","C,H,N,O","replicated 2x in C direction", duplicate of 15162N2
 21330N2,SI,"TAPT-DHTA","C,H,N,O","replicated 2x in C direction", duplicate of 17070N2
+21371N2,SI,"TFBFH","C,H,N","replicated 2x in C direction", wrong N-N atomic distancess
