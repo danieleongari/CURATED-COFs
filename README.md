@@ -4,7 +4,8 @@
 Clean, Uniform and Refined with Automatic Tracking from Experimental Database (CURATED) COFs *from literature*.
 
 This repository contains original structures from literature search, with git-tracked corrections. \
-DFT-optimized frameworks with DDEC charges are available on [Materials Cloud](https://www.materialscloud.org/discover/curated-cofs). \
+DFT-optimized frameworks with DDEC charges are available on [Materials Cloud](https://www.materialscloud.org/discover/curated-cofs).
+
 > NOTE: the crystal structures in this database may contain unnatural bond length and geometry, consistent with the CIF file reported in the original reference papers.
 The DFT optimization should take care of these problems and correct for them (see optimized structures on Materials Cloud).
 The CIF files in the present database are modified manually or programmatically only when the DFT optimization does not solve the problem and a trivial manual fix can be applied: in this case the `Modifications` are reported in `cof-frameworks.csv`. Don't hesitate [to report](https://forms.gle/gQpjcSEHjoJpqira8) any structure that is still problematic **after** the DFT optimization.
