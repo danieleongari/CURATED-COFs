@@ -4,9 +4,13 @@
 Clean, Uniform and Refined with Automatic Tracking from Experimental Database (CURATED) COFs *from literature*.
 
 This repository contains original structures from literature search, with git-tracked corrections. \
-DFT-optimized frameworks with DDEC charges are available on [Materials Cloud](https://www.materialscloud.org/discover/curated-cofs).
+DFT-optimized frameworks with DDEC charges are available on [Materials Cloud](https://www.materialscloud.org/discover/curated-cofs). \
+> NOTE: the crystal structures in this database may contain unnatural bond length and geometry, consistent with the CIF file reported in the original reference papers.
+The DFT optimization should take care of these problems and correct for them (see optimized structures on Materials Cloud).
+The CIF files in the present database are modified manually or programmatically only when the DFT optimization does not solve the problem and a trivial manual fix can be applied: in this case the `Modifications` are reported in `cof-frameworks.csv`. Don't hesitate [to report](https://forms.gle/gQpjcSEHjoJpqira8) any structure that is still problematic **after** the DFT optimization.
 
-* `cof-frameworks.csv` contains the list of COFs
+Files' structure:
+* `cof-frameworks.csv` contains the list of COFs and the manual modifications
 * `cof-discarded.csv` contains a list of COFs that have been discarded because of duplicate detection, unobserved AA/AB stacking variant, unobserved n-fold interpenetration, or other reasons reported in the document
 * `cof-papers.csv` contains a list of the reference papers for the COFs in the database: for example, `p0701` is the reference of COFs `07010N3`, `07011N3`, `07012N3`, and `07013N3`
 * `cifs/` contains all the crystallographic information files (CIFs) for the COFs listed in `cof-frameworks.csv` and `cof-discarded.csv`
