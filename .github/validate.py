@@ -71,6 +71,23 @@ def consistent_paper_ids():
        print('\n'.join(messages))
        sys.exit(1)
 
+@cli.command('sorted-ids')
+def consistent_paper_ids():
+    """Check that CSV files have sorted indexes."""
+    
+    csvs = {
+        'cof-frameworks.csv': FRAMEWORKS_DF,
+        'cof-discarded.csv': FRAMEWORKS_DISCARDED_DF,
+        'cof-papers.csv': PAPERS_DF,
+    }
+    for k, v in csvs.items():
+        if not v.iloc[:,0].is_monotonic_increasing:
+            print(f'Error: {k} has unsorted index.')
+            print('Fix it with `pd.read_csv(csv_path).sort_values(by=pd.read_csv(csv_path).columns[0]).to_csv(csv_path, index=False)`')
+            sys.exit(1)
+    
+    print('All indexes of the three CSV files are well sorted.')
+    
 @cli.command('unique-cof-ids')
 def validate_unique_cof_ids():
     """Check that CURATED-COF IDs are unique, including discarded structures."""

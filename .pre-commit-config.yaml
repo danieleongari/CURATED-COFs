@@ -36,7 +36,7 @@ repos:
     files: >-
         (?x)^(
             cof-frameworks.csv|
-            cifs/*.cif
+            cifs/.*.cif
         )$
   - id: csv-unique-names
     name: Check that CURATED-COF names are unique
@@ -58,6 +58,17 @@ repos:
             cof-discarded.csv|
             cof-papers.csv
         )$
+  - id: csv-sorted-ids
+    name: Check that CSV files have sorted indexes
+    entry: python ./.github/validate.py sorted-ids
+    language: system
+    pass_filenames: false
+    files: >-
+        (?x)^(
+            cof-frameworks.csv|
+            cof-discarded.csv|
+            cof-papers.csv
+        )$  
   - id: overlapping-atoms
     name: Check that there are no overlapping atoms.
     entry: python ./.github/validate.py overlapping-atoms

@@ -313,6 +313,8 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 18150N2,SI,CAA-COF-1,"C,H,Cl,N,O","replicated 2x in C direction, added H"
 18151N2,SI,CAA-COF-2,"C,H,Cl,N,O","replicated 2x in C direction, added H"
 18161N2,Priv. Comm.,TTT-COF,"C,H,N,S",none
+18170N2,SI,SA-MOF,"C,H,N,O,S",replicated 2x in C direction
+18171N2,SI,FSA-MOF,"C,H,N,O,S",replicated 2x in C direction
 19000N3,SI,JUC-518,"H,C,S,N",Added some missing H
 19003N3,SI,JUC-519 2-fold,"H,C,S,N",none
 19010N2,SI,TPE-TAP-COF,"H,C,N","fixed too long C-H bond, replicated 2x in C direction"
@@ -404,7 +406,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 19451N2,SI,MH-CCOF3,"C,H,N,O",replicated 2x in C direction
 19452N2,SI,MH-CCOF4,"C,H,N,O",replicated 2x in C direction
 19453N2,SI,TAH-CCOF1,"C,H,N",replicated 2x in C direction
-19454N2,SI,"SAH-CCOF1-Boc","C,H,N,O","replicated 2x in C direction"
+19454N2,SI,SAH-CCOF1-Boc,"C,H,N,O",replicated 2x in C direction
 19455N2,SI,G-CCOF1,"C,H,N",replicated 2x in C direction
 19456N2,SI,TAH-COF2,"C,H,N",replicated 2x in C direction
 19460N2,SI,JUC-520 AA,"C,H,N,O",replicated 2x in C direction
@@ -499,410 +501,408 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 20282N2,SI,BCTA-TP-COF,"C,H,N","replicated 2x in C direction, fixed cell dim A and B, fixed H position"
 20290N2,SI,Car-ETTA,"C,H,N",replicated 2x in C direction
 20300N2,SI,EB-COF-1,"C,H,N,O","replicated 2x in C direction, add H on CN"
-20310N2,SI,"P-COF-1","C,H,N,P",replicated 2x in C direction
-20311N2,SI,"P-COF-2","C,H,N,P",replicated 2x in C direction
-20320N2,SI,"TzBA","C,H,N","replicated 2x in C direction"
-20321N2,SI,"JNU-1","C,H,N,O","replicated 2x in C direction"
-20331N2,SI,"TAPB-TFPA","C,H,N","replicated 2x in C direction"
-20340N2,SI,"NDA-TN","C,H,N","aligned to xy plane, replicated 2x in C direction"
-20341N2,SI,"BDA-TN","C,H,N","replicated 2x in C direction"
-20350N2,SI,"TAPP-TFPP-COF","C,H,N,Zn","replicated 2x in C direction"
-20360N2,SI,"COF-p-3Ph","C,H,N","replicated 2x in C direction"
-20361N2,SI,"COF-p-2Ph","C,H,N","replicated 2x in C direction"
-20362N2,SI,"COF-m-3Ph","C,H,N","replicated 2x in C direction"
-20370N3,SI,"LZU-306","C,H,N","none"
-20380N2,SI,"TD-COF","C,H,N,O,S","replicated 2x in C direction"
-20390N2,SI,"Py-ClTP-BT-COF","C,H,Cl,N,S","replicated 2x in C direction"
-20391N2,SI,"Py-FTP-BT-COF","C,H,F,N,S","replicated 2x in C direction"
-20392N2,SI,"Py-HTP-BT-COF","C,H,N,S","replicated 2x in C direction"
-20400N2,SI,"TAPT-BTCA-quasi-AB","C,H,N","none"
-20401N2,SI,"TAPB-TA-quasi-AB","C,H,N","none"
-20402N2,SI,"TAPB-OMeTA-quasi-AB","C,H,N,O","none"
-20403N2,SI,"Py-1P-quasi-AB","C,H,N","none"
-20410N2,SI,"TPE-COF-OH","C,H,N,O","replicated 2x in C direction, added H"
-20411N2,SI,"TPE-COF-OMe_corr","C,H,N,O","replicated 2x in C direction, added H"
-20420N2,SI,"GS-COF-1","C,H,N,O","replicated 2x in C direction"
-20421N2,SI,"GS-COF-2","C,H,N,O","replicated 2x in C direction"
-20430N3,SI,"JUC-564","C,H,N","none"
-20440N3,SI,"COF-QA-2","C,H,Cl,N,O","replicated 2x in C direction"
-20441N3,SI,"COF-QA-4","C,H,Cl,N,O","replicated 2x in C direction"
-20442N3,SI,"COF-QA-6","C,H,Cl,N,O","replicated 2x in C direction"
-20443N3,SI,"COF-QA-EO","C,H,Cl,N,O","replicated 2x in C direction"
-20450N2,SI,"COF-ETTA-ETTCA","C,H,N","replicated 2x in C direction"
-20460N2,SI,"COF-F6","C,H,F,N,O","replicated 2x in C direction"
-20470N2,SI,"COF-119","C,H,O","replicated 2x in C direction"
-20471N2,SI,"COF-120","C,H,O","replicated 2x in C direction"
-20472N2,SI,"COF-121","C,H,O","replicated 2x in C direction"
-20473N2,SI,"COF-122","C,H,O","replicated 2x in C direction"
-20480N3,SI,"COF-1-tbo","C,H,N","none"
-20481N3,SI,"COF-2-tbo","C,H,Cu,N","none"
-20490N2,SI,"(S)-DTP-COF","C,H,N,O","replicated 2x in C direction"
-20491N2,SI,"(R)-DTP-COF","C,H,N,O","replicated 2x in C direction"
-20500N3,SI,"3D-CageCOF-1-lp","C,H,N,O","none"
-20501N3,SI,"3D-CageCOF-1-sp","C,H,N,O","none"
-20510N2,SI,"100%-ETTA-BPyDC","C,H,N","replicated 2x in C direction"
-20520N3,SI,"2D-PPQV1","C,H,N","none"
-20521N3,SI,"2D-PPQV2","C,H,N","none"
-20530N2,SI,"PI-COF-1","C,H,N,O","none"
-20531N2,SI,"PI-COF-2","C,H,N,O","none"
-20540N2,SI,"QTD-COF-1","C,H,N,O,P","replicated 2x in C direction"
-20541N2,SI,"QTD-COF-2","C,H,N,O,P","replicated 2x in C direction, add H"
-20542N2,SI,"QTD-COF-3","C,H,N,O,P","replicated 2x in C direction, add H"
-20543N2,SI,"QTD-COF-4","C,H,N,O,P","replicated 2x in C direction, add H"
-20544N2,SI,"QTD-COF-V","C,H,N,O,P","replicated 2x in C direction, add H"
-20550N2,SI,"TTF-COF1","C,H,N,O,S","replicated 2x in C direction"
-20551N2,SI,"TTF-COF2","C,H,N,S","replicated 2x in C direction"
-20560N3,SI,"BP-COF-1","C,H,B,O,P","none"
-20561N3,SI,"BP-COF-2","C,H,B,F,O,P","none"
-20562N3,SI,"BP-COF-3","C,H,B,O,P","none"
-20563N3,SI,"BP-COF-4","C,H,B,O,P","none"
-20564N3,SI,"BP-COF-5","C,H,B,O,P","none"
-20565N3,SI,"BP-COF-6","C,H,B,O,P","aligned to xy plane, replicated 2x in B and C directions"
-20570N3,SI,"3D-COF-1 5-fold","C,H,N","none"
-20571N3,SI,"3D-COF-10 7-fold","C,H,N","none"
-20580N3,SI,"PD-COF-23","C,H,N,O","replicated 2x in C direction"
-20581N2,SI,"PD-COF-23-Ni","C,H,N,Ni,O","replicated 2x in C direction"
-20590N2,SI,"BT-TAPT-COF","C,H,N,S","replicated 2x in C direction"
-20600N2,SI,"PI-NT COF AA","C,H,N,O","replicated 2x in C direction"
-20610N2,SI,"COF-N","C,H,N","replicated 2x in C direction"
-20611N2,SI,"COF-NN_corr","C,H,N","replicated 2x in C direction, added some H missing"
-20620N2,SI,"TFP-DB-COF AA","C,H,N,O","replicated 2x in C direction"
-20621N2,SI,"TFP-DP-COF AB","C,H,N,O","none"
-20630N2,SI,"WTA","C,H,N","replicated 2x in C direction"
-20631N2,SI,"WBDT","C,H,N,S","replicated 2x in C direction"
-20640N2,SI,"COF-C2v-CHO","C,H,N","replicated 2x in C direction"
-20650N2,SI,"LZU-561","C,H,F,N","replicated 2x in C direction"
-20651N3,SI,"LZU-562","C,H,F,N,O","none"
-20652N2,SI,"LZU-563","C,H,Cl,F,N","replicated 2x in C direction"
-20653N2,SI,"LZU-564","C,H,Br,F,N","replicated 2x in C direction"
-20660N2,SI,"COF-NUST-1","C,H,B,O","none"
-20670N3,SI,"BFTB-PyTA COF","C,H,N","none"
-20671N2,SI,"BFTB-BFTB COF","C,H,N","replicated 2x in C direction"
-20672N2,SI,"BFTB-BCTA COF","C,H,N","replicated 2x in C direction"
-21000N2,SI,"BrCOF-1 AA","C,H,Br,N","replicated 2x in C direction"
-21010N2,SI,"BD-COF","C,H,N,O","replicated 2x in C direction"
-21011N2,SI,"DBD-COF","C,H,N,O","replicated 2x in C direction"
-21012N2,SI,"Ox-BD-COF","C,H,N,O","replicated 2x in C direction"
-21013N2,SI,"Ox-DBD-COF","C,H,N,O","replicated 2x in C direction"
-21014N2,SI,"MB-COF","C,H,N,O","replicated 2x in C direction"
-21020N2,SI,"NKCOF-7","C,H,N","none"
-21021N2,SI,"NKCOF-6","C,H,N","none"
-21030N2,SI,"p-TetPB-COF-K AA","C,H,N","replicated 2x in C direction"
-21031N2,SI,"p-TetPB-COF-M AA","C,H,N","replicated 2x in C direction"
-21032N2,SI,"m-TetPB-COF-K AA","C,H,N","replicated 2x in C direction"
-21033N2,SI,"m-TetPB-COF-M AA","C,H,N","replicated 2x in C direction"
-21034N2,SI,"o-TetPB-COF AA","C,H,N","replicated 2x in C direction"
-21035N2,SI,"TetPB-TetPB-COF AA","C,H,N","replicated 2x in C direction"
-21040N3,SI,"CCOF-15","C,H,Cl,N,O","none"
-21041N3,SI,"CCOF-16","C,H,Cl,N,O","none"
-21050N2,SI,"CCOF-17","C,H,N,O","replicated 2x in C direction"
-21051N2,SI,"CCOF-18","C,H,N,O","replicated 2x in C direction"
-21052N2,SI,"CCOF-17-R","C,H,N,O","replicated 2x in C direction"
-21053N2,SI,"CCOF-18-R","C,H,N,O","replicated 2x in C direction"
-21060N2,SI,"COF-IM AA","C,H,N,O","replicated 2x in C direction"
-21070N2,SI,"Tp-DBD AA","C,H,N,O","aligned to xy plane, replicated 2x in C direction"
-21071N2,SI,"Bd-DBD AA","C,H,N,O","aligned to xy plane, replicated 2x in C direction"
-21072N2,SI,"Hb-DBD AA","C,H,N,O","aligned to xy plane, replicated 2x in C direction"
-21073N2,SI,"Tb-DBD AA","C,H,N,O","replicated 2x in C direction"
-21080N2,SI,"PIA-AA","C,H,N,O","replicated 2x in C direction"
-21081N2,SI,"PIB-AA","C,H,N,O","replicated 2x in C direction"
-21082N2,SI,"PIC-AA","C,H,N,O","replicated 2x in C direction"
-21090N3,SI,"FCOF-5","C,H,N,O","none"
-21091N3,SI,"FCOF-5-THF","C,H,N,O","none"
-21100N2,SI,"NKCOF-108","C,H,F,N,S","replicated 2x in C direction"
-21101N2,SI,"NKCOF-109","C,H,F,N,S","replicated 2x in C direction"
-21110N3,SI,"JUC-568 ceq","C,H,N","swap B and C dimensions"
-21111N3,SI,"JUC-569 2-fold acs","C,H,N","none"
-21120N2,SI,"COF-DM","C,H,N,O","replicated 2x in C direction"
-21130N2,SI,"DAPO-TFB-COF","C,H,N,O","gamma is 60 instead of 120 and P1 instead of P6/m, replicated 2x in C direction"
-21131N2,SI,"DAPO-TpOMe-COF","C,H,N,O","gamma is 60 instead of 120 and P1 instead of P6/m, replicated 2x in C direction"
-21140N2,SI,"TPP-HTD","C,H,N,O","replicated 2x in C direction"
-21150N2,SI,"COF-IHEP11","C,H,N,O,P","replicated 2x in C direction"
-21170N2,SI,"TPB-DABI-COF","C,H,N","replicated 2x in C direction"
-21180N2,SI,"AZO-1","C,H,N,S","replicated 2x in C direction"
-21181N2,SI,"AZO-2","C,H,N","replicated 2x in C direction"
-21190N2,SI,"CON","C,H,N,O","replicated 2x in C direction"
-21191N2,SI,"CONN","C,H,N,O","replicated 2x in C direction"
-21192N2,SI,"CONNCO","C,H,N,O","replicated 2x in C direction"
-21200N2,SI,"Pythz-COF","C,H,N,O","replicated 2x in C direction"
-21201N2,SI,"Pyurea-COF","C,H,N,O","replicated 2x in C direction"
-21220N2,SI,"BDF-TAPT-COF","C,H,N,O","replicated 2x in C direction"
-21230N2,SI,"Tfpa-Mth AB","C,H,N,O","none"
-21240C2,SI,"ivCOF-1-Br","C,H,Br,N","none"
-21241C2,SI,"ivCOF-2-Br","C,H,Br,N","none"
-21242C2,SI,"ivCOF-2-I","C,H,I,N","none"
-21250N2,SI,"COF-HNU6 AA","C,H,N,O","replicated 2x in C direction"
-21251N2,SI,"COF-HNU7 AA","C,H,N,O","replicated 2x in C direction"
-21260N2,SI,"PyBBT-COF","C,H,N,S","replicated 2x in C direction"
-21270N3,SI,"3D-TPB-COF-OMe","C,H,N,O","none"
-21271N3,SI,"3D-TPB-COF-Ph","C,H,N","none"
-21280N3,SI,"TFPB-DHTH","C,H,N,O","none"
-21290N2,SI,"JUC‐560 sql","C,H,N,S","replicated 2x in C direction"
-21291N3,SI,"JUC‐561 ffc","C,H,N,S","none"
-21300C3,SI,"Ti-COF-1","C,H,N,O,Ti","none"
-21310N2,SI,"TAPFY-COF","C,H,N","replicated 2x in C direction"
-21311N3,SI,"TAPFY-COF-P","C,H,N","none"
-21312N2,SI,"TAPB-COF","C,H,N","replicated 2x in C direction"
-21313N3,SI,"TAPB-COF-P","C,H,N","aligned to xy plan"
-21314N2,SI,"TAPP-COF","C,H,N","aligned to xy plane, replicated 2x in C direction"
-21315N3,SI,"TAPP-COF-P","C,H,N","aligned to xy plane"
-21320N2,SI,"VCOF-PyrBpy","C,H,N","replicated 2x in C direction"
-21331N2,SI,"TAPT-DHNDA","C,H,N,O","replicated 2x in C direction"
-21340N2,SI,"COF3","C,N","replicated 2x in C direction"
-21350N2,SI,"Mcm-ZnPc-1","C,H,N,Zn","replicated 2x in C direction"
-21351N2,SI,"Mcm-ZnPc-2","C,H,N,Zn","replicated 2x in C direction"
-21352N2,SI,"Mcm-ZnPc-3","C,H,N,Zn","replicated 2x in C direction"
-21353N2,SI,"Mcm-ZnPc-3N","C,N,Zn","replicated 2x in C direction"
-21354N2,SI,"mcmHgPc-3N","C,Hg,N","replicated 2x in C direction"
-21360N2,SI,"[OH–]100-TPB-BPTA-COF","C,H,N,O","replicated 2x in C direction"
-21380N2,SI,"COF-NUST-7","C,H,N,S","replicated 2x in C direction"
-21381N2,SI,"COF-NUST-8","C,H,N,S","replicated 2x in C direction"
-21382N2,SI,"COF-NUST-9","C,H,N,S","replicated 2x in C direction"
-21390N2,SI,"TMHzcB-TFPB-COF","C,H,N,O","replicated 2x in C direction"
-21391N2,SI,"TMHzcB-TA-COF","C,H,N,O","replicated 2x in C direction"
-21392N2,SI,"TMHzcB-DCTA-COF","C,H,N,O","replicated 2x in C direction"
-21393N2,SI,"TMHzcB-DMeTA-COF","C,H,N,O","replicated 2x in C direction"
-21394N2,SI,"TMHzcB-DMTA-COF","C,H,N,O","replicated 2x in C direction"
-21395N2,SI,"TMHzcB-DHTA-COF","C,H,N,O","replicated 2x in C direction"
-21400N2,SI,"HFH-COF-1","C,H,N","replicated 2x in C direction"
-21410N2,SI,"PT-N-COF","C,H,N,O","replicated 2x in C direction"
-21411N2,SI,"PT-B-COF","C,H,N,O","replicated 2x in C direction"
-21420N2,SI,"2D-PN-1","C,H,N","replicated 2x in C direction"
-21421N2,SI,"2D-PN-2-H","C,H,N","replicated 2x in C direction"
-21422N2,SI,"2D-PN-2-Me","C,H,N","replicated 2x in C direction"
-21423N2,SI,"2D-PN-2-OMe","C,H,N,O","replicated 2x in C direction"
-21424N2,SI,"2D-PN-3","C,H,N","replicated 2x in C direction"
-21425N2,SI,"2D-PN-4","C,H,N","replicated 2x in C direction"
-21426N3,SI,"3D-PN-1","C,H,N","none"
-21430N2,SI,"TpBD-3COOH","C,H,N,O","none"
-21440N2,SI,"Tx-COF-2","C,H,N","none"
-21450N2,SI,"DBD-BTTH","C,H,N,O","replicated 2x in C direction"
-21451N2,SI,"DBD-BTT","C,H,N,O","replicated 2x in C direction"
-21460N2,SI,"AAm-TPB","C,H,N,O","replicated 2x in C direction"
-21470N2,SI,"TTPE-COF","C,H,N","replicated 2x in C direction"
-21480N2,SI,"COF-F4","C,H,F,N,O","replicated 2x in C direction"
-21490N2,SI,"COF-PI-1","C,H,Br,N,O","replicated 2x in C direction"
-21510N3,SI,"JUC-565","C,H,N,O","none"
-21511N3,SI,"JUC-566","C,H,N,O","none"
-21520N3,SI,"SBFdiyne-COF","C,H,O","none"
-21530N2,SI,"TAPP(H2)-B18C6-COF","C,H,N,O","replicated 2x in C direction"
-21531N2,SI,"TAPP(Co)-B18C6-COF","C,H,CoN,O","replicated 2x in C direction"
-21540N3,SI,"JUC-556-[HZ]x(E)","C,H,N","none"
-21550N3,SI,"PCP-COF","C,N","none"
-21551N3,SI,"TPTF-COF","C,H,N","none"
-21560N3,SI,"BUCT-COF-4","C,H,N,S","none"
-21570N3,SI,"COF-NUST-11","C,H,N,S","none"
-21571N3,SI,"COF-NUST-12","C,H,N,S","none"
-21572N3,SI,"COF-NUST-13","C,H,N,S","none"
-21600N2,SI,"COF-TT-BT","C,H,N,S","replicated 2x in C direction"
-21601N2,SI,"COF-TT-TVT","C,H,N,S","replicated 2x in C direction"
-21620N2,SI,"TFB-BD(Me)2","C,H,N","replicated 2x in C direction"
-21640N3,SI,"COF-PEG-B1","C,H,N,O","none"
-21650N2,SI,"CuPcF8-CoPc-COF","C,H,CoCuF,N,O","replicated 2x in C direction"
-21651N2,SI,"CuPcF8-CoNPc-COF","C,H,CuF,N,NiO","replicated 2x in C direction"
-21660N2,SI,"BTZ-BCA-COF","C,H,N,S","replicated 2x in C direction"
-21661N2,SI,"BTZ-TPA-COF","C,H,N,S","replicated 2x in C direction"
-21670N2,SI,"Duan-PI-COF","C,H,N,O","replicated 2x in C direction"
-21680N2,SI,"BABN-SP COF","C,H,N","replicated 2x in C direction"
-21690N2,SI,"COF-OH-50","C,H,N,O","replicated 2x in C direction"
-21691N2,SI,"iCOF-AB-50","C,H,Br,N,O","replicated 2x in C direction"
-21700N2,SI,"Tph-BDP","C,H,B,F,N","replicated 2x in C direction"
-21710N2,SI,"TP-TU-COF","C,H,N,O,S","replicated 2x in C direction"
-21711N2,SI,"TP-DMTU-COF","C,H,N,O,S","replicated 2x in C direction"
-21712N2,SI,"TP-DMPTU-COF","C,H,N,O,S","replicated 2x in C direction"
-21720N2,SI,"Tp-Sa","C,H,N,O,S","replicated 2x in C direction"
-21730N3,SI,"TolHAT","C,H,N,O","none"
-22000N2,SI,"Liu-COF1","C,H,F,N","replicated 2x in C direction"
-22001N2,SI,"Liu-COF2","C,H,F,N","replicated 2x in C direction"
-22002N2,SI,"Liu-COF3","C,H,F,N","replicated 2x in C direction"
-22010N2,SI,"COF-C4","C,H,N,O","replicated 2x in C direction"
-22020N2,SI,"ND-COF-1","C,H,N,O","replicated 2x in C direction"
-22021N2,SI,"ND-COF-2","C,H,N,O","replicated 2x in C direction"
-22030N2,SI,"NiPc-NH-CoPcF8","C,H,CoF,N","replicated 2x in C direction"
-22031N2,SI,"NiPc-NH-CuPcF8","C,H,CuF,N,Ni","replicated 2x in C direction"
-22040N2,SI,"DHP-COF","C,H,N","replicated 2x in C direction"
-22041N2,SI,"c-HBC-COF","C,H,N","replicated 2x in C direction"
-21740N2,SI,"H-TP-COF","C,H,N","replicated 2x in C direction"
-21750N2,SI,"Salphen-COF","C,N,O","replicated 2x in C direction"
-21751N2,SI,"Ni-Salphen-COF","C,N,Ni,O","replicated 2x in C direction"
-21752N2,SI,"NiFe-Salphen-COF","C,FeN,Ni,O","replicated 2x in C direction"
-21760N3,SI,"NKCOF-14","C,N,O","none"
-21761N2,SI,"NKCOF-15","C,N","replicated 2x in C direction"
-21770N2,SI,"Th-Bta COF","C,H,N,O","replicated 2x in C direction"
-21771N2,SI,"NH2-Th-Bta COF","C,H,N,O","replicated 2x in C direction"
-21780N2,SI,"RICE-1","C,N","replicated 2x in C direction"
-21781N2,SI,"RICE-2","C,N","replicated 2x in C direction"
-21790N3,SI,"3d-hea-COF","C,H,N","none"
-21800N2,SI,"DA-TD COF","C,H,N,O","replicated 2x in C direction"
-21810N2,SI,"P-COF","C,H,N","replicated 2x in C direction"
-21811N2,SI,"T-COF","C,H,N","replicated 2x in C direction"
-21820N2,SI,"COF2OMe","C,N,O","replicated 2x in C direction"
-21821N2,SI,"COF15C5","C,N,O","replicated 2x in C direction"
-21822N2,SI,"COF21C7","C,N,O","replicated 2x in C direction"
-21823N2,SI,"COF18C6","C,N,O","replicated 2x in C direction"
-22050N2,SI,"Co-PI-COF","C,H,N,O","replicated 2x in C direction"
-21830N2,SI,"DhaTph-COOH","C,H,N,O","replicated 2x in C direction"
-22060N2,SI,"HEP-TAPT-COF","C,H,N","replicated 2x in C direction"
-22061N2,SI,"HEP-TAPB-COF","C,H,N","replicated 2x in C direction"
-21840N2,SI,"TPPY-PBT-COF","C,H,N,S","none"
-22070N2,SI,"COF-Im","C,H,N,O","replicated 2x in C direction"
-22080N2,SI,"TAPP-ETTB COF","C,H,N","replicated 2x in C direction"
-22090N2,SI,"(R)-CuTAPBP-COF","C,H,Cl,Cu,N,O,P","replicated 2x in C direction"
-22091N2,SI,"(S)-CuTAPBP-COF","C,H,Cl,Cu,N,O,P","replicated 2x in C direction"
-22100N2,SI,"Am-COF-BFTPD-MDA","C,H,N,O","replicated 2x in C direction"
-22101N2,SI,"Am-COF-BTCA-TATTA","C,H,N,O","replicated 2x in C direction"
-22102N2,SI,"Am-COF-ETTA-TPA","C,H,N,O","replicated 2x in C direction"
-22103N2,SI,"Am-COF-QPTA-PDA","C,H,N,O","replicated 2x in C direction"
-22104N2,SI,"Am-COF-TFPPy-PDA","C,H,N,O","replicated 2x in C direction"
-22105N2,SI,"Im-COF-BFTPD-MDA","C,H,N","replicated 2x in C direction"
-22106N2,SI,"Im-COF-BTCA-TATTA","C,H,N","replicated 2x in C direction"
-22107N2,SI,"Im-COF-ETTA-TPA","C,H,N","replicated 2x in C direction"
-22108N2,SI,"Im-COF-QPTA-PDA","C,H,N","replicated 2x in C direction"
-22109N2,SI,"Im-COF-TFPPy-PDA","C,H,N","replicated 2x in C direction"
-22110N2,SI,"TCOF","C,H,N,O,S","replicated 2x in C direction"
-22120N2,SI,"(R)-NHC-Au-SA-COF","C,H,Au,Cl,N","replicated 2x in C direction"
-22121N2,SI,"(S)-NHC-Au-SA-COF","C,H,Au,Cl,N","replicated 2x in C direction"
-221010N2,SI,"Am-COF-PTTA-TPA","C,H,N,O","replicated 2x in C direction"
-221011N2,SI,"Im-COF-PTTA-TPA","C,H,N","replicated 2x in C direction"
-221012N2,SI,"Am-COF-TFPPy-BD","C,H,N,O","replicated 2x in C direction"
-221013N2,SI,"Im-COF-TFPPy-BD","C,H,N","replicated 2x in C direction"
-22130N2,SI,"COF-38","C,H,N","replicated 2x in C direction"
-22131N2,SI,"COF-39","C,H,N","replicated 2x in C direction"
-22140N2,SI,"TAPB-DMTP-PA-COF","C,H,N,O","replicated 2x in C direction"
-22141N2,SI,"TAPB-TFPB-PA-COF","C,H,N,O","replicated 2x in C direction"
-22142N2,SI,"TAPB-TP-PA-COF","C,H,N,O","replicated 2x in C direction"
-22143N2,SI,"TAPT-TFPB-PA-COF","C,H,N,O","replicated 2x in C direction"
-22144N2,SI,"TAPT-TP-PA-COF","C,H,N,O","replicated 2x in C direction"
-22150N2,SI,"CZ-DHZ-COF","C,H,N,O","replicated 2x in C direction"
-22160N2,SI,"COF-TAPA-BTPA","C,H,N","replicated 2x in C direction"
-22170N2,SI,"N-TAPB-MeTA","C,H,N","replicated 2x in C direction"
-22171N2,SI,"N-TAPB-OMeTA","C,H,N,O","replicated 2x in C direction"
-22172N2,SI,"TAPB-MeTA","C,H,N","replicated 2x in C direction"
-22180N2,SI,"F-TBT-COF","C,H,F,N","replicated 2x in C direction"
-22181N2,SI,"TBT-COF","C,H,N","replicated 2x in C direction"
-22182N2,SI,"MeO-TBT-COF","C,H,N,O","replicated 2x in C direction"
-22190N2,SI,"Sb-COF","C,N,Sb","replicated 2x in C direction"
-22200N2,SI,"TJU-1","C,H,N,O","replicated 2x in C direction"
-22210N2,SI,"TpPTO-COF","C,H,N,O","replicated 2x in C direction"
-22220N2,SI,"TDCOF-1-A","C,H,N,O","replicated 2x in C direction"
-22221N2,SI,"TDCOF-1-S","C,H,N,O","replicated 2x in C direction"
-22222N2,SI,"TDCOF-2","C,H,N","replicated 2x in C direction"
-22223N2,SI,"TDCOF-3-S","C,H,N,O","replicated 2x in C direction"
-22230N2,SI,"BT-CzBuOH-COF","C,H,N,S","replicated 2x in C direction"
-22231N2,SI,"BT-CzEtOH-COF","C,H,N,S","replicated 2x in C direction"
-22232N2,SI,"BT-PyBuOH-COF","C,H,N,S","replicated 2x in C direction"
-22233N2,SI,"BT-PyEtOH-COF","C,H,N,S","replicated 2x in C direction"
-22240N3,SI,"NKCOF-21","C,H,N","none"
-22241N3,SI,"NKCOF-22","C,H,N","none"
-22242N3,SI,"NKCOF-23","C,H,N","none"
-22250N3,SI,"NUST-5","C,H,N","none"
-22251N3,SI,"NUST-6","C,H,N","none"
-22260N2,SI,"JLNU-301","C,H,N,S","replicated 2x in C direction"
-22261N2,SI,"JLNU-302","C,H,N,S","replicated 2x in C direction"
-22270N2,SI,"LZU-600","C,H,N,O","replicated 2x in C direction"
-22271N2,SI,"LZU-601","C,H,N,O","replicated 2x in C direction"
-22272N2,SI,"LZU-602","C,H,N,O","replicated 2x in C direction"
-22273N2,SI,"LZU-603","C,H,N,O","replicated 2x in C direction"
-22280N2,SI,"TGDM","C,H,Cl,N,O","replicated 2x in C direction"
-22290N2,SI,"(R)-DTP-COF-QA","C,H,N,O","replicated 2x in C direction"
-22291N2,SI,"(S)-DTP-COF-QA","C,H,N,O","replicated 2x in C direction"
-22292N2,SI,"Kan_(R)-DTP-COF","C,H,N,O","replicated 2x in C direction"
-22300N2,SI,"PETZ-COF","C,H,N,S","replicated 2x in C direction"
-22301N2,SI,"PEBP-COF","C,H,N","replicated 2x in C direction"
-22310N2,SI,"TPB-TFB-COF","C,H,N","replicated 2x in C direction"
-22320N2,SI,"PFPP-COF-1a","C,H,N","replicated 2x in C direction"
-22321N2,SI,"PFPP-COF-1b","C,H,N","replicated 2x in C direction"
-22322N2,SI,"PFPP-COF-2","C,H,N","replicated 2x in C direction"
-22330N2,SI,"TRITER-2","C,H,N","replicated 2x in C direction"
-22340N2,SI,"Cu-Salphen-COF","C,H,Cu,N,O","replicated 2x in C direction"
-22341N2,SI,"Zn-Salphen-COF","C,H,N,O,Zn","replicated 2x in C direction"
-22342N2,SI,"Yang_Ni-Salphen-COF","C,H,N,Ni,O","replicated 2x in C direction"
-22350N2,SI,"ETTA-Td COF","C,H,N,S","replicated 2x in C direction"
-22351N2,SI,"ETTA-Tz COF","C,H,N,S","replicated 2x in C direction"
-22360N2,SI,"Ni-TAP","C,H,N,Ni,S","replicated 2x in C direction"
-22361N2,SI,"Ni-TAA","C,H,N,Ni,S","replicated 2x in C direction"
-22370N2,SI,"AnPD-COF","C,H,N","replicated 2x in C direction"
-22380N2,SI,"DUT-177","C,H,N,S","replicated 2x in C direction"
-22390N2,SI,"NCOF-1","C,H,O","replicated 2x in C direction"
-22410N2,SI,"BTEA-COF","C,H,N","replicated 2x in C direction"
-22411N2,SI,"EBA-COF","C,H,N","replicated 2x in C direction"
-22420N2,SI,"Gao_PT-COF","C,H,N,O","replicated 2x in C direction"
-22430N2,SI,"COF-FD1","C,H,N","replicated 2x in C direction"
-22440N2,SI,"RE-COF-1","C,H,N,O","replicated 2x in C direction"
-22441N2,SI,"RE-COF-2","C,H,N,O","replicated 2x in C direction"
-22450N2,SI,"sonoCOF-A3","C,H,N,O","replicated 2x in C direction"
-22451N2,SI,"sonoCOF-A4","C,H,N","replicated 2x in C direction"
-22452N2,SI,"sonoCOF-A7","C,H,N,O","replicated 2x in C direction"
-22453N2,SI,"sonoCOF-A11","C,H,N,O","replicated 2x in C direction"
-22454N2,SI,"SonoCOF-B1","C,H,N","replicated 2x in C direction"
-22455N2,SI,"sonoCOF-B2","C,H,N","replicated 2x in C direction"
-22456N2,SI,"sonoCOF-B4","C,H,N","replicated 2x in C direction"
-22457N2,SI,"sonoCOF-B7","C,H,N","replicated 2x in C direction"
-22458N2,SI,"sonoCOF-B11","C,H,N","replicated 2x in C direction"
-22459N2,SI,"sonoCOF-C1","C,H,N,O","replicated 2x in C direction"
-224510N2,SI,"sonoCOF-C2","C,H,N,O","replicated 2x in C direction"
-224511N2,SI,"sonoCOF-C3","C,H,N,O","replicated 2x in C direction"
-224512N2,SI,"sonoCOF-D1","C,H,F,N","replicated 2x in C direction"
-224513N2,SI,"sonoCOF-D2","C,H,F,N","replicated 2x in C direction"
-224514N2,SI,"sonoCOF-D3","C,H,F,N","replicated 2x in C direction"
-224515N2,SI,"sonoCOF-E1","C,H,N","replicated 2x in C direction"
-224516N2,SI,"sonoCOF-E2","C,H,N","replicated 2x in C direction"
-224517N2,SI,"sonoCOF-E3","C,H,N","replicated 2x in C direction"
-224518N2,SI,"sonoCOF-E11","C,H,N","replicated 2x in C direction"
-224519N2,SI,"sonoCOF-F3","C,H,N","replicated 2x in C direction"
-224520N2,SI,"sonoCOF-F5","C,H,N","replicated 2x in C direction"
-224521N2,SI,"sonoCOF-F6","C,H,N","replicated 2x in C direction"
-224522N2,SI,"sonoCOF-F7","C,H,N","replicated 2x in C direction"
-224523N2,SI,"sonoCOF-F8","C,H,N","replicated 2x in C direction"
-224524N2,SI,"sonoCOF-F11","C,H,N","replicated 2x in C direction"
-224525N2,SI,"sonoCOF-G2","C,H,N","replicated 2x in C direction"
-224526N2,SI,"sonoCOF-G3","C,H,N","replicated 2x in C direction"
-224527N2,SI,"sonoCOF-G6","C,H,N","replicated 2x in C direction"
-224528N2,SI,"sonoCOF-G7","C,H,N","replicated 2x in C direction"
-224529N2,SI,"sonoCOF-G8","C,H,N","replicated 2x in C direction"
-224530N2,SI,"sonoCOF-G11","C,H,N","replicated 2x in C direction"
-224531N2,SI,"sonoCOF-H1","C,H,N","replicated 2x in C direction"
-224532N2,SI,"sonoCOF-H3","C,H,N","replicated 2x in C direction"
-224533N2,SI,"sonoCOF-H7","C,H,N","replicated 2x in C direction"
-224534N2,SI,"sonoCOF-I1","C,H,N,O","replicated 2x in C direction"
-224535N2,SI,"sonoCOF-I2","C,H,N,O","replicated 2x in C direction"
-224536N2,SI,"sonoCOF-I5","C,H,N,O","replicated 2x in C direction"
-224537N2,SI,"sonoCOF-I6","C,H,N,O","replicated 2x in C direction"
-224538N2,SI,"sonoCOF-I8","C,H,N,O","replicated 2x in C direction"
-224539N2,SI,"sonoCOF-I9","C,H,N,O","replicated 2x in C direction"
-224540N2,SI,"sonoCOF-I10","C,H,N,O","replicated 2x in C direction"
-224541N2,SI,"sonoCOF-J1","C,H,N","replicated 2x in C direction"
-224542N2,SI,"sonoCOF-J2","C,H,N","replicated 2x in C direction"
-224543N2,SI,"sonoCOF-J3","C,H,N","replicated 2x in C direction"
-224544N2,SI,"sonoCOF-J4","C,H,N","replicated 2x in C direction"
-224545N2,SI,"sonoCOF-J11","C,H,N","replicated 2x in C direction"
-224546N2,SI,"sonoCOF-K1","C,H,N","replicated 2x in C direction"
-224547N2,SI,"sonoCOF-K2","C,H,N","replicated 2x in C direction"
-224548N2,SI,"sonoCOF-K3","C,H,N","replicated 2x in C direction"
-224549N2,SI,"sonoCOF-K4","C,H,N","replicated 2x in C direction"
-224550N2,SI,"sonoCOF-K11","C,H,N","replicated 2x in C direction"
-22460N3,SI,"3D-COF-PEG2","C,H,N,O","none"
-22470N2,SI,"DTP-TF-COF","C,N,O","replicated 2x in C direction"
-22480N2,SI,"TAPP-BDP","C,H,B,Cl,F,N","replicated 2x in C direction"
-22490N2,SI,"Kagome_PER_PDA-COF-1","C,H,N","replicated 2x in C direction"
-22491N2,SI,"Rhombus_PER_PDA-COF-1","C,H,N","replicated 2x in C direction"
-22500N2,SI,"TAPA-PCBA","C,H,N","replicated 2x in C direction"
-22510N2,SI,"Hydrazone-MTH-TFPB COF","C,H,N,O","replicated 2x in C direction"
-22520N2,SI,"NKCOF-118(H)","C,N,O","replicated 2x in C direction"
-22530N2,SI,"COF-609-Im","C,H,N,O","replicated 2x in C direction"
-22531N2,SI,"COF-609-THQ","C,H,Cl,N,O","replicated 2x in C direction"
-22532N2,SI,"COF-609","C,H,N,O","replicated 2x in C direction"
-22540N2,SI,"Fe-COFTAPB-BPA","C,H,F,Fe,N,O,S","replicated 2x in C direction"
-22541N2,SI,"Fe-COFTAPB-PDA","C,H,F,Fe,N,O,S","replicated 2x in C direction"
-22542N2,SI,"Fe-COFTTA-BPA","C,H,F,Fe,N,O,S","replicated 2x in C direction"
-22543N2,SI,"Fe-COFTTA-PDA","C,H,F,Fe,N,O,S","replicated 2x in C direction"
-22550N2,SI,"PTz-BTA-COF","C,H,N,S","replicated 2x in C direction"
-22551N2,SI,"PTz-Py-COF","C,H,N,S","replicated 2x in C direction"
-22552N2,SI,"PTz-TPB-COF","C,H,N,S","replicated 2x in C direction"
-20680N2,SI,"NUS-55","C,H,N,O","replicated 2x in C direction"
-21860N2,SI,"PyTz-COF","C,H,N,S","replicated 2x in C direction"
-20690N2,SI,"NTU-BDA-THTA","C,H,N,O","replicated 2x in C direction"
-18170N2,SI,"SA-MOF","C,H,N,O,S","replicated 2x in C direction"
-18171N2,SI,"FSA-MOF","C,H,N,O,S","replicated 2x in C direction"
-20700N2,SI,"g-C52N6-COF","C,N","replicated 2x in C direction"
-20701N2,SI,"g-C54N6-COF","C,N","replicated 2x in C direction"
+20310N2,SI,P-COF-1,"C,H,N,P",replicated 2x in C direction
+20311N2,SI,P-COF-2,"C,H,N,P",replicated 2x in C direction
+20320N2,SI,TzBA,"C,H,N",replicated 2x in C direction
+20321N2,SI,JNU-1,"C,H,N,O",replicated 2x in C direction
+20331N2,SI,TAPB-TFPA,"C,H,N",replicated 2x in C direction
+20340N2,SI,NDA-TN,"C,H,N","aligned to xy plane, replicated 2x in C direction"
+20341N2,SI,BDA-TN,"C,H,N",replicated 2x in C direction
+20350N2,SI,TAPP-TFPP-COF,"C,H,N,Zn",replicated 2x in C direction
+20360N2,SI,COF-p-3Ph,"C,H,N",replicated 2x in C direction
+20361N2,SI,COF-p-2Ph,"C,H,N",replicated 2x in C direction
+20362N2,SI,COF-m-3Ph,"C,H,N",replicated 2x in C direction
+20370N3,SI,LZU-306,"C,H,N",none
+20380N2,SI,TD-COF,"C,H,N,O,S",replicated 2x in C direction
+20390N2,SI,Py-ClTP-BT-COF,"C,H,Cl,N,S",replicated 2x in C direction
+20391N2,SI,Py-FTP-BT-COF,"C,H,F,N,S",replicated 2x in C direction
+20392N2,SI,Py-HTP-BT-COF,"C,H,N,S",replicated 2x in C direction
+20400N2,SI,TAPT-BTCA-quasi-AB,"C,H,N",none
+20401N2,SI,TAPB-TA-quasi-AB,"C,H,N",none
+20402N2,SI,TAPB-OMeTA-quasi-AB,"C,H,N,O",none
+20403N2,SI,Py-1P-quasi-AB,"C,H,N",none
+20410N2,SI,TPE-COF-OH,"C,H,N,O","replicated 2x in C direction, added H"
+20411N2,SI,TPE-COF-OMe_corr,"C,H,N,O","replicated 2x in C direction, added H"
+20420N2,SI,GS-COF-1,"C,H,N,O",replicated 2x in C direction
+20421N2,SI,GS-COF-2,"C,H,N,O",replicated 2x in C direction
+20430N3,SI,JUC-564,"C,H,N",none
+20440N3,SI,COF-QA-2,"C,H,Cl,N,O",replicated 2x in C direction
+20441N3,SI,COF-QA-4,"C,H,Cl,N,O",replicated 2x in C direction
+20442N3,SI,COF-QA-6,"C,H,Cl,N,O",replicated 2x in C direction
+20443N3,SI,COF-QA-EO,"C,H,Cl,N,O",replicated 2x in C direction
+20450N2,SI,COF-ETTA-ETTCA,"C,H,N",replicated 2x in C direction
+20460N2,SI,COF-F6,"C,H,F,N,O",replicated 2x in C direction
+20470N2,SI,COF-119,"C,H,O",replicated 2x in C direction
+20471N2,SI,COF-120,"C,H,O",replicated 2x in C direction
+20472N2,SI,COF-121,"C,H,O",replicated 2x in C direction
+20473N2,SI,COF-122,"C,H,O",replicated 2x in C direction
+20480N3,SI,COF-1-tbo,"C,H,N",none
+20481N3,SI,COF-2-tbo,"C,H,Cu,N",none
+20490N2,SI,(S)-DTP-COF,"C,H,N,O",replicated 2x in C direction
+20491N2,SI,(R)-DTP-COF,"C,H,N,O",replicated 2x in C direction
+20500N3,SI,3D-CageCOF-1-lp,"C,H,N,O",none
+20501N3,SI,3D-CageCOF-1-sp,"C,H,N,O",none
+20510N2,SI,100%-ETTA-BPyDC,"C,H,N",replicated 2x in C direction
+20520N3,SI,2D-PPQV1,"C,H,N",none
+20521N3,SI,2D-PPQV2,"C,H,N",none
+20530N2,SI,PI-COF-1,"C,H,N,O",none
+20531N2,SI,PI-COF-2,"C,H,N,O",none
+20540N2,SI,QTD-COF-1,"C,H,N,O,P",replicated 2x in C direction
+20541N2,SI,QTD-COF-2,"C,H,N,O,P","replicated 2x in C direction, add H"
+20542N2,SI,QTD-COF-3,"C,H,N,O,P","replicated 2x in C direction, add H"
+20543N2,SI,QTD-COF-4,"C,H,N,O,P","replicated 2x in C direction, add H"
+20544N2,SI,QTD-COF-V,"C,H,N,O,P","replicated 2x in C direction, add H"
+20550N2,SI,TTF-COF1,"C,H,N,O,S",replicated 2x in C direction
+20551N2,SI,TTF-COF2,"C,H,N,S",replicated 2x in C direction
+20560N3,SI,BP-COF-1,"C,H,B,O,P",none
+20561N3,SI,BP-COF-2,"C,H,B,F,O,P",none
+20562N3,SI,BP-COF-3,"C,H,B,O,P",none
+20563N3,SI,BP-COF-4,"C,H,B,O,P",none
+20564N3,SI,BP-COF-5,"C,H,B,O,P",none
+20565N3,SI,BP-COF-6,"C,H,B,O,P","aligned to xy plane, replicated 2x in B and C directions"
+20570N3,SI,3D-COF-1 5-fold,"C,H,N",none
+20571N3,SI,3D-COF-10 7-fold,"C,H,N",none
+20580N3,SI,PD-COF-23,"C,H,N,O",replicated 2x in C direction
+20581N2,SI,PD-COF-23-Ni,"C,H,N,Ni,O",replicated 2x in C direction
+20590N2,SI,BT-TAPT-COF,"C,H,N,S",replicated 2x in C direction
+20600N2,SI,PI-NT COF AA,"C,H,N,O",replicated 2x in C direction
+20610N2,SI,COF-N,"C,H,N",replicated 2x in C direction
+20611N2,SI,COF-NN_corr,"C,H,N","replicated 2x in C direction, added some H missing"
+20620N2,SI,TFP-DB-COF AA,"C,H,N,O",replicated 2x in C direction
+20621N2,SI,TFP-DP-COF AB,"C,H,N,O",none
+20630N2,SI,WTA,"C,H,N",replicated 2x in C direction
+20631N2,SI,WBDT,"C,H,N,S",replicated 2x in C direction
+20640N2,SI,COF-C2v-CHO,"C,H,N",replicated 2x in C direction
+20650N2,SI,LZU-561,"C,H,F,N",replicated 2x in C direction
+20651N3,SI,LZU-562,"C,H,F,N,O",none
+20652N2,SI,LZU-563,"C,H,Cl,F,N",replicated 2x in C direction
+20653N2,SI,LZU-564,"C,H,Br,F,N",replicated 2x in C direction
+20660N2,SI,COF-NUST-1,"C,H,B,O",none
+20670N3,SI,BFTB-PyTA COF,"C,H,N",none
+20671N2,SI,BFTB-BFTB COF,"C,H,N",replicated 2x in C direction
+20672N2,SI,BFTB-BCTA COF,"C,H,N",replicated 2x in C direction
+20680N2,SI,NUS-55,"C,H,N,O",replicated 2x in C direction
+20690N2,SI,NTU-BDA-THTA,"C,H,N,O",replicated 2x in C direction
+20700N2,SI,g-C52N6-COF,"C,N",replicated 2x in C direction
+20701N2,SI,g-C54N6-COF,"C,N",replicated 2x in C direction
+21000N2,SI,BrCOF-1 AA,"C,H,Br,N",replicated 2x in C direction
+21010N2,SI,BD-COF,"C,H,N,O",replicated 2x in C direction
+21011N2,SI,DBD-COF,"C,H,N,O",replicated 2x in C direction
+21012N2,SI,Ox-BD-COF,"C,H,N,O",replicated 2x in C direction
+21013N2,SI,Ox-DBD-COF,"C,H,N,O",replicated 2x in C direction
+21014N2,SI,MB-COF,"C,H,N,O",replicated 2x in C direction
+21020N2,SI,NKCOF-7,"C,H,N",none
+21021N2,SI,NKCOF-6,"C,H,N",none
+21030N2,SI,p-TetPB-COF-K AA,"C,H,N",replicated 2x in C direction
+21031N2,SI,p-TetPB-COF-M AA,"C,H,N",replicated 2x in C direction
+21032N2,SI,m-TetPB-COF-K AA,"C,H,N",replicated 2x in C direction
+21033N2,SI,m-TetPB-COF-M AA,"C,H,N",replicated 2x in C direction
+21034N2,SI,o-TetPB-COF AA,"C,H,N",replicated 2x in C direction
+21035N2,SI,TetPB-TetPB-COF AA,"C,H,N",replicated 2x in C direction
+21040N3,SI,CCOF-15,"C,H,Cl,N,O",none
+21041N3,SI,CCOF-16,"C,H,Cl,N,O",none
+21050N2,SI,CCOF-17,"C,H,N,O",replicated 2x in C direction
+21051N2,SI,CCOF-18,"C,H,N,O",replicated 2x in C direction
+21052N2,SI,CCOF-17-R,"C,H,N,O",replicated 2x in C direction
+21053N2,SI,CCOF-18-R,"C,H,N,O",replicated 2x in C direction
+21060N2,SI,COF-IM AA,"C,H,N,O",replicated 2x in C direction
+21070N2,SI,Tp-DBD AA,"C,H,N,O","aligned to xy plane, replicated 2x in C direction"
+21071N2,SI,Bd-DBD AA,"C,H,N,O","aligned to xy plane, replicated 2x in C direction"
+21072N2,SI,Hb-DBD AA,"C,H,N,O","aligned to xy plane, replicated 2x in C direction"
+21073N2,SI,Tb-DBD AA,"C,H,N,O",replicated 2x in C direction
+21080N2,SI,PIA-AA,"C,H,N,O",replicated 2x in C direction
+21081N2,SI,PIB-AA,"C,H,N,O",replicated 2x in C direction
+21082N2,SI,PIC-AA,"C,H,N,O",replicated 2x in C direction
+21090N3,SI,FCOF-5,"C,H,N,O",none
+21091N3,SI,FCOF-5-THF,"C,H,N,O",none
+21100N2,SI,NKCOF-108,"C,H,F,N,S",replicated 2x in C direction
+21101N2,SI,NKCOF-109,"C,H,F,N,S",replicated 2x in C direction
+21110N3,SI,JUC-568 ceq,"C,H,N",swap B and C dimensions
+21111N3,SI,JUC-569 2-fold acs,"C,H,N",none
+21120N2,SI,COF-DM,"C,H,N,O",replicated 2x in C direction
+21130N2,SI,DAPO-TFB-COF,"C,H,N,O","gamma is 60 instead of 120 and P1 instead of P6/m, replicated 2x in C direction"
+21131N2,SI,DAPO-TpOMe-COF,"C,H,N,O","gamma is 60 instead of 120 and P1 instead of P6/m, replicated 2x in C direction"
+21140N2,SI,TPP-HTD,"C,H,N,O",replicated 2x in C direction
+21150N2,SI,COF-IHEP11,"C,H,N,O,P",replicated 2x in C direction
+21170N2,SI,TPB-DABI-COF,"C,H,N",replicated 2x in C direction
+21180N2,SI,AZO-1,"C,H,N,S",replicated 2x in C direction
+21181N2,SI,AZO-2,"C,H,N",replicated 2x in C direction
+21190N2,SI,CON,"C,H,N,O",replicated 2x in C direction
+21191N2,SI,CONN,"C,H,N,O",replicated 2x in C direction
+21192N2,SI,CONNCO,"C,H,N,O",replicated 2x in C direction
+21200N2,SI,Pythz-COF,"C,H,N,O",replicated 2x in C direction
+21201N2,SI,Pyurea-COF,"C,H,N,O",replicated 2x in C direction
+21220N2,SI,BDF-TAPT-COF,"C,H,N,O",replicated 2x in C direction
+21230N2,SI,Tfpa-Mth AB,"C,H,N,O",none
+21240C2,SI,ivCOF-1-Br,"C,H,Br,N",none
+21241C2,SI,ivCOF-2-Br,"C,H,Br,N",none
+21242C2,SI,ivCOF-2-I,"C,H,I,N",none
+21250N2,SI,COF-HNU6 AA,"C,H,N,O",replicated 2x in C direction
+21251N2,SI,COF-HNU7 AA,"C,H,N,O",replicated 2x in C direction
+21260N2,SI,PyBBT-COF,"C,H,N,S",replicated 2x in C direction
+21270N3,SI,3D-TPB-COF-OMe,"C,H,N,O",none
+21271N3,SI,3D-TPB-COF-Ph,"C,H,N",none
+21280N3,SI,TFPB-DHTH,"C,H,N,O",none
+21290N2,SI,JUC‐560 sql,"C,H,N,S",replicated 2x in C direction
+21291N3,SI,JUC‐561 ffc,"C,H,N,S",none
+21300C3,SI,Ti-COF-1,"C,H,N,O,Ti",none
+21310N2,SI,TAPFY-COF,"C,H,N",replicated 2x in C direction
+21311N3,SI,TAPFY-COF-P,"C,H,N",none
+21312N2,SI,TAPB-COF,"C,H,N",replicated 2x in C direction
+21313N3,SI,TAPB-COF-P,"C,H,N",aligned to xy plan
+21314N2,SI,TAPP-COF,"C,H,N","aligned to xy plane, replicated 2x in C direction"
+21315N3,SI,TAPP-COF-P,"C,H,N",aligned to xy plane
+21320N2,SI,VCOF-PyrBpy,"C,H,N",replicated 2x in C direction
+21331N2,SI,TAPT-DHNDA,"C,H,N,O",replicated 2x in C direction
+21340N2,SI,COF3,"C,N",replicated 2x in C direction
+21350N2,SI,Mcm-ZnPc-1,"C,H,N,Zn",replicated 2x in C direction
+21351N2,SI,Mcm-ZnPc-2,"C,H,N,Zn",replicated 2x in C direction
+21352N2,SI,Mcm-ZnPc-3,"C,H,N,Zn",replicated 2x in C direction
+21353N2,SI,Mcm-ZnPc-3N,"C,N,Zn",replicated 2x in C direction
+21354N2,SI,mcmHgPc-3N,"C,Hg,N",replicated 2x in C direction
+21360N2,SI,[OH–]100-TPB-BPTA-COF,"C,H,N,O",replicated 2x in C direction
+21380N2,SI,COF-NUST-7,"C,H,N,S",replicated 2x in C direction
+21381N2,SI,COF-NUST-8,"C,H,N,S",replicated 2x in C direction
+21382N2,SI,COF-NUST-9,"C,H,N,S",replicated 2x in C direction
+21390N2,SI,TMHzcB-TFPB-COF,"C,H,N,O",replicated 2x in C direction
+21391N2,SI,TMHzcB-TA-COF,"C,H,N,O",replicated 2x in C direction
+21392N2,SI,TMHzcB-DCTA-COF,"C,H,N,O",replicated 2x in C direction
+21393N2,SI,TMHzcB-DMeTA-COF,"C,H,N,O",replicated 2x in C direction
+21394N2,SI,TMHzcB-DMTA-COF,"C,H,N,O",replicated 2x in C direction
+21395N2,SI,TMHzcB-DHTA-COF,"C,H,N,O",replicated 2x in C direction
+21400N2,SI,HFH-COF-1,"C,H,N",replicated 2x in C direction
+21410N2,SI,PT-N-COF,"C,H,N,O",replicated 2x in C direction
+21411N2,SI,PT-B-COF,"C,H,N,O",replicated 2x in C direction
+21420N2,SI,2D-PN-1,"C,H,N",replicated 2x in C direction
+21421N2,SI,2D-PN-2-H,"C,H,N",replicated 2x in C direction
+21422N2,SI,2D-PN-2-Me,"C,H,N",replicated 2x in C direction
+21423N2,SI,2D-PN-2-OMe,"C,H,N,O",replicated 2x in C direction
+21424N2,SI,2D-PN-3,"C,H,N",replicated 2x in C direction
+21425N2,SI,2D-PN-4,"C,H,N",replicated 2x in C direction
+21426N3,SI,3D-PN-1,"C,H,N",none
+21430N2,SI,TpBD-3COOH,"C,H,N,O",none
+21440N2,SI,Tx-COF-2,"C,H,N",none
+21450N2,SI,DBD-BTTH,"C,H,N,O",replicated 2x in C direction
+21451N2,SI,DBD-BTT,"C,H,N,O",replicated 2x in C direction
+21460N2,SI,AAm-TPB,"C,H,N,O",replicated 2x in C direction
+21470N2,SI,TTPE-COF,"C,H,N",replicated 2x in C direction
+21480N2,SI,COF-F4,"C,H,F,N,O",replicated 2x in C direction
+21490N2,SI,COF-PI-1,"C,H,Br,N,O",replicated 2x in C direction
+21510N3,SI,JUC-565,"C,H,N,O",none
+21511N3,SI,JUC-566,"C,H,N,O",none
+21520N3,SI,SBFdiyne-COF,"C,H,O",none
+21530N2,SI,TAPP(H2)-B18C6-COF,"C,H,N,O",replicated 2x in C direction
+21531N2,SI,TAPP(Co)-B18C6-COF,"C,H,CoN,O",replicated 2x in C direction
+21540N3,SI,JUC-556-[HZ]x(E),"C,H,N",none
+21550N3,SI,PCP-COF,"C,N",none
+21551N3,SI,TPTF-COF,"C,H,N",none
+21560N3,SI,BUCT-COF-4,"C,H,N,S",none
+21570N3,SI,COF-NUST-11,"C,H,N,S",none
+21571N3,SI,COF-NUST-12,"C,H,N,S",none
+21572N3,SI,COF-NUST-13,"C,H,N,S",none
+21600N2,SI,COF-TT-BT,"C,H,N,S",replicated 2x in C direction
+21601N2,SI,COF-TT-TVT,"C,H,N,S",replicated 2x in C direction
+21620N2,SI,TFB-BD(Me)2,"C,H,N",replicated 2x in C direction
+21640N3,SI,COF-PEG-B1,"C,H,N,O",none
+21650N2,SI,CuPcF8-CoPc-COF,"C,H,CoCuF,N,O",replicated 2x in C direction
+21651N2,SI,CuPcF8-CoNPc-COF,"C,H,CuF,N,NiO",replicated 2x in C direction
+21660N2,SI,BTZ-BCA-COF,"C,H,N,S",replicated 2x in C direction
+21661N2,SI,BTZ-TPA-COF,"C,H,N,S",replicated 2x in C direction
+21670N2,SI,Duan-PI-COF,"C,H,N,O",replicated 2x in C direction
+21680N2,SI,BABN-SP COF,"C,H,N",replicated 2x in C direction
+21690N2,SI,COF-OH-50,"C,H,N,O",replicated 2x in C direction
+21691N2,SI,iCOF-AB-50,"C,H,Br,N,O",replicated 2x in C direction
+21700N2,SI,Tph-BDP,"C,H,B,F,N",replicated 2x in C direction
+21710N2,SI,TP-TU-COF,"C,H,N,O,S",replicated 2x in C direction
+21711N2,SI,TP-DMTU-COF,"C,H,N,O,S",replicated 2x in C direction
+21712N2,SI,TP-DMPTU-COF,"C,H,N,O,S",replicated 2x in C direction
+21720N2,SI,Tp-Sa,"C,H,N,O,S",replicated 2x in C direction
+21730N3,SI,TolHAT,"C,H,N,O",none
+21740N2,SI,H-TP-COF,"C,H,N",replicated 2x in C direction
+21750N2,SI,Salphen-COF,"C,N,O",replicated 2x in C direction
+21751N2,SI,Ni-Salphen-COF,"C,N,Ni,O",replicated 2x in C direction
+21752N2,SI,NiFe-Salphen-COF,"C,FeN,Ni,O",replicated 2x in C direction
+21760N3,SI,NKCOF-14,"C,N,O",none
+21761N2,SI,NKCOF-15,"C,N",replicated 2x in C direction
+21770N2,SI,Th-Bta COF,"C,H,N,O",replicated 2x in C direction
+21771N2,SI,NH2-Th-Bta COF,"C,H,N,O",replicated 2x in C direction
+21780N2,SI,RICE-1,"C,N",replicated 2x in C direction
+21781N2,SI,RICE-2,"C,N",replicated 2x in C direction
+21790N3,SI,3d-hea-COF,"C,H,N",none
+21800N2,SI,DA-TD COF,"C,H,N,O",replicated 2x in C direction
+21810N2,SI,P-COF,"C,H,N",replicated 2x in C direction
+21811N2,SI,T-COF,"C,H,N",replicated 2x in C direction
+21820N2,SI,COF2OMe,"C,N,O",replicated 2x in C direction
+21821N2,SI,COF15C5,"C,N,O",replicated 2x in C direction
+21822N2,SI,COF21C7,"C,N,O",replicated 2x in C direction
+21823N2,SI,COF18C6,"C,N,O",replicated 2x in C direction
+21830N2,SI,DhaTph-COOH,"C,H,N,O",replicated 2x in C direction
+21840N2,SI,TPPY-PBT-COF,"C,H,N,S",none
+21860N2,SI,PyTz-COF,"C,H,N,S",replicated 2x in C direction
+22000N2,SI,Liu-COF1,"C,H,F,N",replicated 2x in C direction
+22001N2,SI,Liu-COF2,"C,H,F,N",replicated 2x in C direction
+22002N2,SI,Liu-COF3,"C,H,F,N",replicated 2x in C direction
+22010N2,SI,COF-C4,"C,H,N,O",replicated 2x in C direction
+22020N2,SI,ND-COF-1,"C,H,N,O",replicated 2x in C direction
+22021N2,SI,ND-COF-2,"C,H,N,O",replicated 2x in C direction
+22030N2,SI,NiPc-NH-CoPcF8,"C,H,CoF,N",replicated 2x in C direction
+22031N2,SI,NiPc-NH-CuPcF8,"C,H,CuF,N,Ni",replicated 2x in C direction
+22040N2,SI,DHP-COF,"C,H,N",replicated 2x in C direction
+22041N2,SI,c-HBC-COF,"C,H,N",replicated 2x in C direction
+22050N2,SI,Co-PI-COF,"C,H,N,O",replicated 2x in C direction
+22060N2,SI,HEP-TAPT-COF,"C,H,N",replicated 2x in C direction
+22061N2,SI,HEP-TAPB-COF,"C,H,N",replicated 2x in C direction
+22070N2,SI,COF-Im,"C,H,N,O",replicated 2x in C direction
+22080N2,SI,TAPP-ETTB COF,"C,H,N",replicated 2x in C direction
+22090N2,SI,(R)-CuTAPBP-COF,"C,H,Cl,Cu,N,O,P",replicated 2x in C direction
+22091N2,SI,(S)-CuTAPBP-COF,"C,H,Cl,Cu,N,O,P",replicated 2x in C direction
+22100N2,SI,Am-COF-BFTPD-MDA,"C,H,N,O",replicated 2x in C direction
+221010N2,SI,Am-COF-PTTA-TPA,"C,H,N,O",replicated 2x in C direction
+221011N2,SI,Im-COF-PTTA-TPA,"C,H,N",replicated 2x in C direction
+221012N2,SI,Am-COF-TFPPy-BD,"C,H,N,O",replicated 2x in C direction
+221013N2,SI,Im-COF-TFPPy-BD,"C,H,N",replicated 2x in C direction
+22101N2,SI,Am-COF-BTCA-TATTA,"C,H,N,O",replicated 2x in C direction
+22102N2,SI,Am-COF-ETTA-TPA,"C,H,N,O",replicated 2x in C direction
+22103N2,SI,Am-COF-QPTA-PDA,"C,H,N,O",replicated 2x in C direction
+22104N2,SI,Am-COF-TFPPy-PDA,"C,H,N,O",replicated 2x in C direction
+22105N2,SI,Im-COF-BFTPD-MDA,"C,H,N",replicated 2x in C direction
+22106N2,SI,Im-COF-BTCA-TATTA,"C,H,N",replicated 2x in C direction
+22107N2,SI,Im-COF-ETTA-TPA,"C,H,N",replicated 2x in C direction
+22108N2,SI,Im-COF-QPTA-PDA,"C,H,N",replicated 2x in C direction
+22109N2,SI,Im-COF-TFPPy-PDA,"C,H,N",replicated 2x in C direction
+22110N2,SI,TCOF,"C,H,N,O,S",replicated 2x in C direction
+22120N2,SI,(R)-NHC-Au-SA-COF,"C,H,Au,Cl,N",replicated 2x in C direction
+22121N2,SI,(S)-NHC-Au-SA-COF,"C,H,Au,Cl,N",replicated 2x in C direction
+22130N2,SI,COF-38,"C,H,N",replicated 2x in C direction
+22131N2,SI,COF-39,"C,H,N",replicated 2x in C direction
+22140N2,SI,TAPB-DMTP-PA-COF,"C,H,N,O",replicated 2x in C direction
+22141N2,SI,TAPB-TFPB-PA-COF,"C,H,N,O",replicated 2x in C direction
+22142N2,SI,TAPB-TP-PA-COF,"C,H,N,O",replicated 2x in C direction
+22143N2,SI,TAPT-TFPB-PA-COF,"C,H,N,O",replicated 2x in C direction
+22144N2,SI,TAPT-TP-PA-COF,"C,H,N,O",replicated 2x in C direction
+22150N2,SI,CZ-DHZ-COF,"C,H,N,O",replicated 2x in C direction
+22160N2,SI,COF-TAPA-BTPA,"C,H,N",replicated 2x in C direction
+22170N2,SI,N-TAPB-MeTA,"C,H,N",replicated 2x in C direction
+22171N2,SI,N-TAPB-OMeTA,"C,H,N,O",replicated 2x in C direction
+22172N2,SI,TAPB-MeTA,"C,H,N",replicated 2x in C direction
+22180N2,SI,F-TBT-COF,"C,H,F,N",replicated 2x in C direction
+22181N2,SI,TBT-COF,"C,H,N",replicated 2x in C direction
+22182N2,SI,MeO-TBT-COF,"C,H,N,O",replicated 2x in C direction
+22190N2,SI,Sb-COF,"C,N,Sb",replicated 2x in C direction
+22200N2,SI,TJU-1,"C,H,N,O",replicated 2x in C direction
+22210N2,SI,TpPTO-COF,"C,H,N,O",replicated 2x in C direction
+22220N2,SI,TDCOF-1-A,"C,H,N,O",replicated 2x in C direction
+22221N2,SI,TDCOF-1-S,"C,H,N,O",replicated 2x in C direction
+22222N2,SI,TDCOF-2,"C,H,N",replicated 2x in C direction
+22223N2,SI,TDCOF-3-S,"C,H,N,O",replicated 2x in C direction
+22230N2,SI,BT-CzBuOH-COF,"C,H,N,S",replicated 2x in C direction
+22231N2,SI,BT-CzEtOH-COF,"C,H,N,S",replicated 2x in C direction
+22232N2,SI,BT-PyBuOH-COF,"C,H,N,S",replicated 2x in C direction
+22233N2,SI,BT-PyEtOH-COF,"C,H,N,S",replicated 2x in C direction
+22240N3,SI,NKCOF-21,"C,H,N",none
+22241N3,SI,NKCOF-22,"C,H,N",none
+22242N3,SI,NKCOF-23,"C,H,N",none
+22250N3,SI,NUST-5,"C,H,N",none
+22251N3,SI,NUST-6,"C,H,N",none
+22260N2,SI,JLNU-301,"C,H,N,S",replicated 2x in C direction
+22261N2,SI,JLNU-302,"C,H,N,S",replicated 2x in C direction
+22270N2,SI,LZU-600,"C,H,N,O",replicated 2x in C direction
+22271N2,SI,LZU-601,"C,H,N,O",replicated 2x in C direction
+22272N2,SI,LZU-602,"C,H,N,O",replicated 2x in C direction
+22273N2,SI,LZU-603,"C,H,N,O",replicated 2x in C direction
+22280N2,SI,TGDM,"C,H,Cl,N,O",replicated 2x in C direction
+22290N2,SI,(R)-DTP-COF-QA,"C,H,N,O",replicated 2x in C direction
+22291N2,SI,(S)-DTP-COF-QA,"C,H,N,O",replicated 2x in C direction
+22292N2,SI,Kan_(R)-DTP-COF,"C,H,N,O",replicated 2x in C direction
+22300N2,SI,PETZ-COF,"C,H,N,S",replicated 2x in C direction
+22301N2,SI,PEBP-COF,"C,H,N",replicated 2x in C direction
+22310N2,SI,TPB-TFB-COF,"C,H,N",replicated 2x in C direction
+22320N2,SI,PFPP-COF-1a,"C,H,N",replicated 2x in C direction
+22321N2,SI,PFPP-COF-1b,"C,H,N",replicated 2x in C direction
+22322N2,SI,PFPP-COF-2,"C,H,N",replicated 2x in C direction
+22330N2,SI,TRITER-2,"C,H,N",replicated 2x in C direction
+22340N2,SI,Cu-Salphen-COF,"C,H,Cu,N,O",replicated 2x in C direction
+22341N2,SI,Zn-Salphen-COF,"C,H,N,O,Zn",replicated 2x in C direction
+22342N2,SI,Yang_Ni-Salphen-COF,"C,H,N,Ni,O",replicated 2x in C direction
+22350N2,SI,ETTA-Td COF,"C,H,N,S",replicated 2x in C direction
+22351N2,SI,ETTA-Tz COF,"C,H,N,S",replicated 2x in C direction
+22360N2,SI,Ni-TAP,"C,H,N,Ni,S",replicated 2x in C direction
+22361N2,SI,Ni-TAA,"C,H,N,Ni,S",replicated 2x in C direction
+22370N2,SI,AnPD-COF,"C,H,N",replicated 2x in C direction
+22380N2,SI,DUT-177,"C,H,N,S",replicated 2x in C direction
+22390N2,SI,NCOF-1,"C,H,O",replicated 2x in C direction
+22410N2,SI,BTEA-COF,"C,H,N",replicated 2x in C direction
+22411N2,SI,EBA-COF,"C,H,N",replicated 2x in C direction
+22420N2,SI,Gao_PT-COF,"C,H,N,O",replicated 2x in C direction
+22430N2,SI,COF-FD1,"C,H,N",replicated 2x in C direction
+22440N2,SI,RE-COF-1,"C,H,N,O",replicated 2x in C direction
+22441N2,SI,RE-COF-2,"C,H,N,O",replicated 2x in C direction
+22450N2,SI,sonoCOF-A3,"C,H,N,O",replicated 2x in C direction
+224510N2,SI,sonoCOF-C2,"C,H,N,O",replicated 2x in C direction
+224511N2,SI,sonoCOF-C3,"C,H,N,O",replicated 2x in C direction
+224512N2,SI,sonoCOF-D1,"C,H,F,N",replicated 2x in C direction
+224513N2,SI,sonoCOF-D2,"C,H,F,N",replicated 2x in C direction
+224514N2,SI,sonoCOF-D3,"C,H,F,N",replicated 2x in C direction
+224515N2,SI,sonoCOF-E1,"C,H,N",replicated 2x in C direction
+224516N2,SI,sonoCOF-E2,"C,H,N",replicated 2x in C direction
+224517N2,SI,sonoCOF-E3,"C,H,N",replicated 2x in C direction
+224518N2,SI,sonoCOF-E11,"C,H,N",replicated 2x in C direction
+224519N2,SI,sonoCOF-F3,"C,H,N",replicated 2x in C direction
+22451N2,SI,sonoCOF-A4,"C,H,N",replicated 2x in C direction
+224520N2,SI,sonoCOF-F5,"C,H,N",replicated 2x in C direction
+224521N2,SI,sonoCOF-F6,"C,H,N",replicated 2x in C direction
+224522N2,SI,sonoCOF-F7,"C,H,N",replicated 2x in C direction
+224523N2,SI,sonoCOF-F8,"C,H,N",replicated 2x in C direction
+224524N2,SI,sonoCOF-F11,"C,H,N",replicated 2x in C direction
+224525N2,SI,sonoCOF-G2,"C,H,N",replicated 2x in C direction
+224526N2,SI,sonoCOF-G3,"C,H,N",replicated 2x in C direction
+224527N2,SI,sonoCOF-G6,"C,H,N",replicated 2x in C direction
+224528N2,SI,sonoCOF-G7,"C,H,N",replicated 2x in C direction
+224529N2,SI,sonoCOF-G8,"C,H,N",replicated 2x in C direction
+22452N2,SI,sonoCOF-A7,"C,H,N,O",replicated 2x in C direction
+224530N2,SI,sonoCOF-G11,"C,H,N",replicated 2x in C direction
+224531N2,SI,sonoCOF-H1,"C,H,N",replicated 2x in C direction
+224532N2,SI,sonoCOF-H3,"C,H,N",replicated 2x in C direction
+224533N2,SI,sonoCOF-H7,"C,H,N",replicated 2x in C direction
+224534N2,SI,sonoCOF-I1,"C,H,N,O",replicated 2x in C direction
+224535N2,SI,sonoCOF-I2,"C,H,N,O",replicated 2x in C direction
+224536N2,SI,sonoCOF-I5,"C,H,N,O",replicated 2x in C direction
+224537N2,SI,sonoCOF-I6,"C,H,N,O",replicated 2x in C direction
+224538N2,SI,sonoCOF-I8,"C,H,N,O",replicated 2x in C direction
+224539N2,SI,sonoCOF-I9,"C,H,N,O",replicated 2x in C direction
+22453N2,SI,sonoCOF-A11,"C,H,N,O",replicated 2x in C direction
+224540N2,SI,sonoCOF-I10,"C,H,N,O",replicated 2x in C direction
+224541N2,SI,sonoCOF-J1,"C,H,N",replicated 2x in C direction
+224542N2,SI,sonoCOF-J2,"C,H,N",replicated 2x in C direction
+224543N2,SI,sonoCOF-J3,"C,H,N",replicated 2x in C direction
+224544N2,SI,sonoCOF-J4,"C,H,N",replicated 2x in C direction
+224545N2,SI,sonoCOF-J11,"C,H,N",replicated 2x in C direction
+224546N2,SI,sonoCOF-K1,"C,H,N",replicated 2x in C direction
+224547N2,SI,sonoCOF-K2,"C,H,N",replicated 2x in C direction
+224548N2,SI,sonoCOF-K3,"C,H,N",replicated 2x in C direction
+224549N2,SI,sonoCOF-K4,"C,H,N",replicated 2x in C direction
+22454N2,SI,SonoCOF-B1,"C,H,N",replicated 2x in C direction
+224550N2,SI,sonoCOF-K11,"C,H,N",replicated 2x in C direction
+22455N2,SI,sonoCOF-B2,"C,H,N",replicated 2x in C direction
+22456N2,SI,sonoCOF-B4,"C,H,N",replicated 2x in C direction
+22457N2,SI,sonoCOF-B7,"C,H,N",replicated 2x in C direction
+22458N2,SI,sonoCOF-B11,"C,H,N",replicated 2x in C direction
+22459N2,SI,sonoCOF-C1,"C,H,N,O",replicated 2x in C direction
+22460N3,SI,3D-COF-PEG2,"C,H,N,O",none
+22470N2,SI,DTP-TF-COF,"C,N,O",replicated 2x in C direction
+22480N2,SI,TAPP-BDP,"C,H,B,Cl,F,N",replicated 2x in C direction
+22490N2,SI,Kagome_PER_PDA-COF-1,"C,H,N",replicated 2x in C direction
+22491N2,SI,Rhombus_PER_PDA-COF-1,"C,H,N",replicated 2x in C direction
+22500N2,SI,TAPA-PCBA,"C,H,N",replicated 2x in C direction
+22510N2,SI,Hydrazone-MTH-TFPB COF,"C,H,N,O",replicated 2x in C direction
+22520N2,SI,NKCOF-118(H),"C,N,O",replicated 2x in C direction
+22530N2,SI,COF-609-Im,"C,H,N,O",replicated 2x in C direction
+22531N2,SI,COF-609-THQ,"C,H,Cl,N,O",replicated 2x in C direction
+22532N2,SI,COF-609,"C,H,N,O",replicated 2x in C direction
+22540N2,SI,Fe-COFTAPB-BPA,"C,H,F,Fe,N,O,S",replicated 2x in C direction
+22541N2,SI,Fe-COFTAPB-PDA,"C,H,F,Fe,N,O,S",replicated 2x in C direction
+22542N2,SI,Fe-COFTTA-BPA,"C,H,F,Fe,N,O,S",replicated 2x in C direction
+22543N2,SI,Fe-COFTTA-PDA,"C,H,F,Fe,N,O,S",replicated 2x in C direction
+22550N2,SI,PTz-BTA-COF,"C,H,N,S",replicated 2x in C direction
+22551N2,SI,PTz-Py-COF,"C,H,N,S",replicated 2x in C direction
+22552N2,SI,PTz-TPB-COF,"C,H,N,S",replicated 2x in C direction
