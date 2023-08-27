@@ -827,6 +827,10 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 22441N2,SI,RE-COF-2,"C,H,N,O",replicated 2x in C direction
 22450N2,SI,sonoCOF-A3,"C,H,N,O",replicated 2x in C direction
 22451N2,SI,sonoCOF-D1,"C,H,F,N",replicated 2x in C direction
+22452N2,SI,sonoCOF-A7,"C,H,N,O",replicated 2x in C direction
+22453N2,SI,sonoCOF-A11,"C,H,N,O",replicated 2x in C direction
+22457N2,SI,sonoCOF-B7,"C,H,N",replicated 2x in C direction
+22458N2,SI,sonoCOF-B11,"C,H,N",replicated 2x in C direction
 2245aN2,SI,sonoCOF-D2,"C,H,F,N",replicated 2x in C direction
 2245bN2,SI,sonoCOF-D3,"C,H,F,N",replicated 2x in C direction
 2245cN2,SI,sonoCOF-E3,"C,H,N",replicated 2x in C direction
@@ -837,11 +841,9 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 2245hN2,SI,sonoCOF-G3,"C,H,N",replicated 2x in C direction
 2245iN2,SI,sonoCOF-G6,"C,H,N",replicated 2x in C direction
 2245jN2,SI,sonoCOF-G7,"C,H,N",replicated 2x in C direction
-22452N2,SI,sonoCOF-A7,"C,H,N,O",replicated 2x in C direction
 2245kN2,SI,sonoCOF-G11,"C,H,N",replicated 2x in C direction
 2245lN2,SI,sonoCOF-H1,"C,H,N",replicated 2x in C direction
 2245mN2,SI,sonoCOF-H3,"C,H,N",replicated 2x in C direction
-22453N2,SI,sonoCOF-A11,"C,H,N,O",replicated 2x in C direction
 2245nN2,SI,sonoCOF-I10,"C,H,N,O",replicated 2x in C direction
 2245oN2,SI,sonoCOF-J1,"C,H,N",replicated 2x in C direction
 2245pN2,SI,sonoCOF-J2,"C,H,N",replicated 2x in C direction
@@ -853,8 +855,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 2245vN2,SI,sonoCOF-K3,"C,H,N",replicated 2x in C direction
 2245wN2,SI,sonoCOF-K4,"C,H,N",replicated 2x in C direction
 2245xN2,SI,sonoCOF-K11,"C,H,N",replicated 2x in C direction
-22457N2,SI,sonoCOF-B7,"C,H,N",replicated 2x in C direction
-22458N2,SI,sonoCOF-B11,"C,H,N",replicated 2x in C direction
 22460N3,SI,3D-COF-PEG2,"C,H,N,O",none
 22470N2,SI,DTP-TF-COF,"C,N,O",replicated 2x in C direction
 22480N2,SI,TAPP-BDP,"C,H,B,Cl,F,N",replicated 2x in C direction
