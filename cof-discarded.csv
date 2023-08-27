@@ -74,6 +74,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 20230N2,SI,BCzP-COF,"C,H,N",replicated 2x in C direction,duplicate of 20280N2
 20330N2,SI,TAPB-PDA,"C,H,N",replicated 2x in C direction,duplicate of 19360N2
 20641N2,SI,COF-C3-CHO,"C,H,N",replicated 2x in C direction,duplicate of 15163N2
+20690N2,SI,NTU-BDA-THTA,"C,H,N,O",replicated 2x in C direction,duplicate of 12000N2
 21001N2,SI,BrCOF-2 AA,"C,H,Br,N","replicated 2x in C direction, add missing H on Br-benzene",duplicate of 20130N2
 21083N2,SI,PID-AA,"C,H,N,O",replicated 2x in C direction,duplicate of 20600N2
 21102N2,SI,NKCOF-110,"C,H,N,S",replicated 2x in C direction,duplicate of 16173N2
@@ -87,7 +88,18 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 21631N2,SI,TpAzo-COF,"C,H,N,O",replicated 2x in C direction,duplicate of 14090N2
 21632N2,SI,TpAnq-COF,"C,H,N,O",replicated 2x in C direction,duplicate of 13050N2
 21633N2,SI,TpTab-COF,"C,H,N,O",replicated 2x in C direction,duplicate of 15162N2
+21810N2,SI,P-COF,"C,H,N",replicated 2x in C direction,duplicate of 15040N2
 21850N2,SI,C2DP,"C,H,B,F,N",replicated 2x in C direction,disorder
+22102N2,SI,Am-COF-ETTA-TPA,"C,H,N,O",replicated 2x in C direction,duplicate of 16140N2
+22107N2,SI,Im-COF-ETTA-TPA,"C,H,N",replicated 2x in C direction,duplicate of 14020N2
+22109N2,SI,Im-COF-TFPPy-PDA,"C,H,N",replicated 2x in C direction,duplicate of 13100N2
 22161N2,SI,COF-TAPB-BTPA,"C,H,N",replicated 2x in C direction,wrong N-C atomic distance
 22162N2,SI,COF-TTA-BTPA,"C,H,N",replicated 2x in C direction,wrong N-C atomic distance
+22260N2,SI,JLNU-301,"C,H,N,S",replicated 2x in C direction,duplicate of 19413N2
+22261N2,SI,JLNU-302,"C,H,N,S",replicated 2x in C direction,duplicate of 21600N2
+22301N2,SI,PEBP-COF,"C,H,N",replicated 2x in C direction,duplicate of 16271N2
+22310N2,SI,TPB-TFB-COF,"C,H,N",replicated 2x in C direction,duplicate of 15040N2
+22330N2,SI,TRITER-2,"C,H,N",replicated 2x in C direction,duplicate of 20320N2
+22351N2,SI,ETTA-Tz COF,"C,H,N,S",replicated 2x in C direction,duplicate of 22300N2
 22400N2,SI,CPTPA-COF,"C,H,N,O,P",replicated 2x in C direction,disorder
+22410N2,SI,BTEA-COF,"C,H,N",replicated 2x in C direction,duplicate of 22181N2

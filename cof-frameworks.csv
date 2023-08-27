@@ -582,7 +582,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 20671N2,SI,BFTB-BFTB COF,"C,H,N",replicated 2x in C direction
 20672N2,SI,BFTB-BCTA COF,"C,H,N",replicated 2x in C direction
 20680N2,SI,NUS-55,"C,H,N,O",replicated 2x in C direction
-20690N2,SI,NTU-BDA-THTA,"C,H,N,O",replicated 2x in C direction
 20700N2,SI,g-C52N6-COF,"C,N",replicated 2x in C direction
 20701N2,SI,g-C54N6-COF,"C,N",replicated 2x in C direction
 21000N2,SI,BrCOF-1 AA,"C,H,Br,N",replicated 2x in C direction
@@ -730,7 +729,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 21781N2,SI,RICE-2,"C,N",replicated 2x in C direction
 21790N3,SI,3d-hea-COF,"C,H,N",none
 21800N2,SI,DA-TD COF,"C,H,N,O",replicated 2x in C direction
-21810N2,SI,P-COF,"C,H,N",replicated 2x in C direction
 21811N2,SI,T-COF,"C,H,N",replicated 2x in C direction
 21820N2,SI,COF2OMe,"C,N,O",replicated 2x in C direction
 21821N2,SI,COF15C5,"C,N,O",replicated 2x in C direction
@@ -762,14 +760,11 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 221012N2,SI,Am-COF-TFPPy-BD,"C,H,N,O",replicated 2x in C direction
 221013N2,SI,Im-COF-TFPPy-BD,"C,H,N",replicated 2x in C direction
 22101N2,SI,Am-COF-BTCA-TATTA,"C,H,N,O",replicated 2x in C direction
-22102N2,SI,Am-COF-ETTA-TPA,"C,H,N,O",replicated 2x in C direction
 22103N2,SI,Am-COF-QPTA-PDA,"C,H,N,O",replicated 2x in C direction
 22104N2,SI,Am-COF-TFPPy-PDA,"C,H,N,O",replicated 2x in C direction
 22105N2,SI,Im-COF-BFTPD-MDA,"C,H,N",replicated 2x in C direction
 22106N2,SI,Im-COF-BTCA-TATTA,"C,H,N",replicated 2x in C direction
-22107N2,SI,Im-COF-ETTA-TPA,"C,H,N",replicated 2x in C direction
 22108N2,SI,Im-COF-QPTA-PDA,"C,H,N",replicated 2x in C direction
-22109N2,SI,Im-COF-TFPPy-PDA,"C,H,N",replicated 2x in C direction
 22110N2,SI,TCOF,"C,H,N,O,S",replicated 2x in C direction
 22120N2,SI,(R)-NHC-Au-SA-COF,"C,H,Au,Cl,N",replicated 2x in C direction
 22121N2,SI,(S)-NHC-Au-SA-COF,"C,H,Au,Cl,N",replicated 2x in C direction
@@ -804,8 +799,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 22242N3,SI,NKCOF-23,"C,H,N",none
 22250N3,SI,NUST-5,"C,H,N",none
 22251N3,SI,NUST-6,"C,H,N",none
-22260N2,SI,JLNU-301,"C,H,N,S",replicated 2x in C direction
-22261N2,SI,JLNU-302,"C,H,N,S",replicated 2x in C direction
 22270N2,SI,LZU-600,"C,H,N,O",replicated 2x in C direction
 22271N2,SI,LZU-601,"C,H,N,O",replicated 2x in C direction
 22272N2,SI,LZU-602,"C,H,N,O",replicated 2x in C direction
@@ -815,79 +808,53 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 22291N2,SI,(S)-DTP-COF-QA,"C,H,N,O",replicated 2x in C direction
 22292N2,SI,Kan_(R)-DTP-COF,"C,H,N,O",replicated 2x in C direction
 22300N2,SI,PETZ-COF,"C,H,N,S",replicated 2x in C direction
-22301N2,SI,PEBP-COF,"C,H,N",replicated 2x in C direction
-22310N2,SI,TPB-TFB-COF,"C,H,N",replicated 2x in C direction
 22320N2,SI,PFPP-COF-1a,"C,H,N",replicated 2x in C direction
 22321N2,SI,PFPP-COF-1b,"C,H,N",replicated 2x in C direction
 22322N2,SI,PFPP-COF-2,"C,H,N",replicated 2x in C direction
-22330N2,SI,TRITER-2,"C,H,N",replicated 2x in C direction
 22340N2,SI,Cu-Salphen-COF,"C,H,Cu,N,O",replicated 2x in C direction
 22341N2,SI,Zn-Salphen-COF,"C,H,N,O,Zn",replicated 2x in C direction
 22342N2,SI,Yang_Ni-Salphen-COF,"C,H,N,Ni,O",replicated 2x in C direction
 22350N2,SI,ETTA-Td COF,"C,H,N,S",replicated 2x in C direction
-22351N2,SI,ETTA-Tz COF,"C,H,N,S",replicated 2x in C direction
 22360N2,SI,Ni-TAP,"C,H,N,Ni,S",replicated 2x in C direction
 22361N2,SI,Ni-TAA,"C,H,N,Ni,S",replicated 2x in C direction
 22370N2,SI,AnPD-COF,"C,H,N",replicated 2x in C direction
 22380N2,SI,DUT-177,"C,H,N,S",replicated 2x in C direction
 22390N2,SI,NCOF-1,"C,H,O",replicated 2x in C direction
-22410N2,SI,BTEA-COF,"C,H,N",replicated 2x in C direction
 22411N2,SI,EBA-COF,"C,H,N",replicated 2x in C direction
 22420N2,SI,Gao_PT-COF,"C,H,N,O",replicated 2x in C direction
 22430N2,SI,COF-FD1,"C,H,N",replicated 2x in C direction
 22440N2,SI,RE-COF-1,"C,H,N,O",replicated 2x in C direction
 22441N2,SI,RE-COF-2,"C,H,N,O",replicated 2x in C direction
 22450N2,SI,sonoCOF-A3,"C,H,N,O",replicated 2x in C direction
-224510N2,SI,sonoCOF-C2,"C,H,N,O",replicated 2x in C direction
-224511N2,SI,sonoCOF-C3,"C,H,N,O",replicated 2x in C direction
-224512N2,SI,sonoCOF-D1,"C,H,F,N",replicated 2x in C direction
-224513N2,SI,sonoCOF-D2,"C,H,F,N",replicated 2x in C direction
-224514N2,SI,sonoCOF-D3,"C,H,F,N",replicated 2x in C direction
-224515N2,SI,sonoCOF-E1,"C,H,N",replicated 2x in C direction
-224516N2,SI,sonoCOF-E2,"C,H,N",replicated 2x in C direction
-224517N2,SI,sonoCOF-E3,"C,H,N",replicated 2x in C direction
-224518N2,SI,sonoCOF-E11,"C,H,N",replicated 2x in C direction
-224519N2,SI,sonoCOF-F3,"C,H,N",replicated 2x in C direction
-22451N2,SI,sonoCOF-A4,"C,H,N",replicated 2x in C direction
-224520N2,SI,sonoCOF-F5,"C,H,N",replicated 2x in C direction
-224521N2,SI,sonoCOF-F6,"C,H,N",replicated 2x in C direction
-224522N2,SI,sonoCOF-F7,"C,H,N",replicated 2x in C direction
-224523N2,SI,sonoCOF-F8,"C,H,N",replicated 2x in C direction
-224524N2,SI,sonoCOF-F11,"C,H,N",replicated 2x in C direction
-224525N2,SI,sonoCOF-G2,"C,H,N",replicated 2x in C direction
-224526N2,SI,sonoCOF-G3,"C,H,N",replicated 2x in C direction
-224527N2,SI,sonoCOF-G6,"C,H,N",replicated 2x in C direction
-224528N2,SI,sonoCOF-G7,"C,H,N",replicated 2x in C direction
-224529N2,SI,sonoCOF-G8,"C,H,N",replicated 2x in C direction
+22451N2,SI,sonoCOF-D1,"C,H,F,N",replicated 2x in C direction
 22452N2,SI,sonoCOF-A7,"C,H,N,O",replicated 2x in C direction
-224530N2,SI,sonoCOF-G11,"C,H,N",replicated 2x in C direction
-224531N2,SI,sonoCOF-H1,"C,H,N",replicated 2x in C direction
-224532N2,SI,sonoCOF-H3,"C,H,N",replicated 2x in C direction
-224533N2,SI,sonoCOF-H7,"C,H,N",replicated 2x in C direction
-224534N2,SI,sonoCOF-I1,"C,H,N,O",replicated 2x in C direction
-224535N2,SI,sonoCOF-I2,"C,H,N,O",replicated 2x in C direction
-224536N2,SI,sonoCOF-I5,"C,H,N,O",replicated 2x in C direction
-224537N2,SI,sonoCOF-I6,"C,H,N,O",replicated 2x in C direction
-224538N2,SI,sonoCOF-I8,"C,H,N,O",replicated 2x in C direction
-224539N2,SI,sonoCOF-I9,"C,H,N,O",replicated 2x in C direction
 22453N2,SI,sonoCOF-A11,"C,H,N,O",replicated 2x in C direction
-224540N2,SI,sonoCOF-I10,"C,H,N,O",replicated 2x in C direction
-224541N2,SI,sonoCOF-J1,"C,H,N",replicated 2x in C direction
-224542N2,SI,sonoCOF-J2,"C,H,N",replicated 2x in C direction
-224543N2,SI,sonoCOF-J3,"C,H,N",replicated 2x in C direction
-224544N2,SI,sonoCOF-J4,"C,H,N",replicated 2x in C direction
-224545N2,SI,sonoCOF-J11,"C,H,N",replicated 2x in C direction
-224546N2,SI,sonoCOF-K1,"C,H,N",replicated 2x in C direction
-224547N2,SI,sonoCOF-K2,"C,H,N",replicated 2x in C direction
-224548N2,SI,sonoCOF-K3,"C,H,N",replicated 2x in C direction
-224549N2,SI,sonoCOF-K4,"C,H,N",replicated 2x in C direction
-22454N2,SI,SonoCOF-B1,"C,H,N",replicated 2x in C direction
-224550N2,SI,sonoCOF-K11,"C,H,N",replicated 2x in C direction
-22455N2,SI,sonoCOF-B2,"C,H,N",replicated 2x in C direction
-22456N2,SI,sonoCOF-B4,"C,H,N",replicated 2x in C direction
 22457N2,SI,sonoCOF-B7,"C,H,N",replicated 2x in C direction
 22458N2,SI,sonoCOF-B11,"C,H,N",replicated 2x in C direction
-22459N2,SI,sonoCOF-C1,"C,H,N,O",replicated 2x in C direction
+2245aN2,SI,sonoCOF-D2,"C,H,F,N",replicated 2x in C direction
+2245bN2,SI,sonoCOF-D3,"C,H,F,N",replicated 2x in C direction
+2245cN2,SI,sonoCOF-E3,"C,H,N",replicated 2x in C direction
+2245dN2,SI,sonoCOF-E11,"C,H,N",replicated 2x in C direction
+2245eN2,SI,sonoCOF-F3,"C,H,N",replicated 2x in C direction
+2245fN2,SI,sonoCOF-F7,"C,H,N",replicated 2x in C direction
+2245gN2,SI,sonoCOF-F11,"C,H,N",replicated 2x in C direction
+2245hN2,SI,sonoCOF-G3,"C,H,N",replicated 2x in C direction
+2245iN2,SI,sonoCOF-G6,"C,H,N",replicated 2x in C direction
+2245jN2,SI,sonoCOF-G7,"C,H,N",replicated 2x in C direction
+2245kN2,SI,sonoCOF-G11,"C,H,N",replicated 2x in C direction
+2245lN2,SI,sonoCOF-H1,"C,H,N",replicated 2x in C direction
+2245mN2,SI,sonoCOF-H3,"C,H,N",replicated 2x in C direction
+2245nN2,SI,sonoCOF-I10,"C,H,N,O",replicated 2x in C direction
+2245oN2,SI,sonoCOF-J1,"C,H,N",replicated 2x in C direction
+2245pN2,SI,sonoCOF-J2,"C,H,N",replicated 2x in C direction
+2245qN2,SI,sonoCOF-J3,"C,H,N",replicated 2x in C direction
+2245rN2,SI,sonoCOF-J4,"C,H,N",replicated 2x in C direction
+2245sN2,SI,sonoCOF-J11,"C,H,N",replicated 2x in C direction
+2245tN2,SI,sonoCOF-K1,"C,H,N",replicated 2x in C direction
+2245uN2,SI,sonoCOF-K2,"C,H,N",replicated 2x in C direction
+2245vN2,SI,sonoCOF-K3,"C,H,N",replicated 2x in C direction
+2245wN2,SI,sonoCOF-K4,"C,H,N",replicated 2x in C direction
+2245xN2,SI,sonoCOF-K11,"C,H,N",replicated 2x in C direction
 22460N3,SI,3D-COF-PEG2,"C,H,N,O",none
 22470N2,SI,DTP-TF-COF,"C,N,O",replicated 2x in C direction
 22480N2,SI,TAPP-BDP,"C,H,B,Cl,F,N",replicated 2x in C direction
