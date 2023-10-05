@@ -188,6 +188,7 @@ def overlapping_atoms(cifs):
 
 UNIQUE_EXCEPTIONS = [ # Exceptions manually found, to fix later
     {'13073N2','13070N2'}, #different orientation of functional group
+    {'16130N3','16132N3'}, #metalation
     {'16242C2','16241C2'}, #different cation
     {'16251N3','16250N3'}, #interpenetration
     {'16332N3','15200N3'}, #interpenetration
