@@ -83,6 +83,8 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 13182N3,"CSD, 932383",NPN-3,"H,C,N,O",none
 13190N2,SI,CTV-COF-1,"C,H,N,O","several modifications, replicated 2x in C direction"
 13191N2,SI,CTV-COF-2,"C,H,N,O","several modifications, replicated 2x in C direction"
+13200N2,SI,"MCOF-1_diac4","C,B,O","replicated 2x in C direction"
+13201N2,SI,"MCOF-1_diac5","C,B,O","replicated 2x in C direction"
 14000N2,"tong-v2, 014",ACOF-1,"H,C,N",replicated 2x in C direction
 14010N2,"tong-v2, 271",TTF-Py-COF,"H,C,N,S",replicated 2x in C direction
 14020N2,"tong-v2, 058",COF AA-H,"H,C,N",replicated 2x in C direction
@@ -177,6 +179,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 16120N2,"tong-v2, 259",TpPa-Py,"H,C,N,O","aligned to xy plane, replicated 2x in C direction"
 16121N2,"tong-v2, 260",TpPa-SO3H-Py,"H,C,N,O,S","aligned to xy plane, replicated 2x in C direction"
 16130N3,"tong-v2, 155",Ni-DBA-3D-COF-bor,"H,B,C,O,Ni",none
+16132N3,"tong-v2, 155",DBA-3D-COF-bor,"H,B,C,O",none
 16140N2,"tong-v2, 008",4PE-1P-oxi,"H,C,N,O","H added on N, replicated 2x in C direction"
 16141N2,"tong-v2, 241",TPB-TP-COF-oxi,"H,C,N,O",replicated 2x in C direction
 16142N2,"tong-v2, 242",TPB-TP-COF,"H,C,N",replicated 2x in C direction
@@ -275,6 +278,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 17230N2,"tong-v2, 211",SIOC-COF-7,"H,C,N",replicated 2x in C direction
 17240N3,SI,COF-V_corr,"C,H,N","corrected O atoms with C, added H, replicated 2x in C direction"
 17250N2,Priv. Comm.,PTP-COF,"C,H,N",replicated 2x in C direction
+17260N2,SI,"Dong_N-COF","C,H,N","replicated 2x in C direction"
 18000C3,SI,Si-COF-5-air,"H,C,O,Na,Si",none
 18001C3,SI,Si-COF-5,"H,C,O,Na,Si",none
 18010N3,SI,CCOF-5,"H,C,N,O",none
@@ -873,3 +877,5 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 22550N2,SI,PTz-BTA-COF,"C,H,N,S",replicated 2x in C direction
 22551N2,SI,PTz-Py-COF,"C,H,N,S",replicated 2x in C direction
 22552N2,SI,PTz-TPB-COF,"C,H,N,S",replicated 2x in C direction
+23000N2,SI,"KUF-2","C,H,N","replicated 2x in C direction"
+23001N2,SI,"KUF-3","C,H,N","replicated 2x in C direction"
