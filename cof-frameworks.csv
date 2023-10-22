@@ -751,7 +751,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 22031N2,SI,NiPc-NH-CuPcF8,"C,H,CuF,N,Ni",replicated 2x in C direction
 22040N2,SI,DHP-COF,"C,H,N",replicated 2x in C direction
 22041N2,SI,c-HBC-COF,"C,H,N",replicated 2x in C direction
-22050N2,SI,Co-PI-COF,"C,H,N,O",replicated 2x in C direction
+22050N2,SI,PI-COF-Skorjanc,"C,H,N,O",replicated 2x in C direction
 22060N2,SI,HEP-TAPT-COF,"C,H,N",replicated 2x in C direction
 22061N2,SI,HEP-TAPB-COF,"C,H,N",replicated 2x in C direction
 22070N2,SI,COF-Im,"C,H,N,O",replicated 2x in C direction
@@ -770,8 +770,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 22106N2,SI,Im-COF-BTCA-TATTA,"C,H,N",replicated 2x in C direction
 22108N2,SI,Im-COF-QPTA-PDA,"C,H,N",replicated 2x in C direction
 22110N2,SI,TCOF,"C,H,N,O,S",replicated 2x in C direction
-22120N2,SI,(R)-NHC-Au-SA-COF,"C,H,Au,Cl,N",replicated 2x in C direction
-22121N2,SI,(S)-NHC-Au-SA-COF,"C,H,Au,Cl,N",replicated 2x in C direction
 22130N2,SI,COF-38,"C,H,N",replicated 2x in C direction
 22131N2,SI,COF-39,"C,H,N",replicated 2x in C direction
 22140N2,SI,TAPB-DMTP-PA-COF,"C,H,N,O",replicated 2x in C direction
@@ -789,7 +787,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 22182N2,SI,MeO-TBT-COF,"C,H,N,O",replicated 2x in C direction
 22190N2,SI,Sb-COF,"C,N,Sb",replicated 2x in C direction
 22200N2,SI,TJU-1,"C,H,N,O",replicated 2x in C direction
-22210N2,SI,TpPTO-COF,"C,H,N,O",replicated 2x in C direction
 22220N2,SI,TDCOF-1-A,"C,H,N,O",replicated 2x in C direction
 22221N2,SI,TDCOF-1-S,"C,H,N,O",replicated 2x in C direction
 22222N2,SI,TDCOF-2,"C,H,N",replicated 2x in C direction
@@ -797,7 +794,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 22230N2,SI,BT-CzBuOH-COF,"C,H,N,S",replicated 2x in C direction
 22231N2,SI,BT-CzEtOH-COF,"C,H,N,S",replicated 2x in C direction
 22232N2,SI,BT-PyBuOH-COF,"C,H,N,S",replicated 2x in C direction
-22233N2,SI,BT-PyEtOH-COF,"C,H,N,S",replicated 2x in C direction
 22240N3,SI,NKCOF-21,"C,H,N",none
 22241N3,SI,NKCOF-22,"C,H,N",none
 22242N3,SI,NKCOF-23,"C,H,N",none
@@ -831,7 +827,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 22441N2,SI,RE-COF-2,"C,H,N,O",replicated 2x in C direction
 22450N2,SI,sonoCOF-A3,"C,H,N,O",replicated 2x in C direction
 22451N2,SI,sonoCOF-D1,"C,H,F,N",replicated 2x in C direction
-22452N2,SI,sonoCOF-A7,"C,H,N,O",replicated 2x in C direction
 22453N2,SI,sonoCOF-A11,"C,H,N,O",replicated 2x in C direction
 22457N2,SI,sonoCOF-B7,"C,H,N",replicated 2x in C direction
 22458N2,SI,sonoCOF-B11,"C,H,N",replicated 2x in C direction
@@ -848,7 +843,6 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 2245kN2,SI,sonoCOF-G11,"C,H,N",replicated 2x in C direction
 2245lN2,SI,sonoCOF-H1,"C,H,N",replicated 2x in C direction
 2245mN2,SI,sonoCOF-H3,"C,H,N",replicated 2x in C direction
-2245nN2,SI,sonoCOF-I10,"C,H,N,O",replicated 2x in C direction
 2245oN2,SI,sonoCOF-J1,"C,H,N",replicated 2x in C direction
 2245pN2,SI,sonoCOF-J2,"C,H,N",replicated 2x in C direction
 2245qN2,SI,sonoCOF-J3,"C,H,N",replicated 2x in C direction
