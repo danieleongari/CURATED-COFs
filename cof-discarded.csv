@@ -93,8 +93,12 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 22102N2,SI,Am-COF-ETTA-TPA,"C,H,N,O",replicated 2x in C direction,duplicate of 16140N2
 22107N2,SI,Im-COF-ETTA-TPA,"C,H,N",replicated 2x in C direction,duplicate of 14020N2
 22109N2,SI,Im-COF-TFPPy-PDA,"C,H,N",replicated 2x in C direction,duplicate of 13100N2
+22120N2,SI,(R)-NHC-Au-SA-COF,"C,H,Au,Cl,N",replicated 2x in C direction,wrong atomic distances and missing atoms
+22121N2,SI,(S)-NHC-Au-SA-COF,"C,H,Au,Cl,N",replicated 2x in C direction,wrong atomic distances and missing atoms
 22161N2,SI,COF-TAPB-BTPA,"C,H,N",replicated 2x in C direction,wrong N-C atomic distance
 22162N2,SI,COF-TTA-BTPA,"C,H,N",replicated 2x in C direction,wrong N-C atomic distance
+22210N2,SI,TpPTO-COF,"C,H,N,O",replicated 2x in C direction,wrong atomic distances and missing atoms
+22233N2,SI,BT-PyEtOH-COF,"C,H,N,S",replicated 2x in C direction,wrong atomic distances
 22260N2,SI,JLNU-301,"C,H,N,S",replicated 2x in C direction,duplicate of 19413N2
 22261N2,SI,JLNU-302,"C,H,N,S",replicated 2x in C direction,duplicate of 21600N2
 22301N2,SI,PEBP-COF,"C,H,N",replicated 2x in C direction,duplicate of 16271N2
@@ -103,3 +107,5 @@ CURATED-COFs ID,Source,Name,Elements,Modifications,Reason Discarded
 22351N2,SI,ETTA-Tz COF,"C,H,N,S",replicated 2x in C direction,duplicate of 22300N2
 22400N2,SI,CPTPA-COF,"C,H,N,O,P",replicated 2x in C direction,disorder
 22410N2,SI,BTEA-COF,"C,H,N",replicated 2x in C direction,duplicate of 22181N2
+22452N2,SI,sonoCOF-A7,"C,H,N,O",replicated 2x in C direction,overlappin and floating atoms
+2245nN2,SI,sonoCOF-I10,"C,H,N,O",replicated 2x in C direction,overlapping atoms
