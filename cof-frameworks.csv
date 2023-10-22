@@ -751,7 +751,7 @@ CURATED-COFs ID,Source,Name,Elements,Modifications
 22031N2,SI,NiPc-NH-CuPcF8,"C,H,CuF,N,Ni",replicated 2x in C direction
 22040N2,SI,DHP-COF,"C,H,N",replicated 2x in C direction
 22041N2,SI,c-HBC-COF,"C,H,N",replicated 2x in C direction
-22050N2,SI,PI-COF,"C,H,N,O",replicated 2x in C direction
+22050N2,SI,PI-COF-Skorjanc,"C,H,N,O",replicated 2x in C direction
 22060N2,SI,HEP-TAPT-COF,"C,H,N",replicated 2x in C direction
 22061N2,SI,HEP-TAPB-COF,"C,H,N",replicated 2x in C direction
 22070N2,SI,COF-Im,"C,H,N,O",replicated 2x in C direction
